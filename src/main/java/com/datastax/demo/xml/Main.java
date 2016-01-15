@@ -1,4 +1,4 @@
-package com.datastax.taxi;
+package com.datastax.demo.xml;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -6,11 +6,11 @@ import java.util.Map;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.datastax.demo.utils.PropertyHelper;
 import com.datastax.demo.utils.Timer;
 import com.github.davidmoten.geo.LatLong;
 
-public class Main {
+public class Main
+{
 	private static Logger logger = LoggerFactory.getLogger(Main.class);
 	private static int TOTAL_VEHICLES = 10000;
 	private static int BATCH = 1000;
@@ -18,8 +18,8 @@ public class Main {
 
 	private VehicleDao dao;
 
-	public Main() {
-
+	public Main()
+	{
 		String contactPointsStr = PropertyHelper.getProperty("contactPoints", "localhost");
 		this.dao = new VehicleDao(contactPointsStr.split(","));
 
@@ -28,19 +28,21 @@ public class Main {
 
 		logger.info("Creating Locations");
 		createStartLocations();
-		
-		while (true) {
+
+		while (true)
+		{
 			logger.info("Updating Locations");
 			updateLocations();
 			sleep(1);
 		}
 	}
 
-	private void updateLocations() {
-
+	private void updateLocations()
+	{
 		Map<String, LatLong> newLocations = new HashMap<String, LatLong>();
 
-		for (int i = 0; i < BATCH; i++) {
+		for (int i = 0; i < BATCH; i++)
+		{
 			String random = new Double(Math.random() * TOTAL_VEHICLES).intValue() + 1 + "";
 
 			LatLong latLong = vehicleLocations.get(random);
@@ -52,10 +54,10 @@ public class Main {
 		dao.insertVehicleLocation(newLocations);
 	}
 
-	private LatLong update(LatLong latLong) {
-		
-		double lon=latLong.getLon();
-		double lat=latLong.getLat();
+	private LatLong update(LatLong latLong)
+	{
+		double lon = latLong.getLon();
+		double lat = latLong.getLat();
 
 		if (Math.random() < .1)
 			return latLong;
@@ -69,13 +71,15 @@ public class Main {
 			lat += .0001d;
 		else
 			lat -= .0001d;
-		
-		return new LatLong(lat,lon);
+
+		return new LatLong(lat, lon);
 	}
 
-	private void createStartLocations() {
+	private void createStartLocations()
+	{
 
-		for (int i = 0; i < TOTAL_VEHICLES; i++) {
+		for (int i = 0; i < TOTAL_VEHICLES; i++)
+		{
 			double lat = getRandomLat();
 			double lon = getRandomLng();
 
@@ -85,25 +89,31 @@ public class Main {
 
 	/**
 	 * Between 1 and -1
-	 * 
+	 *
 	 * @return
 	 */
-	private double getRandomLng() {
+	private double getRandomLng()
+	{
 		return (Math.random() < .5) ? Math.random() : -1 * Math.random();
 	}
 
 	/**
 	 * Between 50 and 55
 	 */
-	private double getRandomLat() {
+	private double getRandomLat()
+	{
 
 		return Math.random() * 5 + 50;
 	}
 
-	private void sleep(int seconds) {
-		try {
+	private void sleep(int seconds)
+	{
+		try
+		{
 			Thread.sleep(seconds * 1000);
-		} catch (InterruptedException e) {
+		}
+		catch (InterruptedException e)
+		{
 			e.printStackTrace();
 		}
 	}
@@ -111,7 +121,8 @@ public class Main {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		new Main();
 	}
 }

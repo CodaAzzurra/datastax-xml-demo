@@ -1,4 +1,4 @@
-package com.datastax.taxi.model;
+package com.datastax.demo.xml.model;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package com.datastax.taxi;
+package com.datastax.demo.xml;
 
 import java.util.ArrayList;
 import java.util.List;

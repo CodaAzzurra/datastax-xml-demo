@@ -1,26 +1,39 @@
-DataStax XML Demo
-========================
+# DataStax XML Demo
 
 This application demonstrates how to store searchable XML documents in DataStax Enterprise.
 
-To specify contact points use the contactPoints command line parameter e.g. '-DcontactPoints=192.168.25.100,192.168.25.101'
-The contact points can take mulitple points in the IP,IP,IP (no spaces).
- 
-To create the schema, run the following
+#### Contact Points
+
+To specify contact points use the `contactPoints` command line parameter. The value may contact multiple IPs in the format `IP,IP,IP`, without spaces. `-DcontactPoints=192.168.25.100,192.168.25.101`.
+
+#### Schema
+
+To create the schema, run:
 
 	mvn clean compile exec:java -Dexec.mainClass="com.datastax.demo.SchemaSetup" -DcontactPoints=localhost
-	
-To create the solr core, run 
+
+#### Solr Core
+
+To create the solr core, run:
 
 	dsetool create_core datastax_taxi_app.current_location reindex=true coreOptions=src/main/resources/solr/rt.yaml schema=src/main/resources/solr/geo.xml solrconfig=src/main/resources/solr/solrconfig.xml
-	
-To continuously update the locations of the vehicles run 
-	
-	mvn clean compile exec:java -Dexec.mainClass="com.datastax.taxi.Main" -DcontactPoints=localhost
-	
-To start the web server, in another terminal run 
+
+#### Sample Data
+
+To populate the database with sample data, run:
+
+	mvn clean compile exec:java -Dexec.mainClass="com.datastax.demo.xml.Populator" -DcontactPoints=localhost
+
+Thank you to the Department of Computer Sciences at the University of Wisconsin-Madison for the [XML movie data][niagara].
+
+####
+
+To start the web server, in another terminal run:
 
 	mvn jetty:run
+
+[niagara]: http://research.cs.wisc.edu/niagara/data.html "Niagara XML movie data"
+
 	
 To find all movements of a vehicle use http://localhost:8080/datastax-taxi-app/rest/getmovements/{vehicle}/{date} e.g.
 

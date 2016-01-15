@@ -1,4 +1,4 @@
-package com.datastax.taxi.webservice;
+package com.datastax.demo.xml.webservice;
 
 import java.text.SimpleDateFormat;
 import java.util.List;
@@ -14,7 +14,7 @@ import javax.ws.rs.core.Response;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.datastax.taxi.model.Vehicle;
+import com.datastax.demo.xml.model.Vehicle;
 import com.github.davidmoten.geo.LatLong;
 
 @WebService

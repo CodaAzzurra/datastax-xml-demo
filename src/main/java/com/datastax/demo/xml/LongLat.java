@@ -1,4 +1,4 @@
-package com.datastax.taxi;
+package com.datastax.demo.xml;
 
 public class LongLat {
 	private double lng;
