@@ -1,6 +1,5 @@
-use datastax_taxi_app; 
+USE datastax-xml-demo;
 
-truncate current_location;
-truncate vehicle;
+TRUNCATE movies;
 
-drop keyspace datastax_taxi_app;
+DROP KEYSPACE datastax-xml-demo;
