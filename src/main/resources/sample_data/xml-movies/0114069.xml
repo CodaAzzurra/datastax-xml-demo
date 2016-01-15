@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Outbreak</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>Wolfgang Petersen</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Drama</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Dustin</FirstName>
+        <LastName>Hoffman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rene</FirstName>
+        <LastName>Russo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Morgan</FirstName>
+        <LastName>Freeman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Spacey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cuba</FirstName>
+        <LastName>Gooding Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Donald</FirstName>
+        <LastName>Sutherland</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patrick</FirstName>
+        <LastName>Dempsey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Zakes</FirstName>
+        <LastName>Mokae</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Malick</FirstName>
+        <LastName>Bowens</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Susan</FirstName>
+        <LastName>Lee Hoffman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Benito</FirstName>
+        <LastName>Martinez</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Jarchow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leland</FirstName>
+        <LastName>Hayward III</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daniel</FirstName>
+        <LastName>Chodos (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dale</FirstName>
+        <LastName>Dye</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

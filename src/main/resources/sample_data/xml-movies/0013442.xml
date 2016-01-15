@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Nosferatu, eine Symphonie des Grauens</Title>
+    <Year>1922</Year>
+    <Directed_By>
+      <Director>F.W. Murnau</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Horror</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Gustav</FirstName>
+        <LastName>Botz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Karl</FirstName>
+        <LastName>Etlinger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Gottowt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alexander</FirstName>
+        <LastName>Granach</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wolfgang</FirstName>
+        <LastName>Heinz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Guido</FirstName>
+        <LastName>Herzfeld</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ruth</FirstName>
+        <LastName>Landshoff</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Max</FirstName>
+        <LastName>Nemetz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Georg</FirstName>
+        <LastName>H. Schnell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Max</FirstName>
+        <LastName>Schreck</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Greta</FirstName>
+        <LastName>Schröder</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Albert</FirstName>
+        <LastName>Venohr</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Heinrich</FirstName>
+        <LastName>Witte</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hardy</FirstName>
+        <LastName>von Francois</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gustav</FirstName>
+        <LastName>von Wangenheim</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

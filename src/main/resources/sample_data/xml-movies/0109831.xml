@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Four Weddings and a Funeral</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>Mike Newell</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Hugh</FirstName>
+        <LastName>Grant</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Fleet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Simon</FirstName>
+        <LastName>Callow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Hannah</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kristin</FirstName>
+        <LastName>Scott Thomas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Bower</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charlotte</FirstName>
+        <LastName>Coleman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Andie</FirstName>
+        <LastName>MacDowell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Timothy</FirstName>
+        <LastName>Walker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sara</FirstName>
+        <LastName>Crowe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ronald</FirstName>
+        <LastName>Herdman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elspet</FirstName>
+        <LastName>Gray</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philip</FirstName>
+        <LastName>Voss (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rupert</FirstName>
+        <LastName>Vansittart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nicola</FirstName>
+        <LastName>Walker</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

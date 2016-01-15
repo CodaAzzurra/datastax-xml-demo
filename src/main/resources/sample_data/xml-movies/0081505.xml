@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Shining, The</Title>
+    <Year>1980</Year>
+    <Directed_By>
+      <Director>Stanley Kubrick</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Horror</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Nicholson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shelley</FirstName>
+        <LastName>Duvall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Danny</FirstName>
+        <LastName>Lloyd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scatman</FirstName>
+        <LastName>Crothers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barry</FirstName>
+        <LastName>Nelson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philip</FirstName>
+        <LastName>Stone (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Turkel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anne</FirstName>
+        <LastName>Jackson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Burton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lia</FirstName>
+        <LastName>Beldam</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billie</FirstName>
+        <LastName>Gibson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barry</FirstName>
+        <LastName>Dennen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Baxt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Manning</FirstName>
+        <LastName>Redwood</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lisa</FirstName>
+        <LastName>Burns</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Right Stuff, The</Title>
+    <Year>1983</Year>
+    <Directed_By>
+      <Director>Philip Kaufman</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Sam</FirstName>
+        <LastName>Shepard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scott</FirstName>
+        <LastName>Glenn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ed</FirstName>
+        <LastName>Harris</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dennis</FirstName>
+        <LastName>Quaid</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fred</FirstName>
+        <LastName>Ward</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barbara</FirstName>
+        <LastName>Hershey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kim</FirstName>
+        <LastName>Stanley (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Veronica</FirstName>
+        <LastName>Cartwright</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pamela</FirstName>
+        <LastName>Reed</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scott</FirstName>
+        <LastName>Paulin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Frank (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lance</FirstName>
+        <LastName>Henriksen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Donald</FirstName>
+        <LastName>Moffat</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Levon</FirstName>
+        <LastName>Helm</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mary</FirstName>
+        <LastName>Jo Deschanel</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

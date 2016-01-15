@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>39 Steps, The</Title>
+    <Year>1935</Year>
+    <Directed_By>
+      <Director>Alfred Hitchcock</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Mystery</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Donat</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Madeleine</FirstName>
+        <LastName>Carroll</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lucie</FirstName>
+        <LastName>Mannheim</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Godfrey</FirstName>
+        <LastName>Tearle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peggy</FirstName>
+        <LastName>Ashcroft</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Laurie (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Helen</FirstName>
+        <LastName>Haye</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Cellier</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wylie</FirstName>
+        <LastName>Watson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gus</FirstName>
+        <LastName>McNaughton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jerry</FirstName>
+        <LastName>Verno</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peggy</FirstName>
+        <LastName>Simpson (I)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

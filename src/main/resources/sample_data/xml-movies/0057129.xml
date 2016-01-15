@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Haunting, The</Title>
+    <Year>1963</Year>
+    <Directed_By>
+      <Director>Robert Wise</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Horror</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Julie</FirstName>
+        <LastName>Harris</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claire</FirstName>
+        <LastName>Bloom</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Johnson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Russ</FirstName>
+        <LastName>Tamblyn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fay</FirstName>
+        <LastName>Compton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rosalie</FirstName>
+        <LastName>Crutchley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lois</FirstName>
+        <LastName>Maxwell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Valentine</FirstName>
+        <LastName>Dyall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Diane</FirstName>
+        <LastName>Clare</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ronald</FirstName>
+        <LastName>Adam</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

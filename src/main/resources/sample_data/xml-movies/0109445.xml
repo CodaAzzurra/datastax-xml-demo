@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Clerks</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>Kevin Smith (II)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Brian</FirstName>
+        <LastName>O'Halloran</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeff</FirstName>
+        <LastName>Anderson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marilyn</FirstName>
+        <LastName>Ghigliotti</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lisa</FirstName>
+        <LastName>Spoonhauer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Mewes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Smith (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scott</FirstName>
+        <LastName>Mosier</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scott</FirstName>
+        <LastName>Schiaffo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Al</FirstName>
+        <LastName>Berkowitz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Walter</FirstName>
+        <LastName>Flanagan (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ed</FirstName>
+        <LastName>Hapstak</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lee</FirstName>
+        <LastName>Bendick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Klein (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pattijean</FirstName>
+        <LastName>Csik</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ken</FirstName>
+        <LastName>Clark (VII)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

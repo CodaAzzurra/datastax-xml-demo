@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Honey, I Shrunk the Kids</Title>
+    <Year>1989</Year>
+    <Directed_By>
+      <Director>Joe Johnston</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Adventure</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Rick</FirstName>
+        <LastName>Moranis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Matt</FirstName>
+        <LastName>Frewer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marcia</FirstName>
+        <LastName>Strassman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kristine</FirstName>
+        <LastName>Sutherland</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thomas</FirstName>
+        <LastName>Wilson Brown</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jared</FirstName>
+        <LastName>Rushton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Amy</FirstName>
+        <LastName>O'Neill</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Oliveri</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carl</FirstName>
+        <LastName>Steven</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>L. Taylor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kimmy</FirstName>
+        <LastName>Robertson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lou</FirstName>
+        <LastName>Cutell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laura</FirstName>
+        <LastName>Waterbury</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Trevor</FirstName>
+        <LastName>Galtress</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Martin</FirstName>
+        <LastName>Aylett</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

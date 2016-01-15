@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Amarcord</Title>
+    <Year>1974</Year>
+    <Directed_By>
+      <Director>Federico Fellini</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Pupella</FirstName>
+        <LastName>Maggio</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Armando</FirstName>
+        <LastName>Brancia</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Magali</FirstName>
+        <LastName>Noël</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ciccio</FirstName>
+        <LastName>Ingrassia</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nando</FirstName>
+        <LastName>Orfei</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Luigi</FirstName>
+        <LastName>Rossi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruno</FirstName>
+        <LastName>Zanin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gianfilippo</FirstName>
+        <LastName>Carcano</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Josiane</FirstName>
+        <LastName>Tanzilli</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maria</FirstName>
+        <LastName>Antonietta Beluzzi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Giuseppe</FirstName>
+        <LastName>Ianigro</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ferruccio</FirstName>
+        <LastName>Brembilla</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Antonino</FirstName>
+        <LastName>Faa Di Bruno</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mauro</FirstName>
+        <LastName>Misul</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ferdinando</FirstName>
+        <LastName>Villella</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Towering Inferno, The</Title>
+    <Year>1974</Year>
+    <Directed_By>
+      <Director>Irwin Allen</Director>
+      <Director>John Guillermin</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>McQueen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Newman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Holden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Faye</FirstName>
+        <LastName>Dunaway</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fred</FirstName>
+        <LastName>Astaire</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Susan</FirstName>
+        <LastName>Blakely</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Chamberlain</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jennifer</FirstName>
+        <LastName>Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>O.J.</FirstName>
+        <LastName>Simpson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Vaughn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Wagner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Susan</FirstName>
+        <LastName>Flannery</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sheila</FirstName>
+        <LastName>Mathews</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Norman</FirstName>
+        <LastName>Burton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Collins (V)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

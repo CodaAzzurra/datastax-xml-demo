@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Clockwork Orange, A</Title>
+    <Year>1971</Year>
+    <Directed_By>
+      <Director>Stanley Kubrick</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Malcolm</FirstName>
+        <LastName>McDowell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patrick</FirstName>
+        <LastName>Magee (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Bates (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Warren</FirstName>
+        <LastName>Clarke</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Clive</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Adrienne</FirstName>
+        <LastName>Corri</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carl</FirstName>
+        <LastName>Duering</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Farrell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clive</FirstName>
+        <LastName>Francis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Gover</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Miriam</FirstName>
+        <LastName>Karlin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Marcus (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Aubrey</FirstName>
+        <LastName>Morris</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Godfrey</FirstName>
+        <LastName>Quigley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sheila</FirstName>
+        <LastName>Raynor</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

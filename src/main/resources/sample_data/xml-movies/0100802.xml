@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Total Recall</Title>
+    <Year>1990</Year>
+    <Directed_By>
+      <Director>Paul Verhoeven</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Arnold</FirstName>
+        <LastName>Schwarzenegger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rachel</FirstName>
+        <LastName>Ticotin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sharon</FirstName>
+        <LastName>Stone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ronny</FirstName>
+        <LastName>Cox</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Ironside</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marshall</FirstName>
+        <LastName>Bell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mel</FirstName>
+        <LastName>Johnson Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Champion</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roy</FirstName>
+        <LastName>Brocksmith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ray</FirstName>
+        <LastName>Baker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rosemary</FirstName>
+        <LastName>Dunsmore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Knell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alexia</FirstName>
+        <LastName>Robinson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dean</FirstName>
+        <LastName>Norris</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Carlton</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Violon rouge, Le</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>François Girard</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Mystery</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Carlo</FirstName>
+        <LastName>Cecchi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Irene</FirstName>
+        <LastName>Grazioli</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anita</FirstName>
+        <LastName>Laurenzi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tommaso</FirstName>
+        <LastName>Puntelli</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Aldo</FirstName>
+        <LastName>Brugnini</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Samuele</FirstName>
+        <LastName>Amighetti</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jean-Luc</FirstName>
+        <LastName>Bideau</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christoph</FirstName>
+        <LastName>Koncz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clothilde</FirstName>
+        <LastName>Mollet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rainer</FirstName>
+        <LastName>Egger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wolfgang</FirstName>
+        <LastName>Böck</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Florentín</FirstName>
+        <LastName>Groll</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Johannes</FirstName>
+        <LastName>Silberschneider</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arthur</FirstName>
+        <LastName>Denberg</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Koeker</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

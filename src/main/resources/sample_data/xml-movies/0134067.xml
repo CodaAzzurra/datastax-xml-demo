@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Rugrats Movie, The</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Igor Kovalyov</Director>
+      <Director>Norton Virgien</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Animation</Genre>
+      <Genre>Children's</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Elizabeth</FirstName>
+        <LastName>Daily</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christine</FirstName>
+        <LastName>Cavanaugh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kath</FirstName>
+        <LastName>Soucie</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Melanie</FirstName>
+        <LastName>Chartoff</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philip</FirstName>
+        <LastName>Proctor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cree</FirstName>
+        <LastName>Summer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mary</FirstName>
+        <LastName>Gross</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>McBride (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Andrea</FirstName>
+        <LastName>Martin (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Bell (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tress</FirstName>
+        <LastName>MacNeille</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Riley (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Busta</FirstName>
+        <LastName>Rhymes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Alaskey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cheryl</FirstName>
+        <LastName>Chase</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

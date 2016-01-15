@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>When Harry Met Sally...</Title>
+    <Year>1989</Year>
+    <Directed_By>
+      <Director>Rob Reiner</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Crystal</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Meg</FirstName>
+        <LastName>Ryan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carrie</FirstName>
+        <LastName>Fisher</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruno</FirstName>
+        <LastName>Kirby</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steven</FirstName>
+        <LastName>Ford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lisa</FirstName>
+        <LastName>Jane Persky</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michelle</FirstName>
+        <LastName>Nicastro</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gretchen</FirstName>
+        <LastName>Palmer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Alan Beuth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Burdick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Viviani</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harley</FirstName>
+        <LastName>Jane Kozak</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>Hunt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Rooney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Franc</FirstName>
+        <LastName>Luz</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

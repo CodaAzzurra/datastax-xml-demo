@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Great Dictator, The</Title>
+    <Year>1940</Year>
+    <Directed_By>
+      <Director>Charles Chaplin</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Chaplin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Oakie</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Reginald</FirstName>
+        <LastName>Gardiner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Daniell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Gilbert (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Grace</FirstName>
+        <LastName>Hayle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carter</FirstName>
+        <LastName>DeHaven (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paulette</FirstName>
+        <LastName>Goddard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maurice</FirstName>
+        <LastName>Moscovitch</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Emma</FirstName>
+        <LastName>Dunn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bernard</FirstName>
+        <LastName>Gorcey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Weigel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chester</FirstName>
+        <LastName>Conklin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Esther</FirstName>
+        <LastName>Michelson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hank</FirstName>
+        <LastName>Mann</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Deliverance</Title>
+    <Year>1972</Year>
+    <Directed_By>
+      <Director>John Boorman</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Adventure</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jon</FirstName>
+        <LastName>Voight</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Burt</FirstName>
+        <LastName>Reynolds</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ned</FirstName>
+        <LastName>Beatty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ronny</FirstName>
+        <LastName>Cox</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ed</FirstName>
+        <LastName>Ramey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Redden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Seamon</FirstName>
+        <LastName>Glass</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Randall</FirstName>
+        <LastName>Deal</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>McKinney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Herbert</FirstName>
+        <LastName>'Cowboy' Coward</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lewis</FirstName>
+        <LastName>Crone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ken</FirstName>
+        <LastName>Keener</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Johnny</FirstName>
+        <LastName>Popwell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Fowler (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kathy</FirstName>
+        <LastName>Rickman</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

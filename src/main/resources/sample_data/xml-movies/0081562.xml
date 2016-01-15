@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Stir Crazy</Title>
+    <Year>1980</Year>
+    <Directed_By>
+      <Director>Sidney Poitier</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Gene</FirstName>
+        <LastName>Wilder</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Pryor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Georg</FirstName>
+        <LastName>Stanford Brown</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>JoBeth</FirstName>
+        <LastName>Williams</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Miguel</FirstName>
+        <LastName>Ángel Suárez</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Craig</FirstName>
+        <LastName>T. Nelson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barry</FirstName>
+        <LastName>Corbin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Weldon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nicolas</FirstName>
+        <LastName>Coster</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joel</FirstName>
+        <LastName>Brooks (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Banks</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Erland</FirstName>
+        <LastName>Van Lindth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lewis</FirstName>
+        <LastName>Van Bergen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Karmin</FirstName>
+        <LastName>Murcelo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Franklyn</FirstName>
+        <LastName>Ajaye</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

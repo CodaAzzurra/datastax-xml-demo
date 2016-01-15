@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Se7en</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>David Fincher</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Crime</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Morgan</FirstName>
+        <LastName>Freeman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brad</FirstName>
+        <LastName>Pitt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Andrew</FirstName>
+        <LastName>Kevin Walker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daniel</FirstName>
+        <LastName>Zacapa</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gwyneth</FirstName>
+        <LastName>Paltrow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Cassini</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bob</FirstName>
+        <LastName>Mack</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Crombie</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Reg</FirstName>
+        <LastName>E. Cathey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>R.</FirstName>
+        <LastName>Lee Ermey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Christy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Endre</FirstName>
+        <LastName>Hules</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hawthorne</FirstName>
+        <LastName>James</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roscoe</FirstName>
+        <LastName>Davidson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bob</FirstName>
+        <LastName>Collins (I)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

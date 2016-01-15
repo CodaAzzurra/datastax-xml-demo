@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Rocky Horror Picture Show, The</Title>
+    <Year>1975</Year>
+    <Directed_By>
+      <Director>Jim Sharman</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Horror</Genre>
+      <Genre>Musical</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tim</FirstName>
+        <LastName>Curry</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Susan</FirstName>
+        <LastName>Sarandon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barry</FirstName>
+        <LastName>Bostwick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>O'Brien (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patricia</FirstName>
+        <LastName>Quinn (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nell</FirstName>
+        <LastName>Campbell (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Adams</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Hinwood</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Meat</FirstName>
+        <LastName>Loaf</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Gray (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeremy</FirstName>
+        <LastName>Newson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hilary</FirstName>
+        <LastName>Labow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Perry</FirstName>
+        <LastName>Bedden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Biggins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gaye</FirstName>
+        <LastName>Brown</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

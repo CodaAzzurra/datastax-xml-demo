@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>South Park: Bigger, Longer and Uncut</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>Trey Parker (I)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Animation</Genre>
+      <Genre>Musical</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Mary</FirstName>
+        <LastName>Kay Bergman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Franchesca</FirstName>
+        <LastName>Clifford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Clooney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anthony</FirstName>
+        <LastName>Cross-Thomas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Minnie</FirstName>
+        <LastName>Driver</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dave</FirstName>
+        <LastName>Foley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Isaac</FirstName>
+        <LastName>Hayes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Howell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jesse</FirstName>
+        <LastName>Howell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eric</FirstName>
+        <LastName>Idle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Deb</FirstName>
+        <LastName>Adair</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mike</FirstName>
+        <LastName>Judge</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jennifer</FirstName>
+        <LastName>Howell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Trey</FirstName>
+        <LastName>Parker (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brent</FirstName>
+        <LastName>Spiner</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

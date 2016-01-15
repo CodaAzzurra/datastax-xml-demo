@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Touch of Evil</Title>
+    <Year>1958</Year>
+    <Directed_By>
+      <Director>Orson Welles</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Crime</Genre>
+      <Genre>Film-Noir</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Orson</FirstName>
+        <LastName>Welles</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charlton</FirstName>
+        <LastName>Heston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Janet</FirstName>
+        <LastName>Leigh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>Calleia</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Akim</FirstName>
+        <LastName>Tamiroff</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joanna</FirstName>
+        <LastName>Cook Moore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marlene</FirstName>
+        <LastName>Dietrich</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ray</FirstName>
+        <LastName>Collins (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dennis</FirstName>
+        <LastName>Weaver</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Victor</FirstName>
+        <LastName>Millan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lalo</FirstName>
+        <LastName>Rios</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Valentin</FirstName>
+        <LastName>De Vargas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mort</FirstName>
+        <LastName>Mills</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mercedes</FirstName>
+        <LastName>McCambridge</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wayne</FirstName>
+        <LastName>Taylor (I)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Philadelphia Story, The</Title>
+    <Year>1940</Year>
+    <Directed_By>
+      <Director>George Cukor</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Cary</FirstName>
+        <LastName>Grant</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Katharine</FirstName>
+        <LastName>Hepburn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Stewart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ruth</FirstName>
+        <LastName>Hussey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Howard (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roland</FirstName>
+        <LastName>Young</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Halliday (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mary</FirstName>
+        <LastName>Nash (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Virginia</FirstName>
+        <LastName>Weidler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Daniell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lionel</FirstName>
+        <LastName>Pape</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rex</FirstName>
+        <LastName>Evans</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

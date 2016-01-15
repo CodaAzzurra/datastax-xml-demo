@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Crna macka, beli macor</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Emir Kusturica</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Bajram</FirstName>
+        <LastName>Severdzan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Srdjan</FirstName>
+        <LastName>Todorovic</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Branka</FirstName>
+        <LastName>Katic</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Florijan</FirstName>
+        <LastName>Ajdini</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ljubica</FirstName>
+        <LastName>Adzovic</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Zabit</FirstName>
+        <LastName>Memedov</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sabri</FirstName>
+        <LastName>Sulejman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jasar</FirstName>
+        <LastName>Destani</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stojan</FirstName>
+        <LastName>Sotirov</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Predrag</FirstName>
+        <LastName>Lakovic</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Miki</FirstName>
+        <LastName>Manojlovic</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Salija</FirstName>
+        <LastName>Ibraimova</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Zdena</FirstName>
+        <LastName>Hurtocakova</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Adnan</FirstName>
+        <LastName>Bekir</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Irfan</FirstName>
+        <LastName>Jagli</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

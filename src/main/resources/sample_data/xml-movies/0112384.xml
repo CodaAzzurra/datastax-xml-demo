@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Apollo 13</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>Ron Howard</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Hanks</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Paxton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Bacon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Sinise</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ed</FirstName>
+        <LastName>Harris</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kathleen</FirstName>
+        <LastName>Quinlan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mary</FirstName>
+        <LastName>Kate Schellhardt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Emily</FirstName>
+        <LastName>Ann Lloyd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Miko</FirstName>
+        <LastName>Hughes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Max</FirstName>
+        <LastName>Elliott Slade</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jean</FirstName>
+        <LastName>Speegle Howard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tracy</FirstName>
+        <LastName>Reiner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Andrews (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michele</FirstName>
+        <LastName>Little (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>Ellis</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

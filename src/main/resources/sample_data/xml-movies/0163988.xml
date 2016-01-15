@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Bringing Out the Dead</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>Martin Scorsese</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Horror</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Nicolas</FirstName>
+        <LastName>Cage</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patricia</FirstName>
+        <LastName>Arquette</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Goodman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ving</FirstName>
+        <LastName>Rhames</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Sizemore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marc</FirstName>
+        <LastName>Anthony (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mary</FirstName>
+        <LastName>Beth Hurt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cliff</FirstName>
+        <LastName>Curtis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nestor</FirstName>
+        <LastName>Serrano</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Aida</FirstName>
+        <LastName>Turturro</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cynthia</FirstName>
+        <LastName>Roman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Afemo</FirstName>
+        <LastName>Omilami</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cullen</FirstName>
+        <LastName>O. Johnson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arthur</FirstName>
+        <LastName>J. Nascarella</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bart</FirstName>
+        <LastName>DeFinna</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

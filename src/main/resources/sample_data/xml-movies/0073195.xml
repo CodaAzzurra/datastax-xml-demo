@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Jaws</Title>
+    <Year>1975</Year>
+    <Directed_By>
+      <Director>Steven Spielberg</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Horror</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Roy</FirstName>
+        <LastName>Scheider</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Shaw</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Dreyfuss</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lorraine</FirstName>
+        <LastName>Gary</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Murray</FirstName>
+        <LastName>Hamilton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carl</FirstName>
+        <LastName>Gottlieb</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeffrey</FirstName>
+        <LastName>Kramer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Susan</FirstName>
+        <LastName>Backlinie</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Filley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ted</FirstName>
+        <LastName>Grossman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>Rebello</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jay</FirstName>
+        <LastName>Mello</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lee</FirstName>
+        <LastName>Fierro</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeffrey</FirstName>
+        <LastName>Voorhees</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Craig</FirstName>
+        <LastName>Kingsbury</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

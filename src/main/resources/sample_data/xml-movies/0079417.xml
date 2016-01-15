@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Kramer vs. Kramer</Title>
+    <Year>1979</Year>
+    <Directed_By>
+      <Director>Robert Benton</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Dustin</FirstName>
+        <LastName>Hoffman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Meryl</FirstName>
+        <LastName>Streep</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jane</FirstName>
+        <LastName>Alexander</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Justin</FirstName>
+        <LastName>Henry</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Howard</FirstName>
+        <LastName>Duff</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Coe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>JoBeth</FirstName>
+        <LastName>Williams</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Moor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Howland</FirstName>
+        <LastName>Chamberlain</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Ramage</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jess</FirstName>
+        <LastName>Osuna</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nicholas</FirstName>
+        <LastName>Hormann</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ellen</FirstName>
+        <LastName>Parker (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shelby</FirstName>
+        <LastName>Brammer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carol</FirstName>
+        <LastName>Nadell</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

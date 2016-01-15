@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Robin Hood: Prince of Thieves</Title>
+    <Year>1991</Year>
+    <Directed_By>
+      <Director>Kevin Reynolds</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Costner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Morgan</FirstName>
+        <LastName>Freeman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mary</FirstName>
+        <LastName>Elizabeth Mastrantonio</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christian</FirstName>
+        <LastName>Slater</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alan</FirstName>
+        <LastName>Rickman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Geraldine</FirstName>
+        <LastName>McEwan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>McShane (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brian</FirstName>
+        <LastName>Blessed</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Wincott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nick</FirstName>
+        <LastName>Brimble</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Soo</FirstName>
+        <LastName>Drouet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daniel</FirstName>
+        <LastName>Newman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daniel</FirstName>
+        <LastName>Peacock</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Walter</FirstName>
+        <LastName>Sparrow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harold</FirstName>
+        <LastName>Innocent</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

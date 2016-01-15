@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>To Kill a Mockingbird</Title>
+    <Year>1962</Year>
+    <Directed_By>
+      <Director>Robert Mulligan</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Gregory</FirstName>
+        <LastName>Peck</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Megna</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Overton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rosemary</FirstName>
+        <LastName>Murphy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ruth</FirstName>
+        <LastName>White (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brock</FirstName>
+        <LastName>Peters</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Estelle</FirstName>
+        <LastName>Evans (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Fix</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Collin</FirstName>
+        <LastName>Wilcox Paxton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Anderson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alice</FirstName>
+        <LastName>Ghostley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Duvall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Windom</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Crahan</FirstName>
+        <LastName>Denton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Hale (II)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

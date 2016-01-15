@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>On the Waterfront</Title>
+    <Year>1954</Year>
+    <Directed_By>
+      <Director>Elia Kazan</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Crime</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Marlon</FirstName>
+        <LastName>Brando</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Karl</FirstName>
+        <LastName>Malden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lee</FirstName>
+        <LastName>J. Cobb</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rod</FirstName>
+        <LastName>Steiger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pat</FirstName>
+        <LastName>Henning</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leif</FirstName>
+        <LastName>Erickson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Westerfield</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Galento</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tami</FirstName>
+        <LastName>Mauriello</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Hamilton (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Heldabrand</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rudy</FirstName>
+        <LastName>Bond</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Don</FirstName>
+        <LastName>Blackman (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arthur</FirstName>
+        <LastName>Keegan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Abe</FirstName>
+        <LastName>Simon</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Princess Bride, The</Title>
+    <Year>1987</Year>
+    <Directed_By>
+      <Director>Rob Reiner</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Fantasy</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Cary</FirstName>
+        <LastName>Elwes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mandy</FirstName>
+        <LastName>Patinkin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>Sarandon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Guest</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wallace</FirstName>
+        <LastName>Shawn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>André</FirstName>
+        <LastName>the Giant</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fred</FirstName>
+        <LastName>Savage</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robin</FirstName>
+        <LastName>Wright</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Falk</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Cook</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mel</FirstName>
+        <LastName>Smith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carol</FirstName>
+        <LastName>Kane</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Crystal</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anne</FirstName>
+        <LastName>Dyson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Margery</FirstName>
+        <LastName>Mason</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

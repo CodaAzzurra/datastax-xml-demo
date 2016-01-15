@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Bodyguard, The</Title>
+    <Year>1992</Year>
+    <Directed_By>
+      <Director>Mick Jackson (II)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Romance</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Costner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Whitney</FirstName>
+        <LastName>Houston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Kemp</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Cobbs</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ralph</FirstName>
+        <LastName>Waite</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tomas</FirstName>
+        <LastName>Arana</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michele</FirstName>
+        <LastName>Lamar Richards</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mike</FirstName>
+        <LastName>Starr (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Birt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>DeVaughn</FirstName>
+        <LastName>Nixon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gerry</FirstName>
+        <LastName>Bamman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Urla</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Pierce</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Keating</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Wuhl</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

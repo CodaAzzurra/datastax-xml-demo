@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Rushmore</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Wes Anderson</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Romance</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Schwartzman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Murray</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Olivia</FirstName>
+        <LastName>Williams</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Seymour</FirstName>
+        <LastName>Cassel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brian</FirstName>
+        <LastName>Cox (III)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mason</FirstName>
+        <LastName>Gamble</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sara</FirstName>
+        <LastName>Tanaka</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stephen</FirstName>
+        <LastName>McCole</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Luke</FirstName>
+        <LastName>Wilson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dipak</FirstName>
+        <LastName>Pallana</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Andrew</FirstName>
+        <LastName>Wilson (III)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marietta</FirstName>
+        <LastName>Marich</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ronnie</FirstName>
+        <LastName>McCawley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Keith</FirstName>
+        <LastName>McCawley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hae</FirstName>
+        <LastName>Joon Lee</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Titanic</Title>
+    <Year>1997</Year>
+    <Directed_By>
+      <Director>James Cameron</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Action</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Leonardo</FirstName>
+        <LastName>DiCaprio</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kate</FirstName>
+        <LastName>Winslet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Zane</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kathy</FirstName>
+        <LastName>Bates</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frances</FirstName>
+        <LastName>Fisher (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gloria</FirstName>
+        <LastName>Stuart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Paxton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bernard</FirstName>
+        <LastName>Hill</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Warner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Victor</FirstName>
+        <LastName>Garber</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Hyde</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Suzy</FirstName>
+        <LastName>Amis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lewis</FirstName>
+        <LastName>Abernathy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nicholas</FirstName>
+        <LastName>Cascone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dr.</FirstName>
+        <LastName>Anatoly M. Sagalevitch</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

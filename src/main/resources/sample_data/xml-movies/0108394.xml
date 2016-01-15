@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Trois couleurs: Bleu</Title>
+    <Year>1993</Year>
+    <Directed_By>
+      <Director>Krzysztof Kieslowski</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Juliette</FirstName>
+        <LastName>Binoche</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Benoît</FirstName>
+        <LastName>Régent</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Florence</FirstName>
+        <LastName>Pernel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charlotte</FirstName>
+        <LastName>Véry</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hélène</FirstName>
+        <LastName>Vincent</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philippe</FirstName>
+        <LastName>Volter</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claude</FirstName>
+        <LastName>Duneton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hugues</FirstName>
+        <LastName>Quester</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Emmanuelle</FirstName>
+        <LastName>Riva</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Florence</FirstName>
+        <LastName>Vignon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daniel</FirstName>
+        <LastName>Martín</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jacek</FirstName>
+        <LastName>Ostaszewski</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Yann</FirstName>
+        <LastName>Tregouet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alain</FirstName>
+        <LastName>Ollivier</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Isabelle</FirstName>
+        <LastName>Sadoyan</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

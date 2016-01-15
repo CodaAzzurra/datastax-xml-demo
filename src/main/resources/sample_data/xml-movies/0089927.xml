@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Rocky IV</Title>
+    <Year>1985</Year>
+    <Directed_By>
+      <Director>Sylvester Stallone</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Sylvester</FirstName>
+        <LastName>Stallone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Talia</FirstName>
+        <LastName>Shire</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Burt</FirstName>
+        <LastName>Young</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carl</FirstName>
+        <LastName>Weathers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brigitte</FirstName>
+        <LastName>Nielsen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Burton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Pataki</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dolph</FirstName>
+        <LastName>Lundgren</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>R.J.</FirstName>
+        <LastName>Adams</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Al</FirstName>
+        <LastName>Bandiero</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dominic</FirstName>
+        <LastName>Barto</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Danial</FirstName>
+        <LastName>Brown</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Brown (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rose</FirstName>
+        <LastName>Mary Campos</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Carpenter</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

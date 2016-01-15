@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>2001: A Space Odyssey</Title>
+    <Year>1968</Year>
+    <Directed_By>
+      <Director>Stanley Kubrick</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Keir</FirstName>
+        <LastName>Dullea</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Lockwood</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Sylvester</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daniel</FirstName>
+        <LastName>Richter (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leonard</FirstName>
+        <LastName>Rossiter</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Margaret</FirstName>
+        <LastName>Tyzack</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Beatty (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sean</FirstName>
+        <LastName>Sullivan (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Douglas</FirstName>
+        <LastName>Rain</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Miller (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Weston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ed</FirstName>
+        <LastName>Bishop (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Glenn</FirstName>
+        <LastName>Beck</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alan</FirstName>
+        <LastName>Gifford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ann</FirstName>
+        <LastName>Gillis (I)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

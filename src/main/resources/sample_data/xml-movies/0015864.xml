@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Gold Rush, The</Title>
+    <Year>1925</Year>
+    <Directed_By>
+      <Director>Charles Chaplin</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Chaplin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mack</FirstName>
+        <LastName>Swain</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Murray (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Georgia</FirstName>
+        <LastName>Hale</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Bergman</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

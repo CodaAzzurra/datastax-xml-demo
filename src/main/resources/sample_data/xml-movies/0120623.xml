@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Bug's Life, A</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>John Lasseter</Director>
+      <Director>Andrew Stanton</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Animation</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Children's</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Dave</FirstName>
+        <LastName>Foley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Spacey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julia</FirstName>
+        <LastName>Louis-Dreyfus</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hayden</FirstName>
+        <LastName>Panettiere</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Phyllis</FirstName>
+        <LastName>Diller (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Kind</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Hyde Pierce</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Ranft</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Denis</FirstName>
+        <LastName>Leary</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Harris (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Madeline</FirstName>
+        <LastName>Kahn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bonnie</FirstName>
+        <LastName>Hunt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>McShane (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Ratzenberger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brad</FirstName>
+        <LastName>Garrett</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

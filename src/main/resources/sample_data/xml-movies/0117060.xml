@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Mission: Impossible</Title>
+    <Year>1996</Year>
+    <Directed_By>
+      <Director>Brian De Palma</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Cruise</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jon</FirstName>
+        <LastName>Voight</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Emmanuelle</FirstName>
+        <LastName>Béart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Czerny</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jean</FirstName>
+        <LastName>Reno</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ving</FirstName>
+        <LastName>Rhames</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kristin</FirstName>
+        <LastName>Scott Thomas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vanessa</FirstName>
+        <LastName>Redgrave</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dale</FirstName>
+        <LastName>Dye</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marcel</FirstName>
+        <LastName>Iures</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ion</FirstName>
+        <LastName>Caramitru</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ingeborga</FirstName>
+        <LastName>Dapkunaite</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Valentina</FirstName>
+        <LastName>Yakunina</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marek</FirstName>
+        <LastName>Vasut</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nathan</FirstName>
+        <LastName>Osgood</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

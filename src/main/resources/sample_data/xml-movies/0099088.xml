@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Back to the Future Part III</Title>
+    <Year>1990</Year>
+    <Directed_By>
+      <Director>Robert Zemeckis</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>Western</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>J. Fox</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Lloyd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mary</FirstName>
+        <LastName>Steenburgen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thomas</FirstName>
+        <LastName>F. Wilson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lea</FirstName>
+        <LastName>Thompson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elisabeth</FirstName>
+        <LastName>Shue</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Matt</FirstName>
+        <LastName>Clark (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>A. Dysart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pat</FirstName>
+        <LastName>Buttram</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harry</FirstName>
+        <LastName>Carey Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dub</FirstName>
+        <LastName>Taylor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hugh</FirstName>
+        <LastName>Gillin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Tolkan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Wynne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sean</FirstName>
+        <LastName>Gregory Sullivan</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

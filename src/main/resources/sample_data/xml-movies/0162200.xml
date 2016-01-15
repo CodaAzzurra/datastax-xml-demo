@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Blazing Saddles</Title>
+    <Year>1974</Year>
+    <Directed_By>
+      <Director>Mel Brooks</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Western</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Cleavon</FirstName>
+        <LastName>Little</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gene</FirstName>
+        <LastName>Wilder</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Slim</FirstName>
+        <LastName>Pickens</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harvey</FirstName>
+        <LastName>Korman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Madeline</FirstName>
+        <LastName>Kahn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mel</FirstName>
+        <LastName>Brooks</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Burton</FirstName>
+        <LastName>Gilliam</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alex</FirstName>
+        <LastName>Karras</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Huddleston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Liam</FirstName>
+        <LastName>Dunn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Hillerman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Furth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claude</FirstName>
+        <LastName>Ennis Starrett Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carol</FirstName>
+        <LastName>DeLuise</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Collier</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

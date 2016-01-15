@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Toy Story 2</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>Colin Brady</Director>
+      <Director>Ash Brannon</Director>
+      <Director></Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Animation</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Hanks</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tim</FirstName>
+        <LastName>Allen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Don</FirstName>
+        <LastName>Rickles</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Varney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wallace</FirstName>
+        <LastName>Shawn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Ratzenberger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Annie</FirstName>
+        <LastName>Potts</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jodi</FirstName>
+        <LastName>Benson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joan</FirstName>
+        <LastName>Cusack</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>R.</FirstName>
+        <LastName>Lee Ermey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kelsey</FirstName>
+        <LastName>Grammer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Estelle</FirstName>
+        <LastName>Harris</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wayne</FirstName>
+        <LastName>Knight</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laurie</FirstName>
+        <LastName>Metcalf</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Morris (III)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Ogden Stiers</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

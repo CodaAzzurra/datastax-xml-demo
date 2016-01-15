@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Enfants du paradis, Les</Title>
+    <Year>1945</Year>
+    <Directed_By>
+      <Director>Marcel Carné</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jean-Louis</FirstName>
+        <LastName>Barrault</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pierre</FirstName>
+        <LastName>Brasseur</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pierre</FirstName>
+        <LastName>Renoir</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maria</FirstName>
+        <LastName>Casarès</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gaston</FirstName>
+        <LastName>Modot</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fabien</FirstName>
+        <LastName>Loris</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marcel</FirstName>
+        <LastName>Pérès</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Etienne</FirstName>
+        <LastName>Decroux</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jane</FirstName>
+        <LastName>Marken</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marcelle</FirstName>
+        <LastName>Monthil</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Louis</FirstName>
+        <LastName>Florencie</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Habib</FirstName>
+        <LastName>Benglia</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

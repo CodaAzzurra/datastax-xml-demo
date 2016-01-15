@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Scream</Title>
+    <Year>1996</Year>
+    <Directed_By>
+      <Director>Wes Craven</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Horror</Genre>
+      <Genre>Mystery</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Arquette</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Neve</FirstName>
+        <LastName>Campbell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Courteney</FirstName>
+        <LastName>Cox</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jamie</FirstName>
+        <LastName>Kennedy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Matthew</FirstName>
+        <LastName>Lillard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rose</FirstName>
+        <LastName>McGowan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Skeet</FirstName>
+        <LastName>Ulrich</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Drew</FirstName>
+        <LastName>Barrymore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Liev</FirstName>
+        <LastName>Schreiber</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>W.</FirstName>
+        <LastName>Earl Brown</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>Whipp</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roger</FirstName>
+        <LastName>L. Jackson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Patrick Walls</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Booth (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carla</FirstName>
+        <LastName>Hatley</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

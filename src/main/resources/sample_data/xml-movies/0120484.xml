@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Waterboy, The</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Frank Coraci</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Adam</FirstName>
+        <LastName>Sandler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kathy</FirstName>
+        <LastName>Bates</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Winkler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fairuza</FirstName>
+        <LastName>Balk</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jerry</FirstName>
+        <LastName>Reed (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Larry</FirstName>
+        <LastName>Gilliard Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Blake</FirstName>
+        <LastName>Clark</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Dante</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Loughran</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Al</FirstName>
+        <LastName>Whiting</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clint</FirstName>
+        <LastName>Howard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Allen</FirstName>
+        <LastName>Covert</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Todd</FirstName>
+        <LastName>Holland (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Kokol</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Coraci</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

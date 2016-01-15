@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Night at the Opera, A</Title>
+    <Year>1935</Year>
+    <Directed_By>
+      <Director>Sam Wood</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Groucho</FirstName>
+        <LastName>Marx</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chico</FirstName>
+        <LastName>Marx</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harpo</FirstName>
+        <LastName>Marx</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kitty</FirstName>
+        <LastName>Carlisle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Allan</FirstName>
+        <LastName>Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Walter</FirstName>
+        <LastName>Woolf King</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sig</FirstName>
+        <LastName>Ruman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Margaret</FirstName>
+        <LastName>Dumont</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edward</FirstName>
+        <LastName>Keane</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Emmett O'Connor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lorraine</FirstName>
+        <LastName>Bridges</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gino</FirstName>
+        <LastName>Corrado</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Olga</FirstName>
+        <LastName>Dane</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jay</FirstName>
+        <LastName>Eaton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Otto</FirstName>
+        <LastName>Fries</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Gilbert (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Gould</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Hale (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Luther</FirstName>
+        <LastName>Hoobyar</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rodolfo</FirstName>
+        <LastName>Hoyos</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Irving (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Selmer</FirstName>
+        <LastName>Jackson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>'Tiny' Lipson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wilbur</FirstName>
+        <LastName>Mack</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Inez</FirstName>
+        <LastName>Palange</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claude</FirstName>
+        <LastName>Payton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Purnell</FirstName>
+        <LastName>Pratt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rolfe</FirstName>
+        <LastName>Sedan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Phillips</FirstName>
+        <LastName>Smalley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harry</FirstName>
+        <LastName>Tyler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leo</FirstName>
+        <LastName>White (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>J. Wolf</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Yaconelli</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

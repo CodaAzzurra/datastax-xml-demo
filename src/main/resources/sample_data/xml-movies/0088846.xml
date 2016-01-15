@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Brazil</Title>
+    <Year>1985</Year>
+    <Directed_By>
+      <Director>Terry Gilliam</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Sci-Fi</Genre>
+      <Genre>Fantasy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Pryce</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>De Niro</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Katherine</FirstName>
+        <LastName>Helmond</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>Holm</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bob</FirstName>
+        <LastName>Hoskins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Palin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>Richardson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Vaughan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kim</FirstName>
+        <LastName>Greist</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Broadbent</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barbara</FirstName>
+        <LastName>Hicks (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>McKeown</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Derrick</FirstName>
+        <LastName>O'Connor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kathryn</FirstName>
+        <LastName>Pogson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bryan</FirstName>
+        <LastName>Pringle</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

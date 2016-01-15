@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Taxi Driver</Title>
+    <Year>1976</Year>
+    <Directed_By>
+      <Director>Martin Scorsese</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Diahnne</FirstName>
+        <LastName>Abbott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>De Niro</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jodie</FirstName>
+        <LastName>Foster</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Adu</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Albert</FirstName>
+        <LastName>Brooks</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Victor</FirstName>
+        <LastName>Argo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harvey</FirstName>
+        <LastName>Keitel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gino</FirstName>
+        <LastName>Ardito</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Garth</FirstName>
+        <LastName>Avery</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leonard</FirstName>
+        <LastName>Harris (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Boyle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cybill</FirstName>
+        <LastName>Shepherd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Norman</FirstName>
+        <LastName>Matlock</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harry</FirstName>
+        <LastName>Cohn (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Copper</FirstName>
+        <LastName>Cunningham</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

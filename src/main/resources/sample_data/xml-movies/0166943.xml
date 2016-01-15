@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Music of the Heart</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>Wes Craven</Director>
+    </Directed_By>
+    <Cast>
+      <Actor>
+        <FirstName>Meryl</FirstName>
+        <LastName>Streep</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Aidan</FirstName>
+        <LastName>Quinn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Angela</FirstName>
+        <LastName>Bassett</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cloris</FirstName>
+        <LastName>Leachman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gloria</FirstName>
+        <LastName>Estefan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Josh</FirstName>
+        <LastName>Pais</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jay</FirstName>
+        <LastName>O. Sanders</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charlie</FirstName>
+        <LastName>Hofheimer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kieran</FirstName>
+        <LastName>Culkin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Angarano</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Dinhofer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jane</FirstName>
+        <LastName>Leeves</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Karen</FirstName>
+        <LastName>Briggs</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Feldman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jean-Luke</FirstName>
+        <LastName>Figueroa</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Diane</FirstName>
+        <LastName>Monroe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>O'Connor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sandra</FirstName>
+        <LastName>Park</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Itzhak</FirstName>
+        <LastName>Perlman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arnold</FirstName>
+        <LastName>Steinhardt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Isaac</FirstName>
+        <LastName>Stern</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Tree</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Veal Jr.</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

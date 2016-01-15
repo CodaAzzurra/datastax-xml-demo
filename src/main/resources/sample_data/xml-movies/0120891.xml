@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Wild Wild West</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>Barry Sonnenfeld</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>Western</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Will</FirstName>
+        <LastName>Smith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Kline</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kenneth</FirstName>
+        <LastName>Branagh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Salma</FirstName>
+        <LastName>Hayek</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ted</FirstName>
+        <LastName>Levine</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>M.</FirstName>
+        <LastName>Emmet Walsh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ling</FirstName>
+        <LastName>Bai</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rodney</FirstName>
+        <LastName>A. Grant</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Garcelle</FirstName>
+        <LastName>Beauvais</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Musetta</FirstName>
+        <LastName>Vander</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sofia</FirstName>
+        <LastName>Eng</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frederique</FirstName>
+        <LastName>Van Der Wal</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ty</FirstName>
+        <LastName>O'Neal</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>Abercrombie</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kris</FirstName>
+        <LastName>Andersson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christian</FirstName>
+        <LastName>Aubert</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ismael</FirstName>
+        <LastName>'East' Carlo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carlos</FirstName>
+        <LastName>Cervantes (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Debra</FirstName>
+        <LastName>Christofferson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Orestes</FirstName>
+        <LastName>Matacena</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jerry</FirstName>
+        <LastName>Potter</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bob</FirstName>
+        <LastName>Rumnock</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Tom</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

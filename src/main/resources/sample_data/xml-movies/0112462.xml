@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Batman Forever</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>Joel Schumacher</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Fantasy</Genre>
+      <Genre>Action</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Val</FirstName>
+        <LastName>Kilmer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tommy</FirstName>
+        <LastName>Lee Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Carrey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nicole</FirstName>
+        <LastName>Kidman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>O'Donnell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Gough</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pat</FirstName>
+        <LastName>Hingle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Drew</FirstName>
+        <LastName>Barrymore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Debi</FirstName>
+        <LastName>Mazar</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elizabeth</FirstName>
+        <LastName>Sanders</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rene</FirstName>
+        <LastName>Auberjonois</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Grifasi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philip</FirstName>
+        <LastName>Moon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jessica</FirstName>
+        <LastName>Tuck</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dennis</FirstName>
+        <LastName>Paladino</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

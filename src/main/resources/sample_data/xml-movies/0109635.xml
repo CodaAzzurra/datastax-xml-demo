@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Disclosure</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>Barry Levinson</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Douglas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Demi</FirstName>
+        <LastName>Moore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Donald</FirstName>
+        <LastName>Sutherland</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Caroline</FirstName>
+        <LastName>Goodall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roma</FirstName>
+        <LastName>Maffia</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dylan</FirstName>
+        <LastName>Baker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rosemary</FirstName>
+        <LastName>Forsyth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dennis</FirstName>
+        <LastName>Miller (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Suzie</FirstName>
+        <LastName>Plakson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nicholas</FirstName>
+        <LastName>Sadler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jacqui</FirstName>
+        <LastName>Kim</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Urla</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Chieffo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>Attanasio</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Faryn</FirstName>
+        <LastName>Einhorn</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

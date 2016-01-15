@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Sunset Blvd.</Title>
+    <Year>1950</Year>
+    <Directed_By>
+      <Director>Billy Wilder</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Holden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gloria</FirstName>
+        <LastName>Swanson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Erich</FirstName>
+        <LastName>von Stroheim</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nancy</FirstName>
+        <LastName>Olson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fred</FirstName>
+        <LastName>Clark (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lloyd</FirstName>
+        <LastName>Gough</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Webb</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Franklyn</FirstName>
+        <LastName>Farnum</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Larry</FirstName>
+        <LastName>J. Blake</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Dayton (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cecil</FirstName>
+        <LastName>B. DeMille</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hedda</FirstName>
+        <LastName>Hopper</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Buster</FirstName>
+        <LastName>Keaton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anna</FirstName>
+        <LastName>Q. Nilsson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>H.B.</FirstName>
+        <LastName>Warner</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>L.A. Confidential</Title>
+    <Year>1997</Year>
+    <Directed_By>
+      <Director>Curtis Hanson</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Crime</Genre>
+      <Genre>Drama</Genre>
+      <Genre>Film-Noir</Genre>
+      <Genre>Mystery</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Spacey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Russell</FirstName>
+        <LastName>Crowe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Guy</FirstName>
+        <LastName>Pearce</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Cromwell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kim</FirstName>
+        <LastName>Basinger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Danny</FirstName>
+        <LastName>DeVito</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Strathairn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ron</FirstName>
+        <LastName>Rifkin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Matt</FirstName>
+        <LastName>McCoy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Guilfoyle (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paolo</FirstName>
+        <LastName>Seganti</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elisabeth</FirstName>
+        <LastName>Granli</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sandra</FirstName>
+        <LastName>Taylor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Rankin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Graham</FirstName>
+        <LastName>Beckel</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

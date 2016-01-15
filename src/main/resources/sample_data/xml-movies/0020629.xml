@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>All Quiet on the Western Front</Title>
+    <Year>1930</Year>
+    <Directed_By>
+      <Director>Lewis Milestone</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Lew</FirstName>
+        <LastName>Ayres</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Louis</FirstName>
+        <LastName>Wolheim</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Wray (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arnold</FirstName>
+        <LastName>Lucy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Slim</FirstName>
+        <LastName>Summerville</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Bakewell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ben</FirstName>
+        <LastName>Alexander</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scott</FirstName>
+        <LastName>Kolk</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Owen</FirstName>
+        <LastName>Davis Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Walter</FirstName>
+        <LastName>Rogers (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Russell</FirstName>
+        <LastName>Gleason</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Alexander (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harold</FirstName>
+        <LastName>Goodwin (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>G.</FirstName>
+        <LastName>Pat Collins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Beryl</FirstName>
+        <LastName>Mercer</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

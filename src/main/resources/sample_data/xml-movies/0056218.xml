@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Manchurian Candidate, The</Title>
+    <Year>1962</Year>
+    <Directed_By>
+      <Director>John Frankenheimer</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Film-Noir</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Sinatra</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laurence</FirstName>
+        <LastName>Harvey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Janet</FirstName>
+        <LastName>Leigh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Angela</FirstName>
+        <LastName>Lansbury</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Silva</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Gregory</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leslie</FirstName>
+        <LastName>Parrish</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>McGiver (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Khigh</FirstName>
+        <LastName>Dhiegh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Edwards (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Douglas</FirstName>
+        <LastName>Henderson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Albert</FirstName>
+        <LastName>Paulsen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barry</FirstName>
+        <LastName>Kelley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lloyd</FirstName>
+        <LastName>Corrigan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Madame</FirstName>
+        <LastName>Spivy</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

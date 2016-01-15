@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Speed</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>Jan de Bont</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Keanu</FirstName>
+        <LastName>Reeves</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dennis</FirstName>
+        <LastName>Hopper</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sandra</FirstName>
+        <LastName>Bullock</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Morton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeff</FirstName>
+        <LastName>Daniels</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alan</FirstName>
+        <LastName>Ruck</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Glenn</FirstName>
+        <LastName>Plummer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Lineback</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Beth</FirstName>
+        <LastName>Grant</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hawthorne</FirstName>
+        <LastName>James</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carlos</FirstName>
+        <LastName>Carrasco</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Kriegel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Natsuko</FirstName>
+        <LastName>Ohama</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daniel</FirstName>
+        <LastName>Villarreal</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Simone</FirstName>
+        <LastName>Gad</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

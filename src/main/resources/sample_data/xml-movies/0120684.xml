@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Gods and Monsters</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Bill Condon</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>McKellen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brendan</FirstName>
+        <LastName>Fraser</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lynn</FirstName>
+        <LastName>Redgrave</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lolita</FirstName>
+        <LastName>Davidovich</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Dukes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>J. O'Connor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Kiely</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Plotnick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rosalind</FirstName>
+        <LastName>Ayres</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Betts</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Matt</FirstName>
+        <LastName>McKenzie</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Todd</FirstName>
+        <LastName>Babcock</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cornelia</FirstName>
+        <LastName>Hayes O'Herlihy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brandon</FirstName>
+        <LastName>Kleyla</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pamela</FirstName>
+        <LastName>Salem</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

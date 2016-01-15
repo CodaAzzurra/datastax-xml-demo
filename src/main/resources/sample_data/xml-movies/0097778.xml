@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Look Who's Talking</Title>
+    <Year>1989</Year>
+    <Directed_By>
+      <Director>Amy Heckerling</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Travolta</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kirstie</FirstName>
+        <LastName>Alley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Olympia</FirstName>
+        <LastName>Dukakis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Segal</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Abe</FirstName>
+        <LastName>Vigoda</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Willis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Twink</FirstName>
+        <LastName>Caplan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Schaller</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jaryd</FirstName>
+        <LastName>Waterhouse</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jacob</FirstName>
+        <LastName>Haines</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Aydon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joy</FirstName>
+        <LastName>Boushel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Don</FirstName>
+        <LastName>S. Davis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Louis</FirstName>
+        <LastName>Heckerling</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brenda</FirstName>
+        <LastName>Crichlow</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

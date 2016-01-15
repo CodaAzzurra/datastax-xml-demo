@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Back to the Future</Title>
+    <Year>1985</Year>
+    <Directed_By>
+      <Director>Robert Zemeckis</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Adventure</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>J. Fox</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Lloyd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lea</FirstName>
+        <LastName>Thompson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Crispin</FirstName>
+        <LastName>Glover</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thomas</FirstName>
+        <LastName>F. Wilson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claudia</FirstName>
+        <LastName>Wells (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marc</FirstName>
+        <LastName>McClure (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wendie</FirstName>
+        <LastName>Jo Sperber</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>DiCenzo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lee</FirstName>
+        <LastName>McCain</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Tolkan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>J.J.</FirstName>
+        <LastName>Cohen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Casey</FirstName>
+        <LastName>Siemaszko</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Zane</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harry</FirstName>
+        <LastName>Waters Jr.</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

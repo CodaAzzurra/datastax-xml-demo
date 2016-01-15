@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Kindergarten Cop</Title>
+    <Year>1990</Year>
+    <Directed_By>
+      <Director>Ivan Reitman</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Arnold</FirstName>
+        <LastName>Schwarzenegger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Penelope</FirstName>
+        <LastName>Ann Miller</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pamela</FirstName>
+        <LastName>Reed</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Linda</FirstName>
+        <LastName>Hunt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Tyson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carroll</FirstName>
+        <LastName>Baker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>Cousins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christian</FirstName>
+        <LastName>Cousins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cathy</FirstName>
+        <LastName>Moriarty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Park</FirstName>
+        <LastName>Overall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jayne</FirstName>
+        <LastName>Brook</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Portnow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Kurlander</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alix</FirstName>
+        <LastName>Koromzay</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Betty</FirstName>
+        <LastName>Lou Henson</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

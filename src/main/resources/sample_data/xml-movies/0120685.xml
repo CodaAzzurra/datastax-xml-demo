@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Godzilla</Title>
+    <Year>1998</Year>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Matthew</FirstName>
+        <LastName>Broderick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jean</FirstName>
+        <LastName>Reno</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maria</FirstName>
+        <LastName>Pitillo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hank</FirstName>
+        <LastName>Azaria</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Dunn (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Lerner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harry</FirstName>
+        <LastName>Shearer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arabella</FirstName>
+        <LastName>Field</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vicki</FirstName>
+        <LastName>Lewis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Doug</FirstName>
+        <LastName>Savant</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Malcolm</FirstName>
+        <LastName>Danare</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lorry</FirstName>
+        <LastName>Goldman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christian</FirstName>
+        <LastName>Aubert</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philippe</FirstName>
+        <LastName>Bergeron (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Bruynbroek</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

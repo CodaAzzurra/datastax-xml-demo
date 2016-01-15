@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Bridges of Madison County, The</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>Clint Eastwood</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Clint</FirstName>
+        <LastName>Eastwood</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Meryl</FirstName>
+        <LastName>Streep</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Annie</FirstName>
+        <LastName>Corley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Victor</FirstName>
+        <LastName>Slezak</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Haynie</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sarah</FirstName>
+        <LastName>Kathryn Schmitt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Kroon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Phyllis</FirstName>
+        <LastName>Lyons</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Debra</FirstName>
+        <LastName>Monk</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Lage</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michelle</FirstName>
+        <LastName>Benes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alison</FirstName>
+        <LastName>Wiegert</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brandon</FirstName>
+        <LastName>Bobst</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pearl</FirstName>
+        <LastName>Faessler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>R.E.</FirstName>
+        <LastName>'Stick' Faessler</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

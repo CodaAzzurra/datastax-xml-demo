@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Buono, il brutto, il cattivo, Il</Title>
+    <Year>1966</Year>
+    <Directed_By>
+      <Director>Sergio Leone</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Western</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Clint</FirstName>
+        <LastName>Eastwood</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lee</FirstName>
+        <LastName>Van Cleef</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eli</FirstName>
+        <LastName>Wallach</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Aldo</FirstName>
+        <LastName>Giuffrè</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Luigi</FirstName>
+        <LastName>Pistilli</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rada</FirstName>
+        <LastName>Rassimov</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Enzo</FirstName>
+        <LastName>Petito</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claudio</FirstName>
+        <LastName>Scarchilli</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Bartho</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Livio</FirstName>
+        <LastName>Lorenzon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Antonio</FirstName>
+        <LastName>Casale</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sandro</FirstName>
+        <LastName>Scarchilli</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Benito</FirstName>
+        <LastName>Stefanelli</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Angelo</FirstName>
+        <LastName>Novi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Antonio</FirstName>
+        <LastName>Casas</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

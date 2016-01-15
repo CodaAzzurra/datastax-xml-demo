@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>How the Grinch Stole Christmas!</Title>
+    <Year>1966</Year>
+    <Directed_By>
+      <Director>Chuck Jones</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Short</Genre>
+      <Genre>Animation</Genre>
+      <Genre>Children's</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+  </Movie>
+</W4F_DOC>

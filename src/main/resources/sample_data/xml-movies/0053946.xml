@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Inherit the Wind</Title>
+    <Year>1960</Year>
+    <Directed_By>
+      <Director>Stanley Kramer</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Fredric</FirstName>
+        <LastName>March</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Spencer</FirstName>
+        <LastName>Tracy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gene</FirstName>
+        <LastName>Kelly</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dick</FirstName>
+        <LastName>York (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Donna</FirstName>
+        <LastName>Anderson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harry</FirstName>
+        <LastName>Morgan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elliott</FirstName>
+        <LastName>Reid</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philip</FirstName>
+        <LastName>Coolidge</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claude</FirstName>
+        <LastName>Akins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Hartman (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jimmy</FirstName>
+        <LastName>Boyd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Florence</FirstName>
+        <LastName>Eldridge</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

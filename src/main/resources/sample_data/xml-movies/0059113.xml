@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Doctor Zhivago</Title>
+    <Year>1965</Year>
+    <Directed_By>
+      <Director>David Lean</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Geraldine</FirstName>
+        <LastName>Chaplin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julie</FirstName>
+        <LastName>Christie (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Courtenay</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alec</FirstName>
+        <LastName>Guinness</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Siobhan</FirstName>
+        <LastName>McKenna</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ralph</FirstName>
+        <LastName>Richardson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Omar</FirstName>
+        <LastName>Sharif</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rod</FirstName>
+        <LastName>Steiger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rita</FirstName>
+        <LastName>Tushingham</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeffrey</FirstName>
+        <LastName>Rockland</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tarek</FirstName>
+        <LastName>Sharif</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bernard</FirstName>
+        <LastName>Kay</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Klaus</FirstName>
+        <LastName>Kinski</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gérard</FirstName>
+        <LastName>Tichy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Noel</FirstName>
+        <LastName>Willman</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

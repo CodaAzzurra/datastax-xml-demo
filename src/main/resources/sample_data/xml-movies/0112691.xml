@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Close Shave, A</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>Nick Park</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Animation</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Short</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Sallis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anne</FirstName>
+        <LastName>Reid</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

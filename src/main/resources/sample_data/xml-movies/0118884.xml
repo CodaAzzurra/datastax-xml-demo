@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Contact</Title>
+    <Year>1997</Year>
+    <Directed_By>
+      <Director>Robert Zemeckis</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jena</FirstName>
+        <LastName>Malone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Morse</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jodie</FirstName>
+        <LastName>Foster</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Geoffrey</FirstName>
+        <LastName>Blake</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Fichtner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sami</FirstName>
+        <LastName>Chester</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Timothy</FirstName>
+        <LastName>McNeil</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laura</FirstName>
+        <LastName>Elena Surillo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Matthew</FirstName>
+        <LastName>McConaughey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Skerritt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Strozier</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Chaban</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Max</FirstName>
+        <LastName>Martini</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Larry</FirstName>
+        <LastName>King (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thomas</FirstName>
+        <LastName>Garner</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

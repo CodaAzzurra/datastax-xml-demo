@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Patch Adams</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Tom Shadyac</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Robin</FirstName>
+        <LastName>Williams</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Monica</FirstName>
+        <LastName>Potter</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daniel</FirstName>
+        <LastName>London</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philip</FirstName>
+        <LastName>Seymour Hoffman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bob</FirstName>
+        <LastName>Gunton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Irma</FirstName>
+        <LastName>P. Hall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Josef</FirstName>
+        <LastName>Sommer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Coyote</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Jeter</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harve</FirstName>
+        <LastName>Presnell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Kiley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harold</FirstName>
+        <LastName>Gould</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Greene (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lee</FirstName>
+        <LastName>McCain</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daniella</FirstName>
+        <LastName>Kuhn</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

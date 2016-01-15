@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Fantasia</Title>
+    <Year>1940</Year>
+    <Directed_By>
+      <Director>James Algar</Director>
+      <Director>Samuel Armstrong (I)</Director>
+      <Director></Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Animation</Genre>
+      <Genre>Musical</Genre>
+      <Genre>Fantasy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Leopold</FirstName>
+        <LastName>Stokowski</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Deems</FirstName>
+        <LastName>Taylor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hugh</FirstName>
+        <LastName>Douglas (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julietta</FirstName>
+        <LastName>Novis</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

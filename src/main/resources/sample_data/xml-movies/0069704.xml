@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>American Graffiti</Title>
+    <Year>1973</Year>
+    <Directed_By>
+      <Director>George Lucas</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Dreyfuss</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ron</FirstName>
+        <LastName>Howard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Le Mat</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Martin Smith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cindy</FirstName>
+        <LastName>Williams (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Candy</FirstName>
+        <LastName>Clark</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mackenzie</FirstName>
+        <LastName>Phillips</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wolfman</FirstName>
+        <LastName>Jack</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bo</FirstName>
+        <LastName>Hopkins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Manuel</FirstName>
+        <LastName>Padilla Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Beau</FirstName>
+        <LastName>Gentry</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harrison</FirstName>
+        <LastName>Ford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Bohan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jana</FirstName>
+        <LastName>Bellan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Deby</FirstName>
+        <LastName>Celiz</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

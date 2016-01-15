@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Ace Ventura: When Nature Calls</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>Steve Oedekerk</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Carrey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>McNeice</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Simon</FirstName>
+        <LastName>Callow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maynard</FirstName>
+        <LastName>Eziashi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bob</FirstName>
+        <LastName>Gunton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sophie</FirstName>
+        <LastName>Okonedo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tommy</FirstName>
+        <LastName>Davidson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Adewale</FirstName>
+        <LastName>Akinnuoye-Agbaje</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Danny</FirstName>
+        <LastName>D. Daniels</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sam</FirstName>
+        <LastName>Motoana Phillips</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Damon</FirstName>
+        <LastName>Standifer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Andrew</FirstName>
+        <LastName>Steel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Spence</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thomas</FirstName>
+        <LastName>Grunke</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arsenio</FirstName>
+        <LastName>'Sonny' Trinidad</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

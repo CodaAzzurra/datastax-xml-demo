@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Jaws 2</Title>
+    <Year>1978</Year>
+    <Directed_By>
+      <Director>Jeannot Szwarc</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Horror</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Roy</FirstName>
+        <LastName>Scheider</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lorraine</FirstName>
+        <LastName>Gary</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Murray</FirstName>
+        <LastName>Hamilton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>Mascolo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeffrey</FirstName>
+        <LastName>Kramer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Collin</FirstName>
+        <LastName>Wilcox Paxton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ann</FirstName>
+        <LastName>Dusenberry</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Gruner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barry</FirstName>
+        <LastName>Coe (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Susan</FirstName>
+        <LastName>French (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Springer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Donna</FirstName>
+        <LastName>Wilkes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Dubin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Dukakis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>G.</FirstName>
+        <LastName>Thomas Dunlop</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

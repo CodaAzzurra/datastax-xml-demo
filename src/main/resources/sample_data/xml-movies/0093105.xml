@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Good Morning, Vietnam</Title>
+    <Year>1987</Year>
+    <Directed_By>
+      <Director>Barry Levinson</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Robin</FirstName>
+        <LastName>Williams</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Forest</FirstName>
+        <LastName>Whitaker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tung</FirstName>
+        <LastName>Thanh Tran</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chintara</FirstName>
+        <LastName>Sukapatana</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruno</FirstName>
+        <LastName>Kirby</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Wuhl</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>J.T.</FirstName>
+        <LastName>Walsh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Noble</FirstName>
+        <LastName>Willingham</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Edson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Juney</FirstName>
+        <LastName>Smith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Portnow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Floyd</FirstName>
+        <LastName>Vivino</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cu</FirstName>
+        <LastName>Ba Nguyen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dan</FirstName>
+        <LastName>Stanton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Don</FirstName>
+        <LastName>Stanton</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

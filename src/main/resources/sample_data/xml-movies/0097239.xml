@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Driving Miss Daisy</Title>
+    <Year>1989</Year>
+    <Directed_By>
+      <Director>Bruce Beresford</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Morgan</FirstName>
+        <LastName>Freeman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jessica</FirstName>
+        <LastName>Tandy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dan</FirstName>
+        <LastName>Aykroyd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patti</FirstName>
+        <LastName>LuPone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Esther</FirstName>
+        <LastName>Rolle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jo</FirstName>
+        <LastName>Ann Havrilla</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Hall Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alvin</FirstName>
+        <LastName>M. Sugarman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clarice</FirstName>
+        <LastName>F. Geigerman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Muriel</FirstName>
+        <LastName>Moore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sylvia</FirstName>
+        <LastName>Kaler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carolyn</FirstName>
+        <LastName>Gold</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Crystal</FirstName>
+        <LastName>R. Fox</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bob</FirstName>
+        <LastName>Hannah (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ray</FirstName>
+        <LastName>McKinnon</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

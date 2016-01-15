@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Happiness</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Todd Solondz</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jane</FirstName>
+        <LastName>Adams (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jon</FirstName>
+        <LastName>Lovitz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philip</FirstName>
+        <LastName>Seymour Hoffman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dylan</FirstName>
+        <LastName>Baker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lara</FirstName>
+        <LastName>Flynn Boyle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Justin</FirstName>
+        <LastName>Elvin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cynthia</FirstName>
+        <LastName>Stevenson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lila</FirstName>
+        <LastName>Glantzman-Leib</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gerry</FirstName>
+        <LastName>Becker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rufus</FirstName>
+        <LastName>Read</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Louise</FirstName>
+        <LastName>Lasser</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ben</FirstName>
+        <LastName>Gazzara</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Camryn</FirstName>
+        <LastName>Manheim</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arthur</FirstName>
+        <LastName>J. Nascarella</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Molly</FirstName>
+        <LastName>Shannon</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

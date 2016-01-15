@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Fish Called Wanda, A</Title>
+    <Year>1988</Year>
+    <Directed_By>
+      <Director>Charles Crichton</Director>
+      <Director></Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Cleese</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jamie</FirstName>
+        <LastName>Lee Curtis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Kline</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Palin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maria</FirstName>
+        <LastName>Aitken</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Georgeson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patricia</FirstName>
+        <LastName>Hayes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Geoffrey</FirstName>
+        <LastName>Palmer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cynthia</FirstName>
+        <LastName>Cleese</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Elwes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Neville</FirstName>
+        <LastName>Phillips</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Jonfield</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ken</FirstName>
+        <LastName>Campbell (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Al</FirstName>
+        <LastName>Ashton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roger</FirstName>
+        <LastName>Hume</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

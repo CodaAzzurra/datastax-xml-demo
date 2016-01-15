@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>City of Angels</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Brad Silberling</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Fantasy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Nicolas</FirstName>
+        <LastName>Cage</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Meg</FirstName>
+        <LastName>Ryan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>André</FirstName>
+        <LastName>Braugher</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dennis</FirstName>
+        <LastName>Franz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Colm</FirstName>
+        <LastName>Feore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robin</FirstName>
+        <LastName>Bartlett</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joanna</FirstName>
+        <LastName>Merlin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sarah</FirstName>
+        <LastName>Dampf</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rhonda</FirstName>
+        <LastName>Dotson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nigel</FirstName>
+        <LastName>Gibbs</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Putch</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lauri</FirstName>
+        <LastName>Johnson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christian</FirstName>
+        <LastName>Aubert</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jay</FirstName>
+        <LastName>Patterson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shishir</FirstName>
+        <LastName>Kurup</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

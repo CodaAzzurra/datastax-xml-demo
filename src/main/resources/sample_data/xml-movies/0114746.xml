@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Twelve Monkeys</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>Terry Gilliam</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Willis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>Melito</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joey</FirstName>
+        <LastName>Perillo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brad</FirstName>
+        <LastName>Pitt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Plummer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Chance</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vernon</FirstName>
+        <LastName>Campbell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Morse</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>H.</FirstName>
+        <LastName>Michael Walls</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bob</FirstName>
+        <LastName>Adrian</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Meloni</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Simon</FirstName>
+        <LastName>Jones (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carol</FirstName>
+        <LastName>Florence</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Raymond (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ernest</FirstName>
+        <LastName>Abuba</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Point of No Return</Title>
+    <Year>1993</Year>
+    <Directed_By>
+      <Director>John Badham</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Bridget</FirstName>
+        <LastName>Fonda</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gabriel</FirstName>
+        <LastName>Byrne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dermot</FirstName>
+        <LastName>Mulroney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Miguel</FirstName>
+        <LastName>Ferrer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anne</FirstName>
+        <LastName>Bancroft</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Olivia</FirstName>
+        <LastName>d'Abo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Romanus</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harvey</FirstName>
+        <LastName>Keitel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lorraine</FirstName>
+        <LastName>Toussaint</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Geoffrey</FirstName>
+        <LastName>Lewis (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mic</FirstName>
+        <LastName>Rodgers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Rapaport</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ray</FirstName>
+        <LastName>Oriel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Spike</FirstName>
+        <LastName>McClure</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lieux</FirstName>
+        <LastName>Dressler</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

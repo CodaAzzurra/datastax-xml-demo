@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Lone Star</Title>
+    <Year>1996</Year>
+    <Directed_By>
+      <Director>John Sayles</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Mystery</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Stephen</FirstName>
+        <LastName>Mendillo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stephen</FirstName>
+        <LastName>J. Lang</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>Cooper (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elizabeth</FirstName>
+        <LastName>Peña</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Oni</FirstName>
+        <LastName>Faida Lampley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eleese</FirstName>
+        <LastName>Lester</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Stevens</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gonzalo</FirstName>
+        <LastName>Castillo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Coca</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clifton</FirstName>
+        <LastName>James</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Frank</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Miriam</FirstName>
+        <LastName>Colon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kris</FirstName>
+        <LastName>Kristofferson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeff</FirstName>
+        <LastName>Monahan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Matthew</FirstName>
+        <LastName>McConaughey</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

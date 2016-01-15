@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>First Wives Club, The</Title>
+    <Year>1996</Year>
+    <Directed_By>
+      <Director>Hugh Wilson</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Bette</FirstName>
+        <LastName>Midler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Goldie</FirstName>
+        <LastName>Hawn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Diane</FirstName>
+        <LastName>Keaton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maggie</FirstName>
+        <LastName>Smith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sarah</FirstName>
+        <LastName>Jessica Parker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dan</FirstName>
+        <LastName>Hedaya</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stockard</FirstName>
+        <LastName>Channing</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Victor</FirstName>
+        <LastName>Garber</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stephen</FirstName>
+        <LastName>Collins (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elizabeth</FirstName>
+        <LastName>Berkley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marcia</FirstName>
+        <LastName>Gay Harden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bronson</FirstName>
+        <LastName>Pinchot</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jennifer</FirstName>
+        <LastName>Dundas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eileen</FirstName>
+        <LastName>Heckart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philip</FirstName>
+        <LastName>Bosco</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

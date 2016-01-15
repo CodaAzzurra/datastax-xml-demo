@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Godfather: Part II, The</Title>
+    <Year>1974</Year>
+    <Directed_By>
+      <Director>Francis Coppola</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Crime</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Al</FirstName>
+        <LastName>Pacino</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Duvall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Diane</FirstName>
+        <LastName>Keaton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>De Niro</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Cazale</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Talia</FirstName>
+        <LastName>Shire</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lee</FirstName>
+        <LastName>Strasberg</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>V. Gazzo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>G.D.</FirstName>
+        <LastName>Spradlin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Bright</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gastone</FirstName>
+        <LastName>Moschin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Rosqui</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruno</FirstName>
+        <LastName>Kirby</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Sivero</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Francesca</FirstName>
+        <LastName>De Sapio</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

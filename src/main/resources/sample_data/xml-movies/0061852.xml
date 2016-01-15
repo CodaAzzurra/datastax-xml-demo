@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Jungle Book, The</Title>
+    <Year>1967</Year>
+    <Directed_By>
+      <Director>Wolfgang Reitherman</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Animation</Genre>
+      <Genre>Children's</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Musical</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Phil</FirstName>
+        <LastName>Harris (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sebastian</FirstName>
+        <LastName>Cabot</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Louis</FirstName>
+        <LastName>Prima</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Sanders</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sterling</FirstName>
+        <LastName>Holloway</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>J.</FirstName>
+        <LastName>Pat O'Malley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Reitherman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Verna</FirstName>
+        <LastName>Felton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clint</FirstName>
+        <LastName>Howard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chad</FirstName>
+        <LastName>Stuart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lord</FirstName>
+        <LastName>Tim Hudson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Abbott (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ben</FirstName>
+        <LastName>Wright (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Darleen</FirstName>
+        <LastName>Carr</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

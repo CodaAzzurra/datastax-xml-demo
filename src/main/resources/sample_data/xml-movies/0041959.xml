@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Third Man, The</Title>
+    <Year>1949</Year>
+    <Directed_By>
+      <Director>Carol Reed</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Mystery</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>Cotten</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alida</FirstName>
+        <LastName>Valli</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Orson</FirstName>
+        <LastName>Welles</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Trevor</FirstName>
+        <LastName>Howard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Hörbiger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ernst</FirstName>
+        <LastName>Deutsch</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Erich</FirstName>
+        <LastName>Ponto</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Siegfried</FirstName>
+        <LastName>Breuer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hedwig</FirstName>
+        <LastName>Bleibtreu</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bernard</FirstName>
+        <LastName>Lee (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wilfrid</FirstName>
+        <LastName>Hyde-White</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

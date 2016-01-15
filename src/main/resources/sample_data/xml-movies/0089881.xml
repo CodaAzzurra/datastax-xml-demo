@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Ran</Title>
+    <Year>1985</Year>
+    <Directed_By>
+      <Director>Akira Kurosawa</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tatsuya</FirstName>
+        <LastName>Nakadai</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Akira</FirstName>
+        <LastName>Terao</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jinpachi</FirstName>
+        <LastName>Nezu</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daisuke</FirstName>
+        <LastName>Ryu</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mieko</FirstName>
+        <LastName>Harada</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Yoshiko</FirstName>
+        <LastName>Miyazaki</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Masayuki</FirstName>
+        <LastName>Yui</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kazuo</FirstName>
+        <LastName>Kato</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hitoshi</FirstName>
+        <LastName>Ueki</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jun</FirstName>
+        <LastName>Tazaki</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Norio</FirstName>
+        <LastName>Matsui</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hisashi</FirstName>
+        <LastName>Igawa</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kenji</FirstName>
+        <LastName>Kodama</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Toshiya</FirstName>
+        <LastName>Ito</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

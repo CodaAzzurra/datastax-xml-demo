@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Dirty Dancing</Title>
+    <Year>1987</Year>
+    <Directed_By>
+      <Director>Emile Ardolino</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Musical</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Patrick</FirstName>
+        <LastName>Swayze</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jennifer</FirstName>
+        <LastName>Grey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jerry</FirstName>
+        <LastName>Orbach</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cynthia</FirstName>
+        <LastName>Rhodes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kelly</FirstName>
+        <LastName>Bishop</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jane</FirstName>
+        <LastName>Brucker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lonny</FirstName>
+        <LastName>Price (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Max</FirstName>
+        <LastName>Cantor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paula</FirstName>
+        <LastName>Trueman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>'Cousin</FirstName>
+        <LastName>Brucie' Morrow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>'Honi' Coles</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Weston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Neal</FirstName>
+        <LastName>Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wayne</FirstName>
+        <LastName>Knight</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alvin</FirstName>
+        <LastName>Myerovich</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Casper</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>Brad Silberling</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Children's</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Fantasy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Christina</FirstName>
+        <LastName>Ricci</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Pullman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cathy</FirstName>
+        <LastName>Moriarty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eric</FirstName>
+        <LastName>Idle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Nipote</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Alaskey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brad</FirstName>
+        <LastName>Garrett</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Garette</FirstName>
+        <LastName>Ratliff Henson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jessica</FirstName>
+        <LastName>Wesson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Amy</FirstName>
+        <LastName>Brenneman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Malachi</FirstName>
+        <LastName>Pearson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chauncey</FirstName>
+        <LastName>Leopardi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Spencer</FirstName>
+        <LastName>Vrooman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ben</FirstName>
+        <LastName>Stein</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Don</FirstName>
+        <LastName>Novello</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

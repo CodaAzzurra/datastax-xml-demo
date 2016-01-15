@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Deep Impact</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Mimi Leder</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>Action</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Duvall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Téa</FirstName>
+        <LastName>Leoni</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elijah</FirstName>
+        <LastName>Wood</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vanessa</FirstName>
+        <LastName>Redgrave</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Morgan</FirstName>
+        <LastName>Freeman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maximilian</FirstName>
+        <LastName>Schell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Cromwell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ron</FirstName>
+        <LastName>Eldard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jon</FirstName>
+        <LastName>Favreau</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laura</FirstName>
+        <LastName>Innes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mary</FirstName>
+        <LastName>McCormack</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Schiff</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leelee</FirstName>
+        <LastName>Sobieski</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Blair</FirstName>
+        <LastName>Underwood</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dougray</FirstName>
+        <LastName>Scott</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

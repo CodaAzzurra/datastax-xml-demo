@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>One Flew Over the Cuckoo's Nest</Title>
+    <Year>1975</Year>
+    <Directed_By>
+      <Director>Milos Forman</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Nicholson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Louise</FirstName>
+        <LastName>Fletcher</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Redfield</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Berryman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Brocco</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dean</FirstName>
+        <LastName>R. Brooks</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alonzo</FirstName>
+        <LastName>Brown</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scatman</FirstName>
+        <LastName>Crothers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mwako</FirstName>
+        <LastName>Cumbuka</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Danny</FirstName>
+        <LastName>DeVito</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Duell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Josip</FirstName>
+        <LastName>Elic</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lan</FirstName>
+        <LastName>Fendors</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nathan</FirstName>
+        <LastName>George</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ken</FirstName>
+        <LastName>Kenny (II)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Au revoir les enfants</Title>
+    <Year>1987</Year>
+    <Directed_By>
+      <Director>Louis Malle</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Gaspard</FirstName>
+        <LastName>Manesse</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Raphael</FirstName>
+        <LastName>Fejtö</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Francine</FirstName>
+        <LastName>Racette</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stanislas</FirstName>
+        <LastName>Carré de Malberg</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philippe</FirstName>
+        <LastName>Morier-Genoud</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>François</FirstName>
+        <LastName>Berléand</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>François</FirstName>
+        <LastName>Négret</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Fitz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pascal</FirstName>
+        <LastName>Rivet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Benoît</FirstName>
+        <LastName>Henriet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Leboeuf</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Xavier</FirstName>
+        <LastName>Legrand</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arnaud</FirstName>
+        <LastName>Henriet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jean-Sébastien</FirstName>
+        <LastName>Chauvin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Luc</FirstName>
+        <LastName>Etienne</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Dumb &amp; Dumber</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>Peter Farrelly</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Carrey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeff</FirstName>
+        <LastName>Daniels</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lauren</FirstName>
+        <LastName>Holly</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mike</FirstName>
+        <LastName>Starr (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Karen</FirstName>
+        <LastName>Duffy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Rocket</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Victoria</FirstName>
+        <LastName>Rowell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Baker (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hank</FirstName>
+        <LastName>Brandt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Teri</FirstName>
+        <LastName>Garr</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brady</FirstName>
+        <LastName>Bluhm</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cam</FirstName>
+        <LastName>Neely</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Felton</FirstName>
+        <LastName>Perry</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brad</FirstName>
+        <LastName>Lockerman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rob</FirstName>
+        <LastName>Moran</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

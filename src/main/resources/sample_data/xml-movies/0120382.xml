@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Truman Show, The</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Peter Weir</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Fantasy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Carrey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laura</FirstName>
+        <LastName>Linney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Noah</FirstName>
+        <LastName>Emmerich</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Natascha</FirstName>
+        <LastName>McElhone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Holland</FirstName>
+        <LastName>Taylor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brian</FirstName>
+        <LastName>Delate</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Blair</FirstName>
+        <LastName>Slater</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Krause (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Heidi</FirstName>
+        <LastName>Schanz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ron</FirstName>
+        <LastName>Taylor (IV)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Don</FirstName>
+        <LastName>Taylor (III)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ted</FirstName>
+        <LastName>Raymond</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Judy</FirstName>
+        <LastName>Clayton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fritz</FirstName>
+        <LastName>Dominique</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Angel</FirstName>
+        <LastName>Schmiedt</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

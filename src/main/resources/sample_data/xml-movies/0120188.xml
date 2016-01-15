@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Three Kings</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>David O. Russell</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Action</Genre>
+      <Genre>War</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Clooney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Wahlberg</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ice</FirstName>
+        <LastName>Cube</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Spike</FirstName>
+        <LastName>Jonze</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nora</FirstName>
+        <LastName>Dunn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jamie</FirstName>
+        <LastName>Kennedy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mykelti</FirstName>
+        <LastName>Williamson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cliff</FirstName>
+        <LastName>Curtis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Saïd</FirstName>
+        <LastName>Taghmaoui</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Judy</FirstName>
+        <LastName>Greer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Liz</FirstName>
+        <LastName>Stauber</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Holt</FirstName>
+        <LastName>McCallany</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Gaffigan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Lohr</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mohammed</FirstName>
+        <LastName>Sharafi</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

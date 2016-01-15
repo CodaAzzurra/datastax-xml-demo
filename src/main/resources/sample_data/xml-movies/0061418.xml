@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Bonnie and Clyde</Title>
+    <Year>1967</Year>
+    <Directed_By>
+      <Director>Arthur Penn</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Crime</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Warren</FirstName>
+        <LastName>Beatty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Faye</FirstName>
+        <LastName>Dunaway</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>J. Pollard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gene</FirstName>
+        <LastName>Hackman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Estelle</FirstName>
+        <LastName>Parsons</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Denver</FirstName>
+        <LastName>Pyle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dub</FirstName>
+        <LastName>Taylor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Evans</FirstName>
+        <LastName>Evans</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gene</FirstName>
+        <LastName>Wilder</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

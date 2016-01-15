@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Psycho</Title>
+    <Year>1960</Year>
+    <Directed_By>
+      <Director>Alfred Hitchcock</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Horror</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Anthony</FirstName>
+        <LastName>Perkins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vera</FirstName>
+        <LastName>Miles</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Gavin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Martin</FirstName>
+        <LastName>Balsam</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>McIntire (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Simon</FirstName>
+        <LastName>Oakland</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vaughn</FirstName>
+        <LastName>Taylor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Albertson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lurene</FirstName>
+        <LastName>Tuttle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patricia</FirstName>
+        <LastName>Hitchcock</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Anderson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mort</FirstName>
+        <LastName>Mills</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Janet</FirstName>
+        <LastName>Leigh</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

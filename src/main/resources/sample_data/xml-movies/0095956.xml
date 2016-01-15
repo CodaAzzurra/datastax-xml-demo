@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Rambo III</Title>
+    <Year>1988</Year>
+    <Directed_By>
+      <Director>Peter MacDonald</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Sylvester</FirstName>
+        <LastName>Stallone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Crenna</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marc</FirstName>
+        <LastName>de Jonge</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kurtwood</FirstName>
+        <LastName>Smith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Spiros</FirstName>
+        <LastName>Focás</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sasson</FirstName>
+        <LastName>Gabai</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Doudi</FirstName>
+        <LastName>Shoua</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Randy</FirstName>
+        <LastName>Raney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marcus</FirstName>
+        <LastName>Gilbert</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alon</FirstName>
+        <LastName>Abutbul</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mahmoud</FirstName>
+        <LastName>Assadollahi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>Shiloach</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harold</FirstName>
+        <LastName>Diamond</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Seri</FirstName>
+        <LastName>Mati</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hany</FirstName>
+        <LastName>Said El Deen</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

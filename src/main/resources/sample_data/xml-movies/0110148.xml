@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Interview with the Vampire</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>Neil Jordan</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Horror</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Brad</FirstName>
+        <LastName>Pitt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christian</FirstName>
+        <LastName>Slater</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Virginia</FirstName>
+        <LastName>McCollam</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>McConnell (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Cruise</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mike</FirstName>
+        <LastName>Seelig</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bellina</FirstName>
+        <LastName>Logan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thandie</FirstName>
+        <LastName>Newton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lyla</FirstName>
+        <LastName>Hay Owen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lee</FirstName>
+        <LastName>Emery</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Indra</FirstName>
+        <LastName>Ové</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Helen</FirstName>
+        <LastName>McCrory</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Monte</FirstName>
+        <LastName>Montague (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kirsten</FirstName>
+        <LastName>Dunst</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nathalie</FirstName>
+        <LastName>Bloch</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

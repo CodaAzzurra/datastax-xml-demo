@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Rush Hour</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Brett Ratner</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Ken</FirstName>
+        <LastName>Leung</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jackie</FirstName>
+        <LastName>Chan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Wilkinson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tzi</FirstName>
+        <LastName>Ma</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Littman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Chow (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julia</FirstName>
+        <LastName>Hsu</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>Tucker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>Penn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kai</FirstName>
+        <LastName>Lennox</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Larry</FirstName>
+        <LastName>Sullivan Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Yang</FirstName>
+        <LastName>Lin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roger</FirstName>
+        <LastName>Fan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Cheung</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lucy</FirstName>
+        <LastName>Lin</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

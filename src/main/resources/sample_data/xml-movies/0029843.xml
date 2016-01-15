@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Adventures of Robin Hood, The</Title>
+    <Year>1938</Year>
+    <Directed_By>
+      <Director>Michael Curtiz</Director>
+      <Director>William Keighley</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Errol</FirstName>
+        <LastName>Flynn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Olivia</FirstName>
+        <LastName>de Havilland</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Basil</FirstName>
+        <LastName>Rathbone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claude</FirstName>
+        <LastName>Rains</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patric</FirstName>
+        <LastName>Knowles</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eugene</FirstName>
+        <LastName>Pallette</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alan</FirstName>
+        <LastName>Hale</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Melville</FirstName>
+        <LastName>Cooper</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>Hunter (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Una</FirstName>
+        <LastName>O'Connor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Herbert</FirstName>
+        <LastName>Mundin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Montagu</FirstName>
+        <LastName>Love</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leonard</FirstName>
+        <LastName>Willey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Noble</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kenneth</FirstName>
+        <LastName>Hunter (I)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

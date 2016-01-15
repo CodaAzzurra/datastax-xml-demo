@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>My Best Friend's Wedding</Title>
+    <Year>1997</Year>
+    <Directed_By>
+      <Director>P.J. Hogan</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Julia</FirstName>
+        <LastName>Roberts</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dermot</FirstName>
+        <LastName>Mulroney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cameron</FirstName>
+        <LastName>Diaz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rupert</FirstName>
+        <LastName>Everett</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philip</FirstName>
+        <LastName>Bosco</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>M.</FirstName>
+        <LastName>Emmet Walsh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rachel</FirstName>
+        <LastName>Griffiths (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carrie</FirstName>
+        <LastName>Preston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Susan</FirstName>
+        <LastName>Sullivan (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Masterson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Raci</FirstName>
+        <LastName>Alexander</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jennifer</FirstName>
+        <LastName>Garrett</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kelly</FirstName>
+        <LastName>Sheerin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bree</FirstName>
+        <LastName>Turner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cassie</FirstName>
+        <LastName>Creasy</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

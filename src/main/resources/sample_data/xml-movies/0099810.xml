@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Hunt for Red October, The</Title>
+    <Year>1990</Year>
+    <Directed_By>
+      <Director>John McTiernan</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Sean</FirstName>
+        <LastName>Connery</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alec</FirstName>
+        <LastName>Baldwin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scott</FirstName>
+        <LastName>Glenn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sam</FirstName>
+        <LastName>Neill</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Earl Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joss</FirstName>
+        <LastName>Ackland</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Jordan (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Firth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tim</FirstName>
+        <LastName>Curry</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Courtney</FirstName>
+        <LastName>B. Vance</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stellan</FirstName>
+        <LastName>Skarsgård</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeffrey</FirstName>
+        <LastName>Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Timothy</FirstName>
+        <LastName>Carhart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Larry</FirstName>
+        <LastName>Ferguson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fred</FirstName>
+        <LastName>Dalton Thompson</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

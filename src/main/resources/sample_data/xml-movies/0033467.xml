@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Citizen Kane</Title>
+    <Year>1941</Year>
+    <Directed_By>
+      <Director>Orson Welles</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Orson</FirstName>
+        <LastName>Welles</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dorothy</FirstName>
+        <LastName>Comingore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>Cotten</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Agnes</FirstName>
+        <LastName>Moorehead</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ruth</FirstName>
+        <LastName>Warrick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ray</FirstName>
+        <LastName>Collins (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Erskine</FirstName>
+        <LastName>Sanford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Everett</FirstName>
+        <LastName>Sloane</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Alland</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Stewart (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Coulouris</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fortunio</FirstName>
+        <LastName>Bonanova</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gus</FirstName>
+        <LastName>Schilling</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philip</FirstName>
+        <LastName>Van Zandt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Katherine</FirstName>
+        <LastName>Trosper</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

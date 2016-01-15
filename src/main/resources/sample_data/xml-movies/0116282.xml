@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Fargo</Title>
+    <Year>1996</Year>
+    <Directed_By>
+      <Director>Joel Coen</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>H. Macy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Buscemi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Stormare</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kristin</FirstName>
+        <LastName>Rudrud</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harve</FirstName>
+        <LastName>Presnell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Denman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Houston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sally</FirstName>
+        <LastName>Wingert</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kurt</FirstName>
+        <LastName>Schweickhardt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Larissa</FirstName>
+        <LastName>Kokernot</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Melissa</FirstName>
+        <LastName>Peterman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Reevis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Warren</FirstName>
+        <LastName>Keith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Edelman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sharon</FirstName>
+        <LastName>Anderson</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

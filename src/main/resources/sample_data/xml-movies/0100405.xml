@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Pretty Woman</Title>
+    <Year>1990</Year>
+    <Directed_By>
+      <Director>Garry Marshall</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Gere</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julia</FirstName>
+        <LastName>Roberts</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ralph</FirstName>
+        <LastName>Bellamy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Alexander (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laura</FirstName>
+        <LastName>San Giacomo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hector</FirstName>
+        <LastName>Elizondo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alex</FirstName>
+        <LastName>Hyde-White</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Amy</FirstName>
+        <LastName>Yasbeck</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elinor</FirstName>
+        <LastName>Donahue</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Judith</FirstName>
+        <LastName>Baldwin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Randal</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Applebaum</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tracy</FirstName>
+        <LastName>Bjork</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Greene</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Gallo</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

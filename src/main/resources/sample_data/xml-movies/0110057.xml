@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Hoop Dreams</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>Steve James (II)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Documentary</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Gates</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arthur</FirstName>
+        <LastName>Agee</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Emma</FirstName>
+        <LastName>Gates</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Curtis</FirstName>
+        <LastName>Gates</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sheila</FirstName>
+        <LastName>Agee</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arthur</FirstName>
+        <LastName>'Bo' Agee</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Earl</FirstName>
+        <LastName>Smith (III)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gene</FirstName>
+        <LastName>Pingatore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Isiah</FirstName>
+        <LastName>Thomas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sister</FirstName>
+        <LastName>Marlyn Hopewell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Gleason</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patricia</FirstName>
+        <LastName>Weir</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marjorie</FirstName>
+        <LastName>Heard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Luther</FirstName>
+        <LastName>Bedford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Aretha</FirstName>
+        <LastName>Mitchell</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

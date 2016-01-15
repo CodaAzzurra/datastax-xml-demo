@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Sense and Sensibility</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>Ang Lee</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Fleet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Wilkinson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harriet</FirstName>
+        <LastName>Walter</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kate</FirstName>
+        <LastName>Winslet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Emma</FirstName>
+        <LastName>Thompson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gemma</FirstName>
+        <LastName>Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hugh</FirstName>
+        <LastName>Grant</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Emilie</FirstName>
+        <LastName>Francois</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elizabeth</FirstName>
+        <LastName>Spriggs</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Hardy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>Brimble</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Isabelle</FirstName>
+        <LastName>Amyes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alan</FirstName>
+        <LastName>Rickman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Greg</FirstName>
+        <LastName>Wise</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alexander</FirstName>
+        <LastName>John</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Lethal Weapon 3</Title>
+    <Year>1992</Year>
+    <Directed_By>
+      <Director>Richard Donner</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Mel</FirstName>
+        <LastName>Gibson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Danny</FirstName>
+        <LastName>Glover</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Pesci</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rene</FirstName>
+        <LastName>Russo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stuart</FirstName>
+        <LastName>Wilson (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Kahan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Darlene</FirstName>
+        <LastName>Love</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Traci</FirstName>
+        <LastName>Wolfe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Damon</FirstName>
+        <LastName>Hines</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ebonie</FirstName>
+        <LastName>Smith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gregory</FirstName>
+        <LastName>Millar</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nick</FirstName>
+        <LastName>Chinlund</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Meshover-Iorg</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alan</FirstName>
+        <LastName>Scarfe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Delores</FirstName>
+        <LastName>Hall (II)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

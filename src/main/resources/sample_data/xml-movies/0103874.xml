@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Dracula</Title>
+    <Year>1992</Year>
+    <Directed_By>
+      <Director>Francis Coppola</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Horror</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Oldman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Winona</FirstName>
+        <LastName>Ryder</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anthony</FirstName>
+        <LastName>Hopkins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Keanu</FirstName>
+        <LastName>Reeves</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>E. Grant</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cary</FirstName>
+        <LastName>Elwes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Campbell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sadie</FirstName>
+        <LastName>Frost</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Waits</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Monica</FirstName>
+        <LastName>Bellucci</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michaela</FirstName>
+        <LastName>Bercu</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Florina</FirstName>
+        <LastName>Kendrick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jay</FirstName>
+        <LastName>Robinson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>I.M.</FirstName>
+        <LastName>Hobson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maud</FirstName>
+        <LastName>Winchester</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

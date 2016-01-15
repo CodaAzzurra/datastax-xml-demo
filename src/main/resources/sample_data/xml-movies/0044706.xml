@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>High Noon</Title>
+    <Year>1952</Year>
+    <Directed_By>
+      <Director>Fred Zinnemann</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Thriller</Genre>
+      <Genre>Western</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Cooper</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thomas</FirstName>
+        <LastName>Mitchell (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lloyd</FirstName>
+        <LastName>Bridges</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Katy</FirstName>
+        <LastName>Jurado</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Grace</FirstName>
+        <LastName>Kelly</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Otto</FirstName>
+        <LastName>Kruger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lon</FirstName>
+        <LastName>Chaney Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harry</FirstName>
+        <LastName>Morgan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>MacDonald (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eve</FirstName>
+        <LastName>McVeagh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Morgan</FirstName>
+        <LastName>Farley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harry</FirstName>
+        <LastName>Shannon (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lee</FirstName>
+        <LastName>Van Cleef</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>J. Wilke</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sheb</FirstName>
+        <LastName>Wooley</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

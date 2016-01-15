@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Tootsie</Title>
+    <Year>1982</Year>
+    <Directed_By>
+      <Director>Sydney Pollack</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Dustin</FirstName>
+        <LastName>Hoffman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jessica</FirstName>
+        <LastName>Lange</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Teri</FirstName>
+        <LastName>Garr</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dabney</FirstName>
+        <LastName>Coleman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Durning</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Murray</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sydney</FirstName>
+        <LastName>Pollack</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Gaynes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Geena</FirstName>
+        <LastName>Davis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Doris</FirstName>
+        <LastName>Belack</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ellen</FirstName>
+        <LastName>Foley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Gatto</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lynne</FirstName>
+        <LastName>Thigpen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ronald</FirstName>
+        <LastName>L. Schwary</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Debra</FirstName>
+        <LastName>Mooney</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

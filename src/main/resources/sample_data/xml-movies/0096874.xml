@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Back to the Future Part II</Title>
+    <Year>1989</Year>
+    <Directed_By>
+      <Director>Robert Zemeckis</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>J. Fox</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Lloyd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lea</FirstName>
+        <LastName>Thompson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thomas</FirstName>
+        <LastName>F. Wilson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elisabeth</FirstName>
+        <LastName>Shue</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Tolkan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeffrey</FirstName>
+        <LastName>Weissman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Casey</FirstName>
+        <LastName>Siemaszko</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Zane</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>J.J.</FirstName>
+        <LastName>Cohen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Fleischer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>E.</FirstName>
+        <LastName>Casanova Evans</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jay</FirstName>
+        <LastName>Koch</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Gherardi (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ricky</FirstName>
+        <LastName>Dean Logan</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

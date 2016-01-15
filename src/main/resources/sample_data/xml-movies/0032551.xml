@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Grapes of Wrath, The</Title>
+    <Year>1940</Year>
+    <Directed_By>
+      <Director>John Ford</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Fonda</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jane</FirstName>
+        <LastName>Darwell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Carradine</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charley</FirstName>
+        <LastName>Grapewin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dorris</FirstName>
+        <LastName>Bowdon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Russell</FirstName>
+        <LastName>Simpson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>O.Z.</FirstName>
+        <LastName>Whitehead</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Qualen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eddie</FirstName>
+        <LastName>Quillan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Zeffie</FirstName>
+        <LastName>Tilbury</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Sully</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Darien</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Darryl</FirstName>
+        <LastName>Hickman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shirley</FirstName>
+        <LastName>Mills</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roger</FirstName>
+        <LastName>Imhof</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

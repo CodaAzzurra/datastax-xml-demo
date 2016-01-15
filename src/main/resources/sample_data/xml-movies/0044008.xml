@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Scrooge</Title>
+    <Year>1951</Year>
+    <Directed_By>
+      <Director>Brian Desmond Hurst</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Fantasy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Alastair</FirstName>
+        <LastName>Sim</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kathleen</FirstName>
+        <LastName>Harrison</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mervyn</FirstName>
+        <LastName>Johns</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hermione</FirstName>
+        <LastName>Baddeley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Hordern</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Cole (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Charlesworth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Francis</FirstName>
+        <LastName>De Wolff</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rona</FirstName>
+        <LastName>Anderson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carol</FirstName>
+        <LastName>Marsh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brian</FirstName>
+        <LastName>Worth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Miles</FirstName>
+        <LastName>Malleson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ernest</FirstName>
+        <LastName>Thesiger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Glyn</FirstName>
+        <LastName>Dearman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Dolan (II)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Paths of Glory</Title>
+    <Year>1957</Year>
+    <Directed_By>
+      <Director>Stanley Kubrick</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Kirk</FirstName>
+        <LastName>Douglas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ralph</FirstName>
+        <LastName>Meeker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Adolphe</FirstName>
+        <LastName>Menjou</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Macready</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wayne</FirstName>
+        <LastName>Morris (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Anderson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Timothy</FirstName>
+        <LastName>Carey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Turkel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christiane</FirstName>
+        <LastName>Kubrick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeffrey</FirstName>
+        <LastName>Hausner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Emile</FirstName>
+        <LastName>Meyer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Capell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bert</FirstName>
+        <LastName>Freed</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harold</FirstName>
+        <LastName>Benedict</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Stein (I)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

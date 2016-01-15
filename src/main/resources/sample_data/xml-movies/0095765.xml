@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Nuovo cinema Paradiso</Title>
+    <Year>1988</Year>
+    <Directed_By>
+      <Director>Giuseppe Tornatore</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Antonella</FirstName>
+        <LastName>Attili</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Enzo</FirstName>
+        <LastName>Cannavale</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Isa</FirstName>
+        <LastName>Danieli</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leo</FirstName>
+        <LastName>Gullotta</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marco</FirstName>
+        <LastName>Leonardi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pupella</FirstName>
+        <LastName>Maggio</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Agnese</FirstName>
+        <LastName>Nano</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leopoldo</FirstName>
+        <LastName>Trieste</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Salvatore</FirstName>
+        <LastName>Cascio</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tano</FirstName>
+        <LastName>Cimarosa</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nicola</FirstName>
+        <LastName>Di Pinto</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roberta</FirstName>
+        <LastName>Lena</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nino</FirstName>
+        <LastName>Terzo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jacques</FirstName>
+        <LastName>Perrin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brigitte</FirstName>
+        <LastName>Fossey</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

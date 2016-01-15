@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Vita è bella, La</Title>
+    <Year>1997</Year>
+    <Directed_By>
+      <Director>Roberto Benigni</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Roberto</FirstName>
+        <LastName>Benigni</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nicoletta</FirstName>
+        <LastName>Braschi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Giorgio</FirstName>
+        <LastName>Cantarini</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Giustino</FirstName>
+        <LastName>Durano</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sergio</FirstName>
+        <LastName>Bini Bustric</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marisa</FirstName>
+        <LastName>Paredes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Horst</FirstName>
+        <LastName>Buchholz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lidia</FirstName>
+        <LastName>Alfonsi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Giuliana</FirstName>
+        <LastName>Lojodice</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Amerigo</FirstName>
+        <LastName>Fontani</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pietro</FirstName>
+        <LastName>De Silva</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Francesco</FirstName>
+        <LastName>Guzzo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Raffaella</FirstName>
+        <LastName>Lebboroni</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claudio</FirstName>
+        <LastName>Alfonsi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gil</FirstName>
+        <LastName>Baroni</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

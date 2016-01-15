@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Every Which Way But Loose</Title>
+    <Year>1978</Year>
+    <Directed_By>
+      <Director>James Fargo</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Clint</FirstName>
+        <LastName>Eastwood</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sondra</FirstName>
+        <LastName>Locke</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Geoffrey</FirstName>
+        <LastName>Lewis (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Beverly</FirstName>
+        <LastName>D'Angelo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Walter</FirstName>
+        <LastName>Barnes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Chandler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roy</FirstName>
+        <LastName>Jenson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>McEachin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>McKinney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>O'Connell (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Quade</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dan</FirstName>
+        <LastName>Vadis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gregory</FirstName>
+        <LastName>Walcott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hank</FirstName>
+        <LastName>Worden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ruth</FirstName>
+        <LastName>Gordon</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

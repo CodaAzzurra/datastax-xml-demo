@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Jerry Maguire</Title>
+    <Year>1996</Year>
+    <Directed_By>
+      <Director>Cameron Crowe</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Cruise</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cuba</FirstName>
+        <LastName>Gooding Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Renée</FirstName>
+        <LastName>Zellweger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kelly</FirstName>
+        <LastName>Preston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jerry</FirstName>
+        <LastName>O'Connell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jay</FirstName>
+        <LastName>Mohr</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bonnie</FirstName>
+        <LastName>Hunt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Regina</FirstName>
+        <LastName>King</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Lipnicki</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Todd</FirstName>
+        <LastName>Louiso</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Pellington</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeremy</FirstName>
+        <LastName>Suarez</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jared</FirstName>
+        <LastName>Jussim</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Benjamin</FirstName>
+        <LastName>Kimball Smith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ingrid</FirstName>
+        <LastName>Beer</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

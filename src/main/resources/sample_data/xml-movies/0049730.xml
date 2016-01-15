@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Searchers, The</Title>
+    <Year>1956</Year>
+    <Directed_By>
+      <Director>John Ford</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Western</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Wayne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeffrey</FirstName>
+        <LastName>Hunter</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vera</FirstName>
+        <LastName>Miles</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ward</FirstName>
+        <LastName>Bond</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Natalie</FirstName>
+        <LastName>Wood</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Qualen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Olive</FirstName>
+        <LastName>Carey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Brandon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ken</FirstName>
+        <LastName>Curtis (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harry</FirstName>
+        <LastName>Carey Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Antonio</FirstName>
+        <LastName>Moreno (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hank</FirstName>
+        <LastName>Worden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Beulah</FirstName>
+        <LastName>Archuletta</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Walter</FirstName>
+        <LastName>Coy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dorothy</FirstName>
+        <LastName>Jordan</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

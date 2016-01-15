@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Presumed Innocent</Title>
+    <Year>1990</Year>
+    <Directed_By>
+      <Director>Alan J. Pakula</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Mystery</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Harrison</FirstName>
+        <LastName>Ford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brian</FirstName>
+        <LastName>Dennehy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Raul</FirstName>
+        <LastName>Julia</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bonnie</FirstName>
+        <LastName>Bedelia</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Winfield</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Greta</FirstName>
+        <LastName>Scacchi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Spencer (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Grifasi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Mardirosian</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anna</FirstName>
+        <LastName>Maria Horsford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sab</FirstName>
+        <LastName>Shimono</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bradley</FirstName>
+        <LastName>Whitford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christine</FirstName>
+        <LastName>Estabrook</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Tolan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Madison</FirstName>
+        <LastName>Arnold</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

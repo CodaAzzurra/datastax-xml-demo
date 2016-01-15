@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Die Hard: With a Vengeance</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>John McTiernan</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Willis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeremy</FirstName>
+        <LastName>Irons</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Samuel</FirstName>
+        <LastName>L. Jackson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Graham</FirstName>
+        <LastName>Greene (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Colleen</FirstName>
+        <LastName>Camp</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Larry</FirstName>
+        <LastName>Bryggman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anthony</FirstName>
+        <LastName>Peck</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nicholas</FirstName>
+        <LastName>Wyman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sam</FirstName>
+        <LastName>Phillips (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Chamberlin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sharon</FirstName>
+        <LastName>Washington</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stephen</FirstName>
+        <LastName>Pearlman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Alexander Jackson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Aldis</FirstName>
+        <LastName>Hodge</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mischa</FirstName>
+        <LastName>Hausserman</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

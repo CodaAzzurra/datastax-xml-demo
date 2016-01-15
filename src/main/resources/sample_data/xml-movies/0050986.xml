@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Smultronstället</Title>
+    <Year>1957</Year>
+    <Directed_By>
+      <Director>Ingmar Bergman</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Victor</FirstName>
+        <LastName>Sjöström</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bibi</FirstName>
+        <LastName>Andersson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ingrid</FirstName>
+        <LastName>Thulin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gunnar</FirstName>
+        <LastName>Björnstrand</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jullan</FirstName>
+        <LastName>Kindahl</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Folke</FirstName>
+        <LastName>Sundquist</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Björn</FirstName>
+        <LastName>Bjelfvenstam</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Naima</FirstName>
+        <LastName>Wifstrand</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gunnel</FirstName>
+        <LastName>Broström</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gertrud</FirstName>
+        <LastName>Fridh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sif</FirstName>
+        <LastName>Ruud</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Göran</FirstName>
+        <LastName>Lundquist</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gunnar</FirstName>
+        <LastName>Sjöberg</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Max</FirstName>
+        <LastName>von Sydow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Åke</FirstName>
+        <LastName>Fridell</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

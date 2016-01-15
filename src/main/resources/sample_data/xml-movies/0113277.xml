@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Heat</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>Michael Mann</Director>
+      <Director>Alan Smithee</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Crime</Genre>
+      <Genre>Drama</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Al</FirstName>
+        <LastName>Pacino</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>De Niro</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Val</FirstName>
+        <LastName>Kilmer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jon</FirstName>
+        <LastName>Voight</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Sizemore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Diane</FirstName>
+        <LastName>Venora</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Amy</FirstName>
+        <LastName>Brenneman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ashley</FirstName>
+        <LastName>Judd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mykelti</FirstName>
+        <LastName>Williamson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wes</FirstName>
+        <LastName>Studi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ted</FirstName>
+        <LastName>Levine</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dennis</FirstName>
+        <LastName>Haysbert</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Fichtner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Natalie</FirstName>
+        <LastName>Portman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Noonan</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Space Jam</Title>
+    <Year>1996</Year>
+    <Directed_By>
+      <Director>Tony Cervone</Director>
+      <Director>Joe Pytka</Director>
+      <Director></Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Adventure</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Jordan (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wayne</FirstName>
+        <LastName>Knight</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Theresa</FirstName>
+        <LastName>Randle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Manner</FirstName>
+        <LastName>Washington</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eric</FirstName>
+        <LastName>Gordon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Penny</FirstName>
+        <LastName>Bae Bridges</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brandon</FirstName>
+        <LastName>Hammond</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Larry</FirstName>
+        <LastName>Bird (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Murray</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thom</FirstName>
+        <LastName>Barry</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Barkley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patrick</FirstName>
+        <LastName>Ewing</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tyrone</FirstName>
+        <LastName>Bogues</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Larry</FirstName>
+        <LastName>Johnson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shawn</FirstName>
+        <LastName>Bradley</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

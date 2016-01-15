@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Gone with the Wind</Title>
+    <Year>1939</Year>
+    <Directed_By>
+      <Director>Victor Fleming</Director>
+      <Director></Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Clark</FirstName>
+        <LastName>Gable</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vivien</FirstName>
+        <LastName>Leigh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leslie</FirstName>
+        <LastName>Howard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Olivia</FirstName>
+        <LastName>de Havilland</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hattie</FirstName>
+        <LastName>McDaniel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thomas</FirstName>
+        <LastName>Mitchell (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barbara</FirstName>
+        <LastName>O'Neil</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Evelyn</FirstName>
+        <LastName>Keyes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ann</FirstName>
+        <LastName>Rutherford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Reeves</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fred</FirstName>
+        <LastName>Crane</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Oscar</FirstName>
+        <LastName>Polk</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Butterfly</FirstName>
+        <LastName>McQueen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Victor</FirstName>
+        <LastName>Jory</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Everett</FirstName>
+        <LastName>Brown</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

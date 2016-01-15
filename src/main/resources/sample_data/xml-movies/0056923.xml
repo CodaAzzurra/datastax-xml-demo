@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Charade</Title>
+    <Year>1963</Year>
+    <Directed_By>
+      <Director>Stanley Donen</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Mystery</Genre>
+      <Genre>Romance</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Cary</FirstName>
+        <LastName>Grant</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Audrey</FirstName>
+        <LastName>Hepburn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Walter</FirstName>
+        <LastName>Matthau</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Coburn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Kennedy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dominique</FirstName>
+        <LastName>Minot</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ned</FirstName>
+        <LastName>Glass</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jacques</FirstName>
+        <LastName>Marin (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Bonifas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thomas</FirstName>
+        <LastName>Chelimsky</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

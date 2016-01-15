@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Insider, The</Title>
+    <Directed_By>
+      <Director>Michael Mann</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Al</FirstName>
+        <LastName>Pacino</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Russell</FirstName>
+        <LastName>Crowe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Plummer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Diane</FirstName>
+        <LastName>Venora</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philip</FirstName>
+        <LastName>Baker Hall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lindsay</FirstName>
+        <LastName>Crouse</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Debi</FirstName>
+        <LastName>Mazar</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stephen</FirstName>
+        <LastName>Tobolowsky</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Colm</FirstName>
+        <LastName>Feore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>McGill</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gina</FirstName>
+        <LastName>Gershon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Gambon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rip</FirstName>
+        <LastName>Torn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lynne</FirstName>
+        <LastName>Thigpen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hallie</FirstName>
+        <LastName>Kate Eisenberg</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

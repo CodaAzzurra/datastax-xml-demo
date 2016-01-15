@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Snow White and the Seven Dwarfs</Title>
+    <Year>1937</Year>
+    <Directed_By>
+      <Director>David Hand</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Animation</Genre>
+      <Genre>Children's</Genre>
+      <Genre>Musical</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Adriana</FirstName>
+        <LastName>Caselotti</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harry</FirstName>
+        <LastName>Stockwell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lucille</FirstName>
+        <LastName>La Verne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Moroni</FirstName>
+        <LastName>Olsen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Gilbert (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pinto</FirstName>
+        <LastName>Colvig</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Otis</FirstName>
+        <LastName>Harlan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scotty</FirstName>
+        <LastName>Mattraw</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roy</FirstName>
+        <LastName>Atwell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stuart</FirstName>
+        <LastName>Buchanan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marion</FirstName>
+        <LastName>Darlington</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

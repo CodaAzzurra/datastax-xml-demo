@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Prince of Egypt, The</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Brenda Chapman</Director>
+      <Director>Steve Hickner</Director>
+      <Director></Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Animation</Genre>
+      <Genre>Musical</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Val</FirstName>
+        <LastName>Kilmer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ralph</FirstName>
+        <LastName>Fiennes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michelle</FirstName>
+        <LastName>Pfeiffer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sandra</FirstName>
+        <LastName>Bullock</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeff</FirstName>
+        <LastName>Goldblum</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Danny</FirstName>
+        <LastName>Glover</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patrick</FirstName>
+        <LastName>Stewart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Helen</FirstName>
+        <LastName>Mirren</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Martin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Martin</FirstName>
+        <LastName>Short</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Angel (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mel</FirstName>
+        <LastName>Brooks</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Amick</FirstName>
+        <LastName>Byram</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Linda</FirstName>
+        <LastName>Dee Shayne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sally</FirstName>
+        <LastName>Dworsky</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ofra</FirstName>
+        <LastName>Haza</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brian</FirstName>
+        <LastName>Mitchell (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jan</FirstName>
+        <LastName>Rabson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eden</FirstName>
+        <LastName>Riegel</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

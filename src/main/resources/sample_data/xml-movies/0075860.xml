@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Close Encounters of the Third Kind</Title>
+    <Year>1977</Year>
+    <Directed_By>
+      <Director>Steven Spielberg</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Dreyfuss</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>François</FirstName>
+        <LastName>Truffaut</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Teri</FirstName>
+        <LastName>Garr</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Melinda</FirstName>
+        <LastName>Dillon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bob</FirstName>
+        <LastName>Balaban</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>J.</FirstName>
+        <LastName>Patrick McNamara</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Warren</FirstName>
+        <LastName>J. Kemmerling</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roberts</FirstName>
+        <LastName>Blossom</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philip</FirstName>
+        <LastName>Dodds</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cary</FirstName>
+        <LastName>Guffey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shawn</FirstName>
+        <LastName>Bishop</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Adrienne</FirstName>
+        <LastName>Campbell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Justin</FirstName>
+        <LastName>Dreyfuss</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lance</FirstName>
+        <LastName>Henriksen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Merrill</FirstName>
+        <LastName>Connally</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -22,7 +22,7 @@ To create the solr core, run:
 
 To populate the database with sample data, run:
 
-	mvn clean compile exec:java -Dexec.mainClass="com.datastax.demo.xml.Populator" -DcontactPoints=localhost
+	mvn clean compile exec:java -Dexec.mainClass="com.datastax.demo.xml.sampledata.SampleDataLoader" -DcontactPoints=localhost
 
 Thank you to the Department of Computer Sciences at the University of Wisconsin-Madison for the [XML movie data][niagara].
 

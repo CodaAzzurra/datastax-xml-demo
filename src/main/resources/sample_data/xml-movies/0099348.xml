@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Dances with Wolves</Title>
+    <Year>1990</Year>
+    <Directed_By>
+      <Director>Kevin Costner</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Adventure</Genre>
+      <Genre>Drama</Genre>
+      <Genre>Western</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Costner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mary</FirstName>
+        <LastName>McDonnell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Graham</FirstName>
+        <LastName>Greene (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rodney</FirstName>
+        <LastName>A. Grant</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Floyd</FirstName>
+        <LastName>Red Crow Westerman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tantoo</FirstName>
+        <LastName>Cardinal</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Pastorelli</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Rocket</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maury</FirstName>
+        <LastName>Chaykin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jimmy</FirstName>
+        <LastName>Herman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nathan</FirstName>
+        <LastName>Lee Chasing Horse</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Spears</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>R. Lone Hill</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Pierce</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Doris</FirstName>
+        <LastName>Leader Charge</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

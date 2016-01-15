@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>8 1/2</Title>
+    <Year>1963</Year>
+    <Directed_By>
+      <Director>Federico Fellini</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Marcello</FirstName>
+        <LastName>Mastroianni</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anouk</FirstName>
+        <LastName>Aimée</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sandra</FirstName>
+        <LastName>Milo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claudia</FirstName>
+        <LastName>Cardinale</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rossella</FirstName>
+        <LastName>Falk</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Madeleine</FirstName>
+        <LastName>LeBeau</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Caterina</FirstName>
+        <LastName>Boratto</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barbara</FirstName>
+        <LastName>Steele</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mario</FirstName>
+        <LastName>Pisu</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Guido</FirstName>
+        <LastName>Alberti</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mario</FirstName>
+        <LastName>Conocchia</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jean</FirstName>
+        <LastName>Rougeul</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eddra</FirstName>
+        <LastName>Gale</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>Dallas (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Annibale</FirstName>
+        <LastName>Ninchi</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

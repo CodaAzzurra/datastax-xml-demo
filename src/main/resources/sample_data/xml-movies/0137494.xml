@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Entrapment</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>Jon Amiel</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Thriller</Genre>
+      <Genre>Action</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Sean</FirstName>
+        <LastName>Connery</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Catherine</FirstName>
+        <LastName>Zeta-Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ving</FirstName>
+        <LastName>Rhames</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Will</FirstName>
+        <LastName>Patton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maury</FirstName>
+        <LastName>Chaykin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>McNally</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Terry</FirstName>
+        <LastName>O'Neill</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Madhav</FirstName>
+        <LastName>Sharma</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Yip</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tim</FirstName>
+        <LastName>Potter (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eric</FirstName>
+        <LastName>Meyers (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Aaron</FirstName>
+        <LastName>Swartz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Marsh (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Xu</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rolf</FirstName>
+        <LastName>Saxon</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

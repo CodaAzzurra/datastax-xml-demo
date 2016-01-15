@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Notting Hill</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>Roger Michell</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Hugh</FirstName>
+        <LastName>Grant</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>McCabe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rhys</FirstName>
+        <LastName>Ifans</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hugh</FirstName>
+        <LastName>Bonneville</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Dreyfus</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Emma</FirstName>
+        <LastName>Chambers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julia</FirstName>
+        <LastName>Roberts</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dylan</FirstName>
+        <LastName>Moran</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roger</FirstName>
+        <LastName>Frost</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tim</FirstName>
+        <LastName>McInnerny</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julian</FirstName>
+        <LastName>Rhind-Tutt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gina</FirstName>
+        <LastName>McKee</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lorelei</FirstName>
+        <LastName>King</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Shrapnel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clarke</FirstName>
+        <LastName>Peters</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

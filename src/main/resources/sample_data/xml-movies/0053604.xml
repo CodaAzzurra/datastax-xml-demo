@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Apartment, The</Title>
+    <Year>1960</Year>
+    <Directed_By>
+      <Director>Billy Wilder</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Romance</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Lemmon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shirley</FirstName>
+        <LastName>MacLaine</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fred</FirstName>
+        <LastName>MacMurray</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ray</FirstName>
+        <LastName>Walston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Kruschen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Lewis (III)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hope</FirstName>
+        <LastName>Holiday</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joan</FirstName>
+        <LastName>Shawlee</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Naomi</FirstName>
+        <LastName>Stevens</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Johnny</FirstName>
+        <LastName>Seven</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joyce</FirstName>
+        <LastName>Jameson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Willard</FirstName>
+        <LastName>Waterman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>White (VI)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edie</FirstName>
+        <LastName>Adams</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

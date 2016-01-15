@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Christmas Story, A</Title>
+    <Year>1983</Year>
+    <Directed_By>
+      <Director>Bob Clark (III)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Melinda</FirstName>
+        <LastName>Dillon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Darren</FirstName>
+        <LastName>McGavin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Billingsley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>Petrella</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scott</FirstName>
+        <LastName>Schwartz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>R.D.</FirstName>
+        <LastName>Robb</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tedde</FirstName>
+        <LastName>Moore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Yano</FirstName>
+        <LastName>Anaya</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Zack</FirstName>
+        <LastName>Ward</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeff</FirstName>
+        <LastName>Gillen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Colin</FirstName>
+        <LastName>Fox (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Hubbard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Les</FirstName>
+        <LastName>Carlson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Hunter (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patty</FirstName>
+        <LastName>Johnson</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

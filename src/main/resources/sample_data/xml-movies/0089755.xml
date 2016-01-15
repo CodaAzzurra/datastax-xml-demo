@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Out of Africa</Title>
+    <Year>1985</Year>
+    <Directed_By>
+      <Director>Sydney Pollack</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Meryl</FirstName>
+        <LastName>Streep</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Redford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Klaus</FirstName>
+        <LastName>Maria Brandauer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Kitchen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>Thiaka</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stephen</FirstName>
+        <LastName>Kinyanjui</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Gough</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Suzanna</FirstName>
+        <LastName>Hamilton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rachel</FirstName>
+        <LastName>Kempson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Graham</FirstName>
+        <LastName>Crowden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leslie</FirstName>
+        <LastName>Phillips (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shane</FirstName>
+        <LastName>Rimmer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mohammed</FirstName>
+        <LastName>Umar</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Donal</FirstName>
+        <LastName>McCann</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kenneth</FirstName>
+        <LastName>Mason</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

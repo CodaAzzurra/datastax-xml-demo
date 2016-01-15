@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Untouchables, The</Title>
+    <Year>1987</Year>
+    <Directed_By>
+      <Director>Brian De Palma</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Crime</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Costner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sean</FirstName>
+        <LastName>Connery</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Martin Smith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Andy</FirstName>
+        <LastName>Garcia</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>De Niro</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Bradford (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Kehoe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brad</FirstName>
+        <LastName>Sullivan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Drago</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patricia</FirstName>
+        <LastName>Clarkson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vito</FirstName>
+        <LastName>D'Ambrosio</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steven</FirstName>
+        <LastName>Goldstein (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Aylward</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Don</FirstName>
+        <LastName>Harvey (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Swan</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

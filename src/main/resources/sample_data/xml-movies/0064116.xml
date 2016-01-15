@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>C'era una volta il west</Title>
+    <Year>1969</Year>
+    <Directed_By>
+      <Director>Sergio Leone</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Western</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Claudia</FirstName>
+        <LastName>Cardinale</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Fonda</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Robards</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Bronson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gabriele</FirstName>
+        <LastName>Ferzetti</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paolo</FirstName>
+        <LastName>Stoppa</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Woody</FirstName>
+        <LastName>Strode</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Elam</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Keenan</FirstName>
+        <LastName>Wynn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Wolff</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lionel</FirstName>
+        <LastName>Stander</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ivan</FirstName>
+        <LastName>Scratuglia</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

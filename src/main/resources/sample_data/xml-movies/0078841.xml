@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Being There</Title>
+    <Year>1979</Year>
+    <Directed_By>
+      <Director>Hal Ashby</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Sellers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shirley</FirstName>
+        <LastName>MacLaine</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Melvyn</FirstName>
+        <LastName>Douglas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Warden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>A. Dysart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Basehart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ruth</FirstName>
+        <LastName>Attaway</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Clennon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fran</FirstName>
+        <LastName>Brill</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Denise</FirstName>
+        <LastName>DuBarry</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Oteil</FirstName>
+        <LastName>Burbridge</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ravenell</FirstName>
+        <LastName>Keller III</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brian</FirstName>
+        <LastName>Corrigan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alfredine</FirstName>
+        <LastName>P. Brown</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Donald</FirstName>
+        <LastName>Jacob</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

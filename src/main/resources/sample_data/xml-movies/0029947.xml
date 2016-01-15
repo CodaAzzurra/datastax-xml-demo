@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Bringing Up Baby</Title>
+    <Year>1938</Year>
+    <Directed_By>
+      <Director>Howard Hawks</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Romance</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Katharine</FirstName>
+        <LastName>Hepburn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cary</FirstName>
+        <LastName>Grant</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Ruggles</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Walter</FirstName>
+        <LastName>Catlett</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barry</FirstName>
+        <LastName>Fitzgerald</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>May</FirstName>
+        <LastName>Robson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fritz</FirstName>
+        <LastName>Feld</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leona</FirstName>
+        <LastName>Roberts</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Irving (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tala</FirstName>
+        <LastName>Birell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Virginia</FirstName>
+        <LastName>Walker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Kelly (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>'Billy' Benedict</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Bevan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stanley</FirstName>
+        <LastName>Blystone</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

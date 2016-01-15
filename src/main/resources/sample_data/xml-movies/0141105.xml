@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Free Enterprise</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Robert Meyer Burnett</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Shatner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rafer</FirstName>
+        <LastName>Weigel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eric</FirstName>
+        <LastName>McCormack</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>A. Altman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tyler</FirstName>
+        <LastName>Binkley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carl</FirstName>
+        <LastName>Bressler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Annika</FirstName>
+        <LastName>Brinbly</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Cassidy (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Diana</FirstName>
+        <LastName>Cignoni</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Meika</FirstName>
+        <LastName>Cooper</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ellie</FirstName>
+        <LastName>Cornell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Latricia</FirstName>
+        <LastName>Cruz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kiera</FirstName>
+        <LastName>D'Andra</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Audie</FirstName>
+        <LastName>England</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Andrea</FirstName>
+        <LastName>Evers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Holly</FirstName>
+        <LastName>Gagnier</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ethan</FirstName>
+        <LastName>Glazer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thomas</FirstName>
+        <LastName>Hobson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mandy</FirstName>
+        <LastName>Ingber</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Spencer</FirstName>
+        <LastName>Klein</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brandon</FirstName>
+        <LastName>Kleyla</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marilyn</FirstName>
+        <LastName>Krinz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Phil</FirstName>
+        <LastName>LaMarr</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sharen</FirstName>
+        <LastName>Leibouir</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lori</FirstName>
+        <LastName>Lively</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dan</FirstName>
+        <LastName>Montano</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dave</FirstName>
+        <LastName>Parker (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shawn</FirstName>
+        <LastName>Pelofsky</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Phyllis</FirstName>
+        <LastName>Rankin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stacy</FirstName>
+        <LastName>Rossman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daniel</FirstName>
+        <LastName>Schweiger (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Slavin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jennifer</FirstName>
+        <LastName>Sommerfield</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gabrielle</FirstName>
+        <LastName>Stanton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patrick</FirstName>
+        <LastName>Van Horn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Deborah</FirstName>
+        <LastName>Van Valkenburgh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joey</FirstName>
+        <LastName>D. Vieira</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Russell</FirstName>
+        <LastName>Young (I)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

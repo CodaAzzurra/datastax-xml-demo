@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Forrest Gump</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>Robert Zemeckis</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Hanks</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robin</FirstName>
+        <LastName>Wright</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Sinise</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mykelti</FirstName>
+        <LastName>Williamson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sally</FirstName>
+        <LastName>Field</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rebecca</FirstName>
+        <LastName>Williams</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Conner Humphreys</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harold</FirstName>
+        <LastName>G. Herthum</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Kelly (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bob</FirstName>
+        <LastName>Penny</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Randall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sam</FirstName>
+        <LastName>Anderson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Margo</FirstName>
+        <LastName>Moorer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ione</FirstName>
+        <LastName>M. Telech</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christine</FirstName>
+        <LastName>Seabrook</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

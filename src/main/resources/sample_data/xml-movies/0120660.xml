@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Enemy of the State</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Tony Scott</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Will</FirstName>
+        <LastName>Smith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gene</FirstName>
+        <LastName>Hackman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jon</FirstName>
+        <LastName>Voight</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lisa</FirstName>
+        <LastName>Bonet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Regina</FirstName>
+        <LastName>King</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stuart</FirstName>
+        <LastName>Wilson (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laura</FirstName>
+        <LastName>Cayouette</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Loren</FirstName>
+        <LastName>Dean</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barry</FirstName>
+        <LastName>Pepper</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>Hart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jake</FirstName>
+        <LastName>Busey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scott</FirstName>
+        <LastName>Caan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Lee (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gabriel</FirstName>
+        <LastName>Byrne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>LeGros</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

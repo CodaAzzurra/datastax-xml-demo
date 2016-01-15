@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Beverly Hills Cop II</Title>
+    <Year>1987</Year>
+    <Directed_By>
+      <Director>Tony Scott</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Eddie</FirstName>
+        <LastName>Murphy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Judge</FirstName>
+        <LastName>Reinhold</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jürgen</FirstName>
+        <LastName>Prochnow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ronny</FirstName>
+        <LastName>Cox</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Ashton (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brigitte</FirstName>
+        <LastName>Nielsen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Allen</FirstName>
+        <LastName>Garfield</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dean</FirstName>
+        <LastName>Stockwell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Reiser</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gilbert</FirstName>
+        <LastName>R. Hill</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Guilfoyle (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Ridgely</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brian</FirstName>
+        <LastName>O'Connor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alice</FirstName>
+        <LastName>Adair (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eugene</FirstName>
+        <LastName>Butler</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

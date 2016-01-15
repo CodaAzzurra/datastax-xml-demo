@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Apocalypse Now</Title>
+    <Year>1979</Year>
+    <Directed_By>
+      <Director>Francis Coppola</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Drama</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Marlon</FirstName>
+        <LastName>Brando</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Duvall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Martin</FirstName>
+        <LastName>Sheen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frederic</FirstName>
+        <LastName>Forrest</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Albert</FirstName>
+        <LastName>Hall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sam</FirstName>
+        <LastName>Bottoms</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laurence</FirstName>
+        <LastName>Fishburne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dennis</FirstName>
+        <LastName>Hopper</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>G.D.</FirstName>
+        <LastName>Spradlin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harrison</FirstName>
+        <LastName>Ford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jerry</FirstName>
+        <LastName>Ziesmer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scott</FirstName>
+        <LastName>Glenn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bo</FirstName>
+        <LastName>Byers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Keane (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kerry</FirstName>
+        <LastName>Rossall</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

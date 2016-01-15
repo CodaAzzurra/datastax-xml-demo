@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Home Alone 2: Lost in New York</Title>
+    <Year>1992</Year>
+    <Directed_By>
+      <Director>Chris Columbus</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Macaulay</FirstName>
+        <LastName>Culkin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Pesci</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daniel</FirstName>
+        <LastName>Stern</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Catherine</FirstName>
+        <LastName>O'Hara</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Heard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Devin</FirstName>
+        <LastName>Ratray</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hillary</FirstName>
+        <LastName>Wolf</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maureen</FirstName>
+        <LastName>Elisabeth Shay</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>C. Maronna</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gerry</FirstName>
+        <LastName>Bamman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Terrie</FirstName>
+        <LastName>Snell (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jedidiah</FirstName>
+        <LastName>Cohen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Senta</FirstName>
+        <LastName>Moses</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daiana</FirstName>
+        <LastName>Campeanu</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kieran</FirstName>
+        <LastName>Culkin</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

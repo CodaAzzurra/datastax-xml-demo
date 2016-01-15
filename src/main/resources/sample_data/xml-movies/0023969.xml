@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Duck Soup</Title>
+    <Year>1933</Year>
+    <Directed_By>
+      <Director>Leo McCarey</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Musical</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Groucho</FirstName>
+        <LastName>Marx</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harpo</FirstName>
+        <LastName>Marx</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chico</FirstName>
+        <LastName>Marx</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Zeppo</FirstName>
+        <LastName>Marx</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Margaret</FirstName>
+        <LastName>Dumont</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Raquel</FirstName>
+        <LastName>Torres</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Louis</FirstName>
+        <LastName>Calhern</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edmund</FirstName>
+        <LastName>Breese</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leonid</FirstName>
+        <LastName>Kinskey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Middleton (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Verna</FirstName>
+        <LastName>Hillie</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>MacQuarrie</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edgar</FirstName>
+        <LastName>Kennedy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edwin</FirstName>
+        <LastName>Maxwell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Worthington</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

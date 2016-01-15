@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Batman Returns</Title>
+    <Year>1992</Year>
+    <Directed_By>
+      <Director>Tim Burton</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Fantasy</Genre>
+      <Genre>Action</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Keaton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Danny</FirstName>
+        <LastName>DeVito</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michelle</FirstName>
+        <LastName>Pfeiffer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Walken</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Gough</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Murphy (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cristi</FirstName>
+        <LastName>Conaway</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Andrew</FirstName>
+        <LastName>Bryniarski</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pat</FirstName>
+        <LastName>Hingle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vincent</FirstName>
+        <LastName>Schiavelli</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Witting</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jan</FirstName>
+        <LastName>Hooks</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Strong</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rick</FirstName>
+        <LastName>Zumwalt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anna</FirstName>
+        <LastName>Katerina</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

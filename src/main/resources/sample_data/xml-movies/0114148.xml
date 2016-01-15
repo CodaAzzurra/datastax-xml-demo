@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Pocahontas</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>Mike Gabriel</Director>
+      <Director>Eric Goldberg (I)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Animation</Genre>
+      <Genre>Children's</Genre>
+      <Genre>Musical</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Irene</FirstName>
+        <LastName>Bedard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Judy</FirstName>
+        <LastName>Kuhn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mel</FirstName>
+        <LastName>Gibson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Linda</FirstName>
+        <LastName>Hunt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jon</FirstName>
+        <LastName>Kassir</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Welker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Ogden Stiers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christian</FirstName>
+        <LastName>Bale</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Baker (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Apaumut Fall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Connolly</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Danny</FirstName>
+        <LastName>Mann</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gordon</FirstName>
+        <LastName>Tootoosis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Russell</FirstName>
+        <LastName>Means</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michelle</FirstName>
+        <LastName>St. John</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

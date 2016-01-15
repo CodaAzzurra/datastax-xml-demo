@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>My Fair Lady</Title>
+    <Year>1964</Year>
+    <Directed_By>
+      <Director>George Cukor</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Musical</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Audrey</FirstName>
+        <LastName>Hepburn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rex</FirstName>
+        <LastName>Harrison</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stanley</FirstName>
+        <LastName>Holloway</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wilfrid</FirstName>
+        <LastName>Hyde-White</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gladys</FirstName>
+        <LastName>Cooper</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeremy</FirstName>
+        <LastName>Brett</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Theodore</FirstName>
+        <LastName>Bikel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mona</FirstName>
+        <LastName>Washbourne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Isobel</FirstName>
+        <LastName>Elsom</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Holland (I)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

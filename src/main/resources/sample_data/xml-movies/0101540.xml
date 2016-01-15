@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Cape Fear</Title>
+    <Year>1991</Year>
+    <Directed_By>
+      <Director>Martin Scorsese</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Horror</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>De Niro</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nick</FirstName>
+        <LastName>Nolte</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jessica</FirstName>
+        <LastName>Lange</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Juliette</FirstName>
+        <LastName>Lewis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Don Baker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Mitchum</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gregory</FirstName>
+        <LastName>Peck</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Martin</FirstName>
+        <LastName>Balsam</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Illeana</FirstName>
+        <LastName>Douglas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fred</FirstName>
+        <LastName>Dalton Thompson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Zully</FirstName>
+        <LastName>Montero</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Craig</FirstName>
+        <LastName>Henne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Forest</FirstName>
+        <LastName>Burton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edgar</FirstName>
+        <LastName>Allan Poe IV</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rod</FirstName>
+        <LastName>Ball</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

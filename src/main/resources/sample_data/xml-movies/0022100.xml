@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>M</Title>
+    <Year>1931</Year>
+    <Directed_By>
+      <Director>Fritz Lang</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Crime</Genre>
+      <Genre>Film-Noir</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Lorre</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gustaf</FirstName>
+        <LastName>Gründgens</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ellen</FirstName>
+        <LastName>Widmann</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Inge</FirstName>
+        <LastName>Landgut</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Otto</FirstName>
+        <LastName>Wernicke</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Franz</FirstName>
+        <LastName>Stein</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Theodor</FirstName>
+        <LastName>Loos</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Friedrich</FirstName>
+        <LastName>Gnaß</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fritz</FirstName>
+        <LastName>Odemar</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Kemp (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Theo</FirstName>
+        <LastName>Lingen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Georg</FirstName>
+        <LastName>John</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Karl</FirstName>
+        <LastName>Platen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gerhard</FirstName>
+        <LastName>Bienert</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rosa</FirstName>
+        <LastName>Valetti</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

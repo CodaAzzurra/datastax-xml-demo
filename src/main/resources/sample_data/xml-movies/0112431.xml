@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Babe</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>Chris Noonan</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Children's</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Christine</FirstName>
+        <LastName>Cavanaugh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Miriam</FirstName>
+        <LastName>Margolyes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Danny</FirstName>
+        <LastName>Mann</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hugo</FirstName>
+        <LastName>Weaving</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Miriam</FirstName>
+        <LastName>Flynn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Russi</FirstName>
+        <LastName>Taylor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Evelyn</FirstName>
+        <LastName>Krape</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Edward-Stevens</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Bartlett (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Livingston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roscoe</FirstName>
+        <LastName>Lee Browne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Cromwell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Magda</FirstName>
+        <LastName>Szubanski</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Zoe</FirstName>
+        <LastName>Burton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Goddard (I)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

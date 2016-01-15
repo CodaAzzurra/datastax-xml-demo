@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Platoon</Title>
+    <Year>1986</Year>
+    <Directed_By>
+      <Director>Oliver Stone</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Drama</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Keith</FirstName>
+        <LastName>David (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Forest</FirstName>
+        <LastName>Whitaker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Francesco</FirstName>
+        <LastName>Quinn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charlie</FirstName>
+        <LastName>Sheen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Dillon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>C. McGinley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Reggie</FirstName>
+        <LastName>Johnson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Moses</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Corey</FirstName>
+        <LastName>Glover</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Johnny</FirstName>
+        <LastName>Depp</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>Pedersen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bob</FirstName>
+        <LastName>Orwig</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Corkey</FirstName>
+        <LastName>Ford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Neidorf</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Berenger</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

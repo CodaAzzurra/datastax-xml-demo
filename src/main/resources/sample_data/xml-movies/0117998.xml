@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Twister</Title>
+    <Year>1996</Year>
+    <Directed_By>
+      <Director>Jan de Bont</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Helen</FirstName>
+        <LastName>Hunt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Paxton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jami</FirstName>
+        <LastName>Gertz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cary</FirstName>
+        <LastName>Elwes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lois</FirstName>
+        <LastName>Smith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philip</FirstName>
+        <LastName>Seymour Hoffman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alan</FirstName>
+        <LastName>Ruck</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sean</FirstName>
+        <LastName>Whalen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scott</FirstName>
+        <LastName>Thomson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Todd</FirstName>
+        <LastName>Field</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joey</FirstName>
+        <LastName>Slotnick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wendle</FirstName>
+        <LastName>Josepher</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeremy</FirstName>
+        <LastName>Davies</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Zach</FirstName>
+        <LastName>Grenier</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gregory</FirstName>
+        <LastName>Sporleder</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

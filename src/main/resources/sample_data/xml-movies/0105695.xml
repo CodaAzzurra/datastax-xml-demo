@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Unforgiven</Title>
+    <Year>1992</Year>
+    <Directed_By>
+      <Director>Clint Eastwood</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Thriller</Genre>
+      <Genre>Western</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Clint</FirstName>
+        <LastName>Eastwood</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gene</FirstName>
+        <LastName>Hackman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Morgan</FirstName>
+        <LastName>Freeman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Harris</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jaimz</FirstName>
+        <LastName>Woolvett</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Saul</FirstName>
+        <LastName>Rubinek</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frances</FirstName>
+        <LastName>Fisher (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anna</FirstName>
+        <LastName>Levine (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Mucci</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rob</FirstName>
+        <LastName>Campbell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anthony</FirstName>
+        <LastName>James (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tara</FirstName>
+        <LastName>Dawn Frederick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Beverley</FirstName>
+        <LastName>Elliott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Liisa</FirstName>
+        <LastName>Repo-Martell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Josie</FirstName>
+        <LastName>Smith</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

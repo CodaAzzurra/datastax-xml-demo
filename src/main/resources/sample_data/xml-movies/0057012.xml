@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</Title>
+    <Year>1964</Year>
+    <Directed_By>
+      <Director>Stanley Kubrick</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Sellers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>C. Scott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sterling</FirstName>
+        <LastName>Hayden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Keenan</FirstName>
+        <LastName>Wynn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Slim</FirstName>
+        <LastName>Pickens</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Bull (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Earl Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tracy</FirstName>
+        <LastName>Reed</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Creley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Berry</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>O'Neil (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Glenn</FirstName>
+        <LastName>Beck</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roy</FirstName>
+        <LastName>Stephens</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shane</FirstName>
+        <LastName>Rimmer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hal</FirstName>
+        <LastName>Galili</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

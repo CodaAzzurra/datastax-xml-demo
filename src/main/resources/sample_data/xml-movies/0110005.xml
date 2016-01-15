@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Heavenly Creatures</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>Peter Jackson</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Crime</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Melanie</FirstName>
+        <LastName>Lynskey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kate</FirstName>
+        <LastName>Winslet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sarah</FirstName>
+        <LastName>Peirse</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Diana</FirstName>
+        <LastName>Kent</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clive</FirstName>
+        <LastName>Merrison</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Simon</FirstName>
+        <LastName>O'Connor (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jed</FirstName>
+        <LastName>Brophy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Elliott (IV)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gilbert</FirstName>
+        <LastName>Goldie</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Geoffrey</FirstName>
+        <LastName>Heath</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kirsti</FirstName>
+        <LastName>Ferry</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ben</FirstName>
+        <LastName>Skjellerup</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Darien</FirstName>
+        <LastName>Takle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elizabeth</FirstName>
+        <LastName>Moody</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Liz</FirstName>
+        <LastName>Mullane</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

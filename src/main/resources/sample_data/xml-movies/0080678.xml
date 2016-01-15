@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Elephant Man, The</Title>
+    <Year>1980</Year>
+    <Directed_By>
+      <Director>David Lynch</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Anthony</FirstName>
+        <LastName>Hopkins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Hurt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anne</FirstName>
+        <LastName>Bancroft</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Gielgud</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wendy</FirstName>
+        <LastName>Hiller</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Freddie</FirstName>
+        <LastName>Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Elphick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hannah</FirstName>
+        <LastName>Gordon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Helen</FirstName>
+        <LastName>Ryan (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Standing (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dexter</FirstName>
+        <LastName>Fletcher</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lesley</FirstName>
+        <LastName>Dunlop</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Phoebe</FirstName>
+        <LastName>Nicholls</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pat</FirstName>
+        <LastName>Gorman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claire</FirstName>
+        <LastName>Davenport</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

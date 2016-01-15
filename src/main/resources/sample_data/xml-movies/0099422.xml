@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Dick Tracy</Title>
+    <Year>1990</Year>
+    <Directed_By>
+      <Director>Warren Beatty</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Crime</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Warren</FirstName>
+        <LastName>Beatty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charlie</FirstName>
+        <LastName>Korsmo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Donovan O'Donnell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Wilkey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stig</FirstName>
+        <LastName>Eldred</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Neil</FirstName>
+        <LastName>Summers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chuck</FirstName>
+        <LastName>Hicks</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lawrence</FirstName>
+        <LastName>Steven Meyers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Forsythe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ed</FirstName>
+        <LastName>O'Ross</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Glenne</FirstName>
+        <LastName>Headly</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marvelee</FirstName>
+        <LastName>Cariaga</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Gallup</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Seymour</FirstName>
+        <LastName>Cassel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Keane (I)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

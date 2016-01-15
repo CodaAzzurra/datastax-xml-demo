@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Silence of the Lambs, The</Title>
+    <Year>1991</Year>
+    <Directed_By>
+      <Director>Jonathan Demme</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Thriller</Genre>
+      <Genre>Crime</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jodie</FirstName>
+        <LastName>Foster</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lawrence</FirstName>
+        <LastName>A. Bonney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kasi</FirstName>
+        <LastName>Lemmons</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lawrence</FirstName>
+        <LastName>T. Wrentz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scott</FirstName>
+        <LastName>Glenn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anthony</FirstName>
+        <LastName>Heald</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frankie</FirstName>
+        <LastName>Faison</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Don</FirstName>
+        <LastName>Brockett</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Seals Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stuart</FirstName>
+        <LastName>Rudin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anthony</FirstName>
+        <LastName>Hopkins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Masha</FirstName>
+        <LastName>Skorobogatov</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeffrey</FirstName>
+        <LastName>Lane</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leib</FirstName>
+        <LastName>Lensky</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>'Red' Schwartz</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

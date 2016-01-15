@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Alien: Resurrection</Title>
+    <Year>1997</Year>
+    <Directed_By>
+      <Director>Jean-Pierre Jeunet</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Horror</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Sigourney</FirstName>
+        <LastName>Weaver</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Winona</FirstName>
+        <LastName>Ryder</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dominique</FirstName>
+        <LastName>Pinon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ron</FirstName>
+        <LastName>Perlman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Dourdan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Wincott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kim</FirstName>
+        <LastName>Flowers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dan</FirstName>
+        <LastName>Hedaya</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>J.E.</FirstName>
+        <LastName>Freeman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brad</FirstName>
+        <LastName>Dourif</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Raymond</FirstName>
+        <LastName>Cruz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leland</FirstName>
+        <LastName>Orser</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carolyn</FirstName>
+        <LastName>Campbell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marlene</FirstName>
+        <LastName>Bush</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>St. James</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

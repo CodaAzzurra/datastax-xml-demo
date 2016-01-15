@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Analyze This</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>Harold Ramis</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>De Niro</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Crystal</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lisa</FirstName>
+        <LastName>Kudrow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chazz</FirstName>
+        <LastName>Palminteri</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kresimir</FirstName>
+        <LastName>Novakovic</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bart</FirstName>
+        <LastName>Tangredi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Straka</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>Rigano</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Viterelli</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>C. Castellano</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Molly</FirstName>
+        <LastName>Shannon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Max</FirstName>
+        <LastName>Casella</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Pietrangolare</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kyle</FirstName>
+        <LastName>Sabihy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Macy</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

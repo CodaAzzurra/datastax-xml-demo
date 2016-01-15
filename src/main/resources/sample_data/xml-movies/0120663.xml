@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Eyes Wide Shut</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>Stanley Kubrick</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Thriller</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Cruise</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nicole</FirstName>
+        <LastName>Kidman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Madison</FirstName>
+        <LastName>Eginton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marie</FirstName>
+        <LastName>Richardson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jackie</FirstName>
+        <LastName>Sawris</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rade</FirstName>
+        <LastName>Serbedzija</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sydney</FirstName>
+        <LastName>Pollack</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leslie</FirstName>
+        <LastName>Lowe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Benson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vinessa</FirstName>
+        <LastName>Shaw</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alan</FirstName>
+        <LastName>Cumming</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Todd</FirstName>
+        <LastName>Field</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Doven</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sky</FirstName>
+        <LastName>Dumont</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Louise</FirstName>
+        <LastName>J. Taylor</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

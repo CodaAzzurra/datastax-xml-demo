@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Henry V</Title>
+    <Year>1989</Year>
+    <Directed_By>
+      <Director>Kenneth Branagh</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Derek</FirstName>
+        <LastName>Jacobi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kenneth</FirstName>
+        <LastName>Branagh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Simon</FirstName>
+        <LastName>Shepherd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Larkin (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brian</FirstName>
+        <LastName>Blessed</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Simmons</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Kay</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alec</FirstName>
+        <LastName>McCowen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fabian</FirstName>
+        <LastName>Cartwright</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stephen</FirstName>
+        <LastName>Simms</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jay</FirstName>
+        <LastName>Villiers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edward</FirstName>
+        <LastName>Jewesbury</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>Holm</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daniel</FirstName>
+        <LastName>Webb (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jimmy</FirstName>
+        <LastName>Yuill</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

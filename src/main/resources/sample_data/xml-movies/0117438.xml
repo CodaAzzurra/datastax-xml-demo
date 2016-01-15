@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Ransom</Title>
+    <Year>1996</Year>
+    <Directed_By>
+      <Director>Ron Howard</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Action</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Mel</FirstName>
+        <LastName>Gibson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rene</FirstName>
+        <LastName>Russo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brawley</FirstName>
+        <LastName>Nolte</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Sinise</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Delroy</FirstName>
+        <LastName>Lindo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lili</FirstName>
+        <LastName>Taylor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Liev</FirstName>
+        <LastName>Schreiber</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Donnie</FirstName>
+        <LastName>Wahlberg</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Evan</FirstName>
+        <LastName>Handler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nancy</FirstName>
+        <LastName>Ticotin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Gaston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Neil McCready</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Guilfoyle (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Allen</FirstName>
+        <LastName>Bernstein</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>José</FirstName>
+        <LastName>Zúñiga</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

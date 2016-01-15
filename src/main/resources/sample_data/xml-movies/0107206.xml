@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>In the Line of Fire</Title>
+    <Year>1993</Year>
+    <Directed_By>
+      <Director>Wolfgang Petersen</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Drama</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Clint</FirstName>
+        <LastName>Eastwood</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Malkovich</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rene</FirstName>
+        <LastName>Russo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dylan</FirstName>
+        <LastName>McDermott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Cole</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fred</FirstName>
+        <LastName>Dalton Thompson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Mahoney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gregory</FirstName>
+        <LastName>Alan Williams</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Curley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sally</FirstName>
+        <LastName>Hughes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clyde</FirstName>
+        <LastName>Kusatsu</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Hytner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tobin</FirstName>
+        <LastName>Bell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bob</FirstName>
+        <LastName>Schott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Juan</FirstName>
+        <LastName>A. Riojas</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

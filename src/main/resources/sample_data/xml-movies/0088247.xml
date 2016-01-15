@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Terminator, The</Title>
+    <Year>1984</Year>
+    <Directed_By>
+      <Director>James Cameron</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Arnold</FirstName>
+        <LastName>Schwarzenegger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Biehn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Linda</FirstName>
+        <LastName>Hamilton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Winfield</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lance</FirstName>
+        <LastName>Henriksen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rick</FirstName>
+        <LastName>Rossovich</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bess</FirstName>
+        <LastName>Motta</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Earl</FirstName>
+        <LastName>Boen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dick</FirstName>
+        <LastName>Miller (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shawn</FirstName>
+        <LastName>Schepps</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>M. Kerner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Franco</FirstName>
+        <LastName>Columbu</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Paxton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brad</FirstName>
+        <LastName>Rearden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brian</FirstName>
+        <LastName>Thompson</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

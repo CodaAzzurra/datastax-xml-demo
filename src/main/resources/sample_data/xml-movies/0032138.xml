@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Wizard of Oz, The</Title>
+    <Year>1939</Year>
+    <Directed_By>
+      <Director>Victor Fleming</Director>
+      <Director></Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Adventure</Genre>
+      <Genre>Children's</Genre>
+      <Genre>Drama</Genre>
+      <Genre>Musical</Genre>
+      <Genre>Fantasy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Judy</FirstName>
+        <LastName>Garland</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Morgan (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ray</FirstName>
+        <LastName>Bolger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bert</FirstName>
+        <LastName>Lahr</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Haley (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billie</FirstName>
+        <LastName>Burke</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Margaret</FirstName>
+        <LastName>Hamilton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charley</FirstName>
+        <LastName>Grapewin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pat</FirstName>
+        <LastName>Walshe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clara</FirstName>
+        <LastName>Blandick</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

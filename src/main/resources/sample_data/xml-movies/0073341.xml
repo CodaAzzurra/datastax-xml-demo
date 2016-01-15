@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Man Who Would Be King, The</Title>
+    <Year>1975</Year>
+    <Directed_By>
+      <Director>John Huston</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Adventure</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Sean</FirstName>
+        <LastName>Connery</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Caine</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Plummer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Saeed</FirstName>
+        <LastName>Jaffrey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Doghmi</FirstName>
+        <LastName>Larbi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>May (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Karroom</FirstName>
+        <LastName>Ben Bouih</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Albert</FirstName>
+        <LastName>Moses (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mohammad</FirstName>
+        <LastName>Shamsi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Antrim</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Graham</FirstName>
+        <LastName>Acres</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shakira</FirstName>
+        <LastName>Caine</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>E.T. the Extra-Terrestrial</Title>
+    <Year>1982</Year>
+    <Directed_By>
+      <Director>Steven Spielberg</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Adventure</Genre>
+      <Genre>Fantasy</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Dee</FirstName>
+        <LastName>Wallace-Stone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Thomas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Coyote</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>MacNaughton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Drew</FirstName>
+        <LastName>Barrymore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>K.C.</FirstName>
+        <LastName>Martel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sean</FirstName>
+        <LastName>Frye</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>C.</FirstName>
+        <LastName>Thomas Howell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Erika</FirstName>
+        <LastName>Eleniak</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>M. O'Dell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Swingler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Toth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Barton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Durrell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Berkson</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Daylight</Title>
+    <Year>1996</Year>
+    <Directed_By>
+      <Director>Rob Cohen</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Sylvester</FirstName>
+        <LastName>Stallone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Amy</FirstName>
+        <LastName>Brenneman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Viggo</FirstName>
+        <LastName>Mortensen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dan</FirstName>
+        <LastName>Hedaya</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jay</FirstName>
+        <LastName>O. Sanders</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Karen</FirstName>
+        <LastName>Young (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claire</FirstName>
+        <LastName>Bloom</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vanessa</FirstName>
+        <LastName>Bell Calloway</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Renoly</FirstName>
+        <LastName>Santiago</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Colin</FirstName>
+        <LastName>Fox (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Danielle</FirstName>
+        <LastName>Harris</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Trina</FirstName>
+        <LastName>McGee-Davis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marcello</FirstName>
+        <LastName>Thedford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sage</FirstName>
+        <LastName>Stallone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jo</FirstName>
+        <LastName>Anderson</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

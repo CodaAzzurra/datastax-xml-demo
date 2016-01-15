@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Living Daylights, The</Title>
+    <Year>1987</Year>
+    <Directed_By>
+      <Director>John Glen (II)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Timothy</FirstName>
+        <LastName>Dalton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maryam</FirstName>
+        <LastName>d'Abo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeroen</FirstName>
+        <LastName>Krabbé</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Don Baker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Rhys-Davies</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Art</FirstName>
+        <LastName>Malik</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Andreas</FirstName>
+        <LastName>Wisniewski</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thomas</FirstName>
+        <LastName>Wheatley (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Desmond</FirstName>
+        <LastName>Llewelyn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Brown (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Geoffrey</FirstName>
+        <LastName>Keen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Walter</FirstName>
+        <LastName>Gotell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Caroline</FirstName>
+        <LastName>Bliss</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Terry</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Virginia</FirstName>
+        <LastName>Hey</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

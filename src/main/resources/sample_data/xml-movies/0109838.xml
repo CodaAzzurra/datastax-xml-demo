@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Freaked</Title>
+    <Year>1993</Year>
+    <Directed_By>
+      <Director>Tom Stern (I)</Director>
+      <Director>Alex Winter</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Brooke</FirstName>
+        <LastName>Shields</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Sadler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eduardo</FirstName>
+        <LastName>Ricard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Carbo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Deep</FirstName>
+        <LastName>Roy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mihaly</FirstName>
+        <LastName>'Michu' Meszaros</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brian</FirstName>
+        <LastName>Brophy (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Stoyanov</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Morgan</FirstName>
+        <LastName>Fairchild</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alex</FirstName>
+        <LastName>Zuckerman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Megan</FirstName>
+        <LastName>Ward</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Randy</FirstName>
+        <LastName>Quaid</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jaime</FirstName>
+        <LastName>Cardriche</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nicholas</FirstName>
+        <LastName>Cohn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Derek</FirstName>
+        <LastName>McGrath</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

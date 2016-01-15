@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>You've Got Mail</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Nora Ephron</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Hanks</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Meg</FirstName>
+        <LastName>Ryan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Greg</FirstName>
+        <LastName>Kinnear</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Parker</FirstName>
+        <LastName>Posey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Heather</FirstName>
+        <LastName>Burns</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Zahn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jean</FirstName>
+        <LastName>Stapleton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Chappelle (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dabney</FirstName>
+        <LastName>Coleman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Randolph</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hallee</FirstName>
+        <LastName>Hirsh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeffrey</FirstName>
+        <LastName>Scaperrotta</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cara</FirstName>
+        <LastName>Seymour</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kate</FirstName>
+        <LastName>Finneran</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Badalucco</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

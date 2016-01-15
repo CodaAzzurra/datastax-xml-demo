@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Roman Holiday</Title>
+    <Year>1953</Year>
+    <Directed_By>
+      <Director>William Wyler</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Gregory</FirstName>
+        <LastName>Peck</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Audrey</FirstName>
+        <LastName>Hepburn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eddie</FirstName>
+        <LastName>Albert</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hartley</FirstName>
+        <LastName>Power</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harcourt</FirstName>
+        <LastName>Williams</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Margaret</FirstName>
+        <LastName>Rawlings</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tullio</FirstName>
+        <LastName>Carminati</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paolo</FirstName>
+        <LastName>Carlini</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claudio</FirstName>
+        <LastName>Ermelli</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paola</FirstName>
+        <LastName>Borboni</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alfredo</FirstName>
+        <LastName>Rizzo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laura</FirstName>
+        <LastName>Solari</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gorella</FirstName>
+        <LastName>Gori</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

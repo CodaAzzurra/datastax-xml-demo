@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Amadeus</Title>
+    <Year>1984</Year>
+    <Directed_By>
+      <Director>Milos Forman</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>F.</FirstName>
+        <LastName>Murray Abraham</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Hulce</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elizabeth</FirstName>
+        <LastName>Berridge</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Simon</FirstName>
+        <LastName>Callow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roy</FirstName>
+        <LastName>Dotrice</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christine</FirstName>
+        <LastName>Ebersole</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeffrey</FirstName>
+        <LastName>Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Kay</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kenny</FirstName>
+        <LastName>Baker (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lisabeth</FirstName>
+        <LastName>Bartlett</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barbara</FirstName>
+        <LastName>Bryne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Martin</FirstName>
+        <LastName>Cavani</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roderick</FirstName>
+        <LastName>Cook</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Milan</FirstName>
+        <LastName>Demjanenko</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>DiGesu</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

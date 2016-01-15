@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Central do Brasil</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Walter Salles</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+    </Genres>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Specialist, The</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>Luis Llosa</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Sylvester</FirstName>
+        <LastName>Stallone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sharon</FirstName>
+        <LastName>Stone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Woods</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rod</FirstName>
+        <LastName>Steiger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eric</FirstName>
+        <LastName>Roberts</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mario</FirstName>
+        <LastName>Ernesto Sánchez</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sergio</FirstName>
+        <LastName>Dore Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chase</FirstName>
+        <LastName>Randolph</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeana</FirstName>
+        <LastName>Bell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brittany</FirstName>
+        <LastName>Paige Bouck</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Emilio</FirstName>
+        <LastName>Estefan Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>LaGaylia</FirstName>
+        <LastName>Frazier</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ramón</FirstName>
+        <LastName>González Cuevas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Munafo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cheito</FirstName>
+        <LastName>Quinonez</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

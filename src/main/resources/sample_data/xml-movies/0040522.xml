@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Ladri di biciclette</Title>
+    <Year>1948</Year>
+    <Directed_By>
+      <Director>Vittorio De Sica</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Lamberto</FirstName>
+        <LastName>Maggiorani</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Enzo</FirstName>
+        <LastName>Staiola</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lianella</FirstName>
+        <LastName>Carell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gino</FirstName>
+        <LastName>Saltamerenda</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vittorio</FirstName>
+        <LastName>Antonucci</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Giulio</FirstName>
+        <LastName>Chiari</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elena</FirstName>
+        <LastName>Altieri</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carlo</FirstName>
+        <LastName>Jachino</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michele</FirstName>
+        <LastName>Sakara</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Emma</FirstName>
+        <LastName>Druetti</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fausto</FirstName>
+        <LastName>Guerzoni</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nando</FirstName>
+        <LastName>Bruno</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Memmo</FirstName>
+        <LastName>Carotenuto</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ida</FirstName>
+        <LastName>Bracci Dorati</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sergio</FirstName>
+        <LastName>Leone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Massimo</FirstName>
+        <LastName>Randisi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Umberto</FirstName>
+        <LastName>Spadaro</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

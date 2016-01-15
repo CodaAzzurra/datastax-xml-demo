@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Karate Kid, Part II, The</Title>
+    <Year>1986</Year>
+    <Directed_By>
+      <Director>John G. Avildsen</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Pat</FirstName>
+        <LastName>Morita</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ralph</FirstName>
+        <LastName>Macchio</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pat</FirstName>
+        <LastName>Johnson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Malmuth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eddie</FirstName>
+        <LastName>Smith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Martin</FirstName>
+        <LastName>Kove</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Garth</FirstName>
+        <LastName>Johnson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brett</FirstName>
+        <LastName>Johnson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Will</FirstName>
+        <LastName>Hunt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Evan</FirstName>
+        <LastName>Malmuth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lee</FirstName>
+        <LastName>Arnone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sarah</FirstName>
+        <LastName>Kendall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Yuji</FirstName>
+        <LastName>Okumoto</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joey</FirstName>
+        <LastName>Miyashima</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Danny</FirstName>
+        <LastName>Kamekona</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

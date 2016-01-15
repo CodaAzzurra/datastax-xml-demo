@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Lost World: Jurassic Park, The</Title>
+    <Year>1997</Year>
+    <Directed_By>
+      <Director>Steven Spielberg</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jeff</FirstName>
+        <LastName>Goldblum</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julianne</FirstName>
+        <LastName>Moore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pete</FirstName>
+        <LastName>Postlethwaite</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arliss</FirstName>
+        <LastName>Howard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Attenborough</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vince</FirstName>
+        <LastName>Vaughn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vanessa</FirstName>
+        <LastName>Lee Chester</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Stormare</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harvey</FirstName>
+        <LastName>Jason</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Schiff</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thomas</FirstName>
+        <LastName>F. Duffy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>Mazzello</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ariana</FirstName>
+        <LastName>Richards</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thomas</FirstName>
+        <LastName>Rosales</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Camilla</FirstName>
+        <LastName>Belle</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

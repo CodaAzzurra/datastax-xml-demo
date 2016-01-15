@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Moonraker</Title>
+    <Year>1979</Year>
+    <Directed_By>
+      <Director>Lewis Gilbert (II)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Roger</FirstName>
+        <LastName>Moore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lois</FirstName>
+        <LastName>Chiles</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michel</FirstName>
+        <LastName>Lonsdale</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Kiel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Corinne</FirstName>
+        <LastName>Clery</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bernard</FirstName>
+        <LastName>Lee (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Geoffrey</FirstName>
+        <LastName>Keen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Desmond</FirstName>
+        <LastName>Llewelyn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lois</FirstName>
+        <LastName>Maxwell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Toshirô</FirstName>
+        <LastName>Suga</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Emily</FirstName>
+        <LastName>Bolton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Blanche</FirstName>
+        <LastName>Ravalec</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Irka</FirstName>
+        <LastName>Bochenko</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Marshall (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leila</FirstName>
+        <LastName>Shenna</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Hamlet</Title>
+    <Year>1996</Year>
+    <Directed_By>
+      <Director>Kenneth Branagh</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Riz</FirstName>
+        <LastName>Abbasi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Attenborough</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Blair (V)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brian</FirstName>
+        <LastName>Blessed</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kenneth</FirstName>
+        <LastName>Branagh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Briers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Bryant</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Bygott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julie</FirstName>
+        <LastName>Christie (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Crystal</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Daish</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Judi</FirstName>
+        <LastName>Dench</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gérard</FirstName>
+        <LastName>Depardieu</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Reece</FirstName>
+        <LastName>Dinsdale</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ken</FirstName>
+        <LastName>Dodd</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

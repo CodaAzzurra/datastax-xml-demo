@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Fugitive, The</Title>
+    <Year>1993</Year>
+    <Directed_By>
+      <Director>Andrew Davis</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Drama</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Harrison</FirstName>
+        <LastName>Ford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tommy</FirstName>
+        <LastName>Lee Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sela</FirstName>
+        <LastName>Ward</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julianne</FirstName>
+        <LastName>Moore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Pantoliano</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Andreas</FirstName>
+        <LastName>Katsulas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeroen</FirstName>
+        <LastName>Krabbé</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daniel</FirstName>
+        <LastName>Roebuck</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>L.</FirstName>
+        <LastName>Scott Caldwell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Wood (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ron</FirstName>
+        <LastName>Dean</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>F. Kosala</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Miguel</FirstName>
+        <LastName>Nino</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Drummond (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Fosco</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

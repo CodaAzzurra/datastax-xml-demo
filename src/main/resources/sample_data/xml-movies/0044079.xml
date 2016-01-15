@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Strangers on a Train</Title>
+    <Year>1951</Year>
+    <Directed_By>
+      <Director>Alfred Hitchcock</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Farley</FirstName>
+        <LastName>Granger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Walker (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ruth</FirstName>
+        <LastName>Roman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leo</FirstName>
+        <LastName>G. Carroll</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patricia</FirstName>
+        <LastName>Hitchcock</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marion</FirstName>
+        <LastName>Lorne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Howard</FirstName>
+        <LastName>St. John</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Hale (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Gist</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kasey</FirstName>
+        <LastName>Rogers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Brown (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ralph</FirstName>
+        <LastName>Moody</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Norma</FirstName>
+        <LastName>Varden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dick</FirstName>
+        <LastName>Wessel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Doucette</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

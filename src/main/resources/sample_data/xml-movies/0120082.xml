@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Scream 2</Title>
+    <Year>1997</Year>
+    <Directed_By>
+      <Director>Wes Craven</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Horror</Genre>
+      <Genre>Mystery</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Arquette</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Neve</FirstName>
+        <LastName>Campbell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Courteney</FirstName>
+        <LastName>Cox</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sarah</FirstName>
+        <LastName>Michelle Gellar</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jamie</FirstName>
+        <LastName>Kennedy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Duane</FirstName>
+        <LastName>Martin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laurie</FirstName>
+        <LastName>Metcalf</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elise</FirstName>
+        <LastName>Neal</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jerry</FirstName>
+        <LastName>O'Connell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Timothy</FirstName>
+        <LastName>Olyphant</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jada</FirstName>
+        <LastName>Pinkett</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Liev</FirstName>
+        <LastName>Schreiber</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lewis</FirstName>
+        <LastName>Arquette</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rebecca</FirstName>
+        <LastName>Gayheart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Portia</FirstName>
+        <LastName>de Rossi</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

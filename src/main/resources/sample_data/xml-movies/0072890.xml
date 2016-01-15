@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Dog Day Afternoon</Title>
+    <Year>1975</Year>
+    <Directed_By>
+      <Director>Sidney Lumet</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Crime</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Penelope</FirstName>
+        <LastName>Allen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sully</FirstName>
+        <LastName>Boyar</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Cazale</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Beulah</FirstName>
+        <LastName>Garrick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carol</FirstName>
+        <LastName>Kane</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sandra</FirstName>
+        <LastName>Kazan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marcia</FirstName>
+        <LastName>Jean Kurtz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Amy</FirstName>
+        <LastName>Levitt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Marriott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Estelle</FirstName>
+        <LastName>Omens</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Al</FirstName>
+        <LastName>Pacino</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Springer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Broderick (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Durning</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carmine</FirstName>
+        <LastName>Foresta (I)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

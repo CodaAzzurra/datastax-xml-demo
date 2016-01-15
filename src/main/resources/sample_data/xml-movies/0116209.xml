@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>English Patient, The</Title>
+    <Year>1996</Year>
+    <Directed_By>
+      <Director>Anthony Minghella</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Romance</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Ralph</FirstName>
+        <LastName>Fiennes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Juliette</FirstName>
+        <LastName>Binoche</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Willem</FirstName>
+        <LastName>Dafoe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kristin</FirstName>
+        <LastName>Scott Thomas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Naveen</FirstName>
+        <LastName>Andrews</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Colin</FirstName>
+        <LastName>Firth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julian</FirstName>
+        <LastName>Wadham</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jürgen</FirstName>
+        <LastName>Prochnow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Whately</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clive</FirstName>
+        <LastName>Merrison</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nino</FirstName>
+        <LastName>Castelnuovo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hichem</FirstName>
+        <LastName>Rostom</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Rühring</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Geordie</FirstName>
+        <LastName>Johnson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Torri</FirstName>
+        <LastName>Higginson</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

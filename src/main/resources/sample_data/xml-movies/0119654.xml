@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Men in Black</Title>
+    <Year>1997</Year>
+    <Directed_By>
+      <Director>Barry Sonnenfeld</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tommy</FirstName>
+        <LastName>Lee Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Will</FirstName>
+        <LastName>Smith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Linda</FirstName>
+        <LastName>Fiorentino</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vincent</FirstName>
+        <LastName>D'Onofrio</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rip</FirstName>
+        <LastName>Torn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Shalhoub</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Siobhan</FirstName>
+        <LastName>Fallon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mike</FirstName>
+        <LastName>Nussbaum</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jon</FirstName>
+        <LastName>Gries</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sergio</FirstName>
+        <LastName>Calderón</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carel</FirstName>
+        <LastName>Struycken</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fredric</FirstName>
+        <LastName>Lehne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Hamilton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kent</FirstName>
+        <LastName>Faulcon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Alexander (II)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

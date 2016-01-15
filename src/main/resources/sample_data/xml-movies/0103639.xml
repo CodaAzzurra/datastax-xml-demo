@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Aladdin</Title>
+    <Year>1992</Year>
+    <Directed_By>
+      <Director>Ron Clements</Director>
+      <Director>John Musker</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Animation</Genre>
+      <Genre>Fantasy</Genre>
+      <Genre>Children's</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Musical</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Scott</FirstName>
+        <LastName>Weinger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robin</FirstName>
+        <LastName>Williams</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Linda</FirstName>
+        <LastName>Larkin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Freeman (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Welker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gilbert</FirstName>
+        <LastName>Gottfried</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Douglas</FirstName>
+        <LastName>Seale</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Adler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brad</FirstName>
+        <LastName>Kane (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lea</FirstName>
+        <LastName>Salonga</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Adler (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Angel (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Corey</FirstName>
+        <LastName>Burton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philip</FirstName>
+        <LastName>L. Clarke</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Cummings</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

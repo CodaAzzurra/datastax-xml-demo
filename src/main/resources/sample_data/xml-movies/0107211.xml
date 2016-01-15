@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Indecent Proposal</Title>
+    <Year>1993</Year>
+    <Directed_By>
+      <Director>Adrian Lyne</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Redford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Demi</FirstName>
+        <LastName>Moore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Woody</FirstName>
+        <LastName>Harrelson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Seymour</FirstName>
+        <LastName>Cassel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Oliver</FirstName>
+        <LastName>Platt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Bob Thornton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rip</FirstName>
+        <LastName>Taylor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Connolly</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joel</FirstName>
+        <LastName>Brooks (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pierre</FirstName>
+        <LastName>Epstein</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Danny</FirstName>
+        <LastName>Zorn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>West</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pamela</FirstName>
+        <LastName>Holt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tommy</FirstName>
+        <LastName>Bash</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mariclare</FirstName>
+        <LastName>Costello</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

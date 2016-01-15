@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Best Years of Our Lives, The</Title>
+    <Year>1946</Year>
+    <Directed_By>
+      <Director>William Wyler</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Myrna</FirstName>
+        <LastName>Loy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fredric</FirstName>
+        <LastName>March</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dana</FirstName>
+        <LastName>Andrews</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Teresa</FirstName>
+        <LastName>Wright</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Virginia</FirstName>
+        <LastName>Mayo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cathy</FirstName>
+        <LastName>O'Donnell (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hoagy</FirstName>
+        <LastName>Carmichael</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harold</FirstName>
+        <LastName>Russell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gladys</FirstName>
+        <LastName>George</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roman</FirstName>
+        <LastName>Bohnen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ray</FirstName>
+        <LastName>Collins (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Minna</FirstName>
+        <LastName>Gombell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Walter</FirstName>
+        <LastName>Baldwin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Cochran (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dorothy</FirstName>
+        <LastName>Adams</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

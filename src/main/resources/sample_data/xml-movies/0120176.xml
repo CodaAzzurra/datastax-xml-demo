@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Spanish Prisoner, The</Title>
+    <Year>1997</Year>
+    <Directed_By>
+      <Director>David Mamet</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Film-Noir</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>Mystery</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Campbell</FirstName>
+        <LastName>Scott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rebecca</FirstName>
+        <LastName>Pidgeon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Martin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ben</FirstName>
+        <LastName>Gazzara</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ricky</FirstName>
+        <LastName>Jay</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Felicity</FirstName>
+        <LastName>Huffman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>L. Freidman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jerrold</FirstName>
+        <LastName>Graff</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>G.</FirstName>
+        <LastName>Roy Levin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hilary</FirstName>
+        <LastName>Hinckle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Pittu</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Kaldor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>McDonald</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Robinson (III)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Olivia</FirstName>
+        <LastName>Tecosky</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

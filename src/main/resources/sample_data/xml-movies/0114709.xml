@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Toy Story</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>John Lasseter</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Animation</Genre>
+      <Genre>Children's</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Fantasy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Hanks</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tim</FirstName>
+        <LastName>Allen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Don</FirstName>
+        <LastName>Rickles</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Varney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wallace</FirstName>
+        <LastName>Shawn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Ratzenberger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Annie</FirstName>
+        <LastName>Potts</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Morris (III)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Erik</FirstName>
+        <LastName>von Detten</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laurie</FirstName>
+        <LastName>Metcalf</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>R.</FirstName>
+        <LastName>Lee Ermey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sarah</FirstName>
+        <LastName>Freeman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Penn</FirstName>
+        <LastName>Jillette</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Angel (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Spencer</FirstName>
+        <LastName>Aste</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

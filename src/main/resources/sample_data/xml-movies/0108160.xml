@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Sleepless in Seattle</Title>
+    <Year>1993</Year>
+    <Directed_By>
+      <Director>Nora Ephron</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Hanks</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ross</FirstName>
+        <LastName>Malinger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rita</FirstName>
+        <LastName>Wilson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Victor</FirstName>
+        <LastName>Garber</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Riis Farrell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carey</FirstName>
+        <LastName>Lowell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Meg</FirstName>
+        <LastName>Ryan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Pullman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Le</FirstName>
+        <LastName>Clanché du Rand</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>O'Morrison</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Hyde Pierce</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Valerie</FirstName>
+        <LastName>Wright</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frances</FirstName>
+        <LastName>Conroy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Tammi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Calvin</FirstName>
+        <LastName>Trillin</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Clear and Present Danger</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>Phillip Noyce</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Harrison</FirstName>
+        <LastName>Ford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Willem</FirstName>
+        <LastName>Dafoe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anne</FirstName>
+        <LastName>Archer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joaquim</FirstName>
+        <LastName>de Almeida</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Czerny</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harris</FirstName>
+        <LastName>Yulin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Donald</FirstName>
+        <LastName>Moffat</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Miguel</FirstName>
+        <LastName>Sandoval (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Benjamin</FirstName>
+        <LastName>Bratt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Raymond</FirstName>
+        <LastName>Cruz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dean</FirstName>
+        <LastName>Jones (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thora</FirstName>
+        <LastName>Birch</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ann</FirstName>
+        <LastName>Magnuson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hope</FirstName>
+        <LastName>Lange</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Tammi</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

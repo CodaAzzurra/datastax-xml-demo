@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Full Metal Jacket</Title>
+    <Year>1987</Year>
+    <Directed_By>
+      <Director>Stanley Kubrick</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Drama</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Matthew</FirstName>
+        <LastName>Modine</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Adam</FirstName>
+        <LastName>Baldwin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vincent</FirstName>
+        <LastName>D'Onofrio</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>R.</FirstName>
+        <LastName>Lee Ermey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dorian</FirstName>
+        <LastName>Harewood</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arliss</FirstName>
+        <LastName>Howard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevyn</FirstName>
+        <LastName>Major Howard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ed</FirstName>
+        <LastName>O'Ross</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Terry</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kieron</FirstName>
+        <LastName>Jecchinis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Boa</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kirk</FirstName>
+        <LastName>Taylor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jon</FirstName>
+        <LastName>Stafford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tim</FirstName>
+        <LastName>Colceri</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>Tyler</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

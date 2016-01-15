@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Santa Clause, The</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>John Pasquin</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tim</FirstName>
+        <LastName>Allen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Judge</FirstName>
+        <LastName>Reinhold</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wendy</FirstName>
+        <LastName>Crewson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eric</FirstName>
+        <LastName>Lloyd (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Krumholtz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Larry</FirstName>
+        <LastName>Brandenburg</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mary</FirstName>
+        <LastName>Gross</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paige</FirstName>
+        <LastName>Tamada</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Boyle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Judith</FirstName>
+        <LastName>Scott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jayne</FirstName>
+        <LastName>Eastwood</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Melissa</FirstName>
+        <LastName>King</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bradley</FirstName>
+        <LastName>Wentworth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Azura</FirstName>
+        <LastName>Bates</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joshua</FirstName>
+        <LastName>Satok</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

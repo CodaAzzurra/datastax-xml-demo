@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Lion King, The</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>Roger Allers</Director>
+      <Director>Rob Minkoff</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Animation</Genre>
+      <Genre>Children's</Genre>
+      <Genre>Musical</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Rowan</FirstName>
+        <LastName>Atkinson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Matthew</FirstName>
+        <LastName>Broderick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Niketa</FirstName>
+        <LastName>Calame</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Cummings</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Whoopi</FirstName>
+        <LastName>Goldberg</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Guillaume</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeremy</FirstName>
+        <LastName>Irons</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Earl Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Moira</FirstName>
+        <LastName>Kelly (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nathan</FirstName>
+        <LastName>Lane</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Zoe</FirstName>
+        <LastName>Leader</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cheech</FirstName>
+        <LastName>Marin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ernie</FirstName>
+        <LastName>Sabella</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Madge</FirstName>
+        <LastName>Sinclair</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Taylor Thomas</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

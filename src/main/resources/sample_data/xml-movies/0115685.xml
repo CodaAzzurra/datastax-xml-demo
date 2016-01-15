@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Birdcage, The</Title>
+    <Year>1996</Year>
+    <Directed_By>
+      <Director>Mike Nichols</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Robin</FirstName>
+        <LastName>Williams</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gene</FirstName>
+        <LastName>Hackman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nathan</FirstName>
+        <LastName>Lane</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dianne</FirstName>
+        <LastName>Wiest</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dan</FirstName>
+        <LastName>Futterman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Calista</FirstName>
+        <LastName>Flockhart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hank</FirstName>
+        <LastName>Azaria</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christine</FirstName>
+        <LastName>Baranski</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>McGowan (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Grant</FirstName>
+        <LastName>Heslov</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kirby</FirstName>
+        <LastName>Mitchell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Lally</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Luca</FirstName>
+        <LastName>Tommassini</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Luis</FirstName>
+        <LastName>Camacho (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Andre</FirstName>
+        <LastName>Fuentes</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

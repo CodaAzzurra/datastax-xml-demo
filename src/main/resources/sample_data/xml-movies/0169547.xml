@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>American Beauty</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>Sam Mendes</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Spacey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Annette</FirstName>
+        <LastName>Bening</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thora</FirstName>
+        <LastName>Birch</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wes</FirstName>
+        <LastName>Bentley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mena</FirstName>
+        <LastName>Suvari</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Gallagher</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>Cooper (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Allison</FirstName>
+        <LastName>Janney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scott</FirstName>
+        <LastName>Bakula</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sam</FirstName>
+        <LastName>Robards</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barry</FirstName>
+        <LastName>Del Sherman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ara</FirstName>
+        <LastName>Celi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Cho</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fort</FirstName>
+        <LastName>Atkinson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sue</FirstName>
+        <LastName>Casey</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Hustler, The</Title>
+    <Year>1961</Year>
+    <Directed_By>
+      <Director>Robert Rossen</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Newman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jackie</FirstName>
+        <LastName>Gleason</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Piper</FirstName>
+        <LastName>Laurie</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>C. Scott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Myron</FirstName>
+        <LastName>McCormick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Murray</FirstName>
+        <LastName>Hamilton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Constantine</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stefan</FirstName>
+        <LastName>Gierasch</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vincent</FirstName>
+        <LastName>Gardenia</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clifford</FirstName>
+        <LastName>A. Pellow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gordon</FirstName>
+        <LastName>B. Clarke</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alexander</FirstName>
+        <LastName>Rose</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carolyn</FirstName>
+        <LastName>Coates</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carl</FirstName>
+        <LastName>York</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jake</FirstName>
+        <LastName>LaMotta</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Nine to Five</Title>
+    <Year>1980</Year>
+    <Directed_By>
+      <Director>Colin Higgins (I)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jane</FirstName>
+        <LastName>Fonda</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lily</FirstName>
+        <LastName>Tomlin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dolly</FirstName>
+        <LastName>Parton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dabney</FirstName>
+        <LastName>Coleman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sterling</FirstName>
+        <LastName>Hayden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elizabeth</FirstName>
+        <LastName>Wilson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Jones (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lawrence</FirstName>
+        <LastName>Pressman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marian</FirstName>
+        <LastName>Mercer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ren</FirstName>
+        <LastName>Woods</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Norma</FirstName>
+        <LastName>Donaldson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roxanna</FirstName>
+        <LastName>Bonilla-Giannini</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peggy</FirstName>
+        <LastName>Pope</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Stahl</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ray</FirstName>
+        <LastName>Vitte</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

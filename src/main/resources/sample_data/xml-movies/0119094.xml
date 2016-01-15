@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Face/Off</Title>
+    <Year>1997</Year>
+    <Directed_By>
+      <Director>John Woo</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Travolta</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nicolas</FirstName>
+        <LastName>Cage</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joan</FirstName>
+        <LastName>Allen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alessandro</FirstName>
+        <LastName>Nivola</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gina</FirstName>
+        <LastName>Gershon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dominique</FirstName>
+        <LastName>Swain</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nick</FirstName>
+        <LastName>Cassavetes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harve</FirstName>
+        <LastName>Presnell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Colm</FirstName>
+        <LastName>Feore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Carroll Lynch</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>CCH</FirstName>
+        <LastName>Pounder</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Wisdom</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Margaret</FirstName>
+        <LastName>Cho</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jamie</FirstName>
+        <LastName>Denton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Matt</FirstName>
+        <LastName>Ross (I)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

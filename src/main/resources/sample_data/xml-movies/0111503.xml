@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>True Lies</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>James Cameron</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Arnold</FirstName>
+        <LastName>Schwarzenegger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jamie</FirstName>
+        <LastName>Lee Curtis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Arnold</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Paxton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tia</FirstName>
+        <LastName>Carrere</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Art</FirstName>
+        <LastName>Malik</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eliza</FirstName>
+        <LastName>Dushku</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Grant</FirstName>
+        <LastName>Heslov</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charlton</FirstName>
+        <LastName>Heston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marshall</FirstName>
+        <LastName>Manesh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Allen (IV)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dieter</FirstName>
+        <LastName>Rauter</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jane</FirstName>
+        <LastName>Morris</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Katsy</FirstName>
+        <LastName>Chappell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Crystina</FirstName>
+        <LastName>Wyler</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

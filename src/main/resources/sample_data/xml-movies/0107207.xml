@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>In the Name of the Father</Title>
+    <Year>1993</Year>
+    <Directed_By>
+      <Director>Jim Sheridan (I)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Alison</FirstName>
+        <LastName>Crosbie</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philip</FirstName>
+        <LastName>King</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Emma</FirstName>
+        <LastName>Thompson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nye</FirstName>
+        <LastName>Heron</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daniel</FirstName>
+        <LastName>Day-Lewis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anthony</FirstName>
+        <LastName>Brophy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frankie</FirstName>
+        <LastName>McCafferty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Warriner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Sheppard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julian</FirstName>
+        <LastName>Walsh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stuart</FirstName>
+        <LastName>Wolvenden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jo</FirstName>
+        <LastName>Connor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Karen</FirstName>
+        <LastName>Carlisle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Seamus</FirstName>
+        <LastName>Moran</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Byrne (II)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

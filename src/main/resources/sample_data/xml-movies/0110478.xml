@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Maverick</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>Richard Donner</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Western</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Mel</FirstName>
+        <LastName>Gibson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jodie</FirstName>
+        <LastName>Foster</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Garner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Graham</FirstName>
+        <LastName>Greene (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alfred</FirstName>
+        <LastName>Molina</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Coburn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dub</FirstName>
+        <LastName>Taylor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Geoffrey</FirstName>
+        <LastName>Lewis (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Smith (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dan</FirstName>
+        <LastName>Hedaya</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dennis</FirstName>
+        <LastName>Fimple</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Denver</FirstName>
+        <LastName>Pyle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clint</FirstName>
+        <LastName>Black</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Max</FirstName>
+        <LastName>Perlich</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Art</FirstName>
+        <LastName>LaFleur</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

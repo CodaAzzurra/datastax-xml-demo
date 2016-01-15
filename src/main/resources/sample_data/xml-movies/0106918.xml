@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Firm, The</Title>
+    <Year>1993</Year>
+    <Directed_By>
+      <Director>Sydney Pollack</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Cruise</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeanne</FirstName>
+        <LastName>Tripplehorn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gene</FirstName>
+        <LastName>Hackman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hal</FirstName>
+        <LastName>Holbrook</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Terry</FirstName>
+        <LastName>Kinney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wilford</FirstName>
+        <LastName>Brimley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ed</FirstName>
+        <LastName>Harris</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Holly</FirstName>
+        <LastName>Hunter</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Strathairn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Busey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steven</FirstName>
+        <LastName>Hill (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tobin</FirstName>
+        <LastName>Bell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barbara</FirstName>
+        <LastName>Garrick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jerry</FirstName>
+        <LastName>Hardin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Calderon</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

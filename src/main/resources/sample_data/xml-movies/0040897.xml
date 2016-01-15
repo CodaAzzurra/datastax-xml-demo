@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Treasure of the Sierra Madre, The</Title>
+    <Year>1948</Year>
+    <Directed_By>
+      <Director>John Huston</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Adventure</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Humphrey</FirstName>
+        <LastName>Bogart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Walter</FirstName>
+        <LastName>Huston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tim</FirstName>
+        <LastName>Holt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Bennett</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barton</FirstName>
+        <LastName>MacLane</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alfonso</FirstName>
+        <LastName>Bedoya</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arturo</FirstName>
+        <LastName>Soto Rangel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Manuel</FirstName>
+        <LastName>Dondé</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>José</FirstName>
+        <LastName>Torvay</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Margarito</FirstName>
+        <LastName>Luna</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

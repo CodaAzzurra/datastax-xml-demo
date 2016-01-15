@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Random Hearts</Title>
+    <Year>1999</Year>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Romance</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Harrison</FirstName>
+        <LastName>Ford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kristin</FirstName>
+        <LastName>Scott Thomas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Dutton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bonnie</FirstName>
+        <LastName>Hunt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dennis</FirstName>
+        <LastName>Haysbert</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sydney</FirstName>
+        <LastName>Pollack</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Jenkins (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Guilfoyle (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Susanna</FirstName>
+        <LastName>Thompson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Coyote</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dylan</FirstName>
+        <LastName>Baker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lynne</FirstName>
+        <LastName>Thigpen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Susan</FirstName>
+        <LastName>Floyd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Cobbs</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kate</FirstName>
+        <LastName>Mara</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

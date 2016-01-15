@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Quatre cents coups, Les</Title>
+    <Year>1959</Year>
+    <Directed_By>
+      <Director>François Truffaut</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Crime</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jean-Pierre</FirstName>
+        <LastName>Léaud</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claire</FirstName>
+        <LastName>Maurier</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Albert</FirstName>
+        <LastName>Rémy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Guy</FirstName>
+        <LastName>Decomble</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Georges</FirstName>
+        <LastName>Flamant</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patrick</FirstName>
+        <LastName>Auffray</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daniel</FirstName>
+        <LastName>Couturier</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>François</FirstName>
+        <LastName>Nocher</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Kanayan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Renaud</FirstName>
+        <LastName>Fontanarosa</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michel</FirstName>
+        <LastName>Girard (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Moati</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bernard</FirstName>
+        <LastName>Abbou</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jean-François</FirstName>
+        <LastName>Bergouignan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michel</FirstName>
+        <LastName>Lesignor</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

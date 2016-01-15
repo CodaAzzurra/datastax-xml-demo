@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Streetcar Named Desire, A</Title>
+    <Year>1951</Year>
+    <Directed_By>
+      <Director>Elia Kazan</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Vivien</FirstName>
+        <LastName>Leigh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marlon</FirstName>
+        <LastName>Brando</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kim</FirstName>
+        <LastName>Hunter</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Karl</FirstName>
+        <LastName>Malden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rudy</FirstName>
+        <LastName>Bond</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nick</FirstName>
+        <LastName>Dennis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peg</FirstName>
+        <LastName>Hillias</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wright</FirstName>
+        <LastName>King</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Garrick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ann</FirstName>
+        <LastName>Dere</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edna</FirstName>
+        <LastName>Thomas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mickey</FirstName>
+        <LastName>Kuhn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chester</FirstName>
+        <LastName>Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marietta</FirstName>
+        <LastName>Canty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maxie</FirstName>
+        <LastName>Thrower</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

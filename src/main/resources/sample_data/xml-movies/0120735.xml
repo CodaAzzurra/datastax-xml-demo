@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Lock, Stock and Two Smoking Barrels</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Guy Ritchie</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Crime</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Flemyng</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dexter</FirstName>
+        <LastName>Fletcher</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nick</FirstName>
+        <LastName>Moran</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Statham</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steven</FirstName>
+        <LastName>Mackintosh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vinnie</FirstName>
+        <LastName>Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lenny</FirstName>
+        <LastName>McLean</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>P.H.</FirstName>
+        <LastName>Moriarty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Sweeney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Harper</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stephen</FirstName>
+        <LastName>Marcus</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>McNicholl</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vas</FirstName>
+        <LastName>Blackwood</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jake</FirstName>
+        <LastName>Abraham (II)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

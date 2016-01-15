@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Indiana Jones and the Last Crusade</Title>
+    <Year>1989</Year>
+    <Directed_By>
+      <Director>Steven Spielberg</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Harrison</FirstName>
+        <LastName>Ford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sean</FirstName>
+        <LastName>Connery</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Denholm</FirstName>
+        <LastName>Elliott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alison</FirstName>
+        <LastName>Doody</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Rhys-Davies</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julian</FirstName>
+        <LastName>Glover</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>River</FirstName>
+        <LastName>Phoenix</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Byrne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevork</FirstName>
+        <LastName>Malikyan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Eddison</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Young</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alexei</FirstName>
+        <LastName>Sayle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alex</FirstName>
+        <LastName>Hyde-White</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Maxwell (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Isla</FirstName>
+        <LastName>Blair</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Fifth Element, The</Title>
+    <Year>1997</Year>
+    <Directed_By>
+      <Director>Luc Besson</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Willis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Oldman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>Holm</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Milla</FirstName>
+        <LastName>Jovovich</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>Tucker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Luke</FirstName>
+        <LastName>Perry</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brion</FirstName>
+        <LastName>James</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>'Tiny' Lister Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lee</FirstName>
+        <LastName>Evans (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charlie</FirstName>
+        <LastName>Creed-Miles</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Neville</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Bluthal</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mathieu</FirstName>
+        <LastName>Kassovitz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Fairbank</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

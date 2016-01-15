@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Usual Suspects, The</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>Bryan Singer</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Crime</Genre>
+      <Genre>Film-Noir</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Stephen</FirstName>
+        <LastName>Baldwin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gabriel</FirstName>
+        <LastName>Byrne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Benicio</FirstName>
+        <LastName>Del Toro</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Pollak</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Spacey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chazz</FirstName>
+        <LastName>Palminteri</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pete</FirstName>
+        <LastName>Postlethwaite</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Suzy</FirstName>
+        <LastName>Amis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Giancarlo</FirstName>
+        <LastName>Esposito</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dan</FirstName>
+        <LastName>Hedaya</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Bartel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carl</FirstName>
+        <LastName>Bressler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Phillip</FirstName>
+        <LastName>Simon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Shearer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christine</FirstName>
+        <LastName>Estabrook</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

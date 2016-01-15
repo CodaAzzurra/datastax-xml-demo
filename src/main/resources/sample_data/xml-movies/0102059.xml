@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Hot Shots!</Title>
+    <Year>1991</Year>
+    <Directed_By>
+      <Director>Jim Abrahams</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Charlie</FirstName>
+        <LastName>Sheen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cary</FirstName>
+        <LastName>Elwes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Valeria</FirstName>
+        <LastName>Golino</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lloyd</FirstName>
+        <LastName>Bridges</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Dunn (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jon</FirstName>
+        <LastName>Cryer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>O'Leary (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kristy</FirstName>
+        <LastName>Swanson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Efrem</FirstName>
+        <LastName>Zimbalist Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Irwin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Heidi</FirstName>
+        <LastName>Swedberg</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>A. Young</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ryan</FirstName>
+        <LastName>Stiles</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rino</FirstName>
+        <LastName>Thunder</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Arnott</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Big</Title>
+    <Year>1988</Year>
+    <Directed_By>
+      <Director>Penny Marshall</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Fantasy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Hanks</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elizabeth</FirstName>
+        <LastName>Perkins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Loggia</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Heard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jared</FirstName>
+        <LastName>Rushton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Moscow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jon</FirstName>
+        <LastName>Lovitz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mercedes</FirstName>
+        <LastName>Ruehl</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Josh</FirstName>
+        <LastName>Clark</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kimberlee</FirstName>
+        <LastName>M. Davis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Oliver</FirstName>
+        <LastName>Block (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Erika</FirstName>
+        <LastName>Katz (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Allan</FirstName>
+        <LastName>Wasserman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Ballou</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Howard Klar</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Mulan</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Tony Bancroft</Director>
+      <Director>Barry Cook</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Children's</Genre>
+      <Genre>Animation</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>Musical</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Ming-Na</FirstName>
+        <LastName>Wen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lea</FirstName>
+        <LastName>Salonga</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eddie</FirstName>
+        <LastName>Murphy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>B.D.</FirstName>
+        <LastName>Wong</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Donny</FirstName>
+        <LastName>Osmond</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harvey</FirstName>
+        <LastName>Fierstein</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jerry</FirstName>
+        <LastName>Tondo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gedde</FirstName>
+        <LastName>Watanabe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Matthew</FirstName>
+        <LastName>Wilder</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Hong</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Miguel</FirstName>
+        <LastName>Ferrer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Soon-Tek</FirstName>
+        <LastName>Oh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Freda</FirstName>
+        <LastName>Foh Shen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pat</FirstName>
+        <LastName>Morita</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>June</FirstName>
+        <LastName>Foray</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

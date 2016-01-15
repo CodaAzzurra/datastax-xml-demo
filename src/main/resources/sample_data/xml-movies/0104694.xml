@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>League of Their Own, A</Title>
+    <Year>1992</Year>
+    <Directed_By>
+      <Director>Penny Marshall</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Hanks</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Geena</FirstName>
+        <LastName>Davis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lori</FirstName>
+        <LastName>Petty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rosie</FirstName>
+        <LastName>O'Donnell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Megan</FirstName>
+        <LastName>Cavanagh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tracy</FirstName>
+        <LastName>Reiner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bitty</FirstName>
+        <LastName>Schram</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ann</FirstName>
+        <LastName>Cusack</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anne</FirstName>
+        <LastName>Ramsay</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Freddie</FirstName>
+        <LastName>Simpson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Renée</FirstName>
+        <LastName>Coleman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robin</FirstName>
+        <LastName>Knight (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patti</FirstName>
+        <LastName>Pelton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kelli</FirstName>
+        <LastName>Simpkins</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Big Daddy</Title>
+    <Year>1999</Year>
+    <Genres>
+      <Genre>Comedy</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Adam</FirstName>
+        <LastName>Sandler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joey</FirstName>
+        <LastName>Lauren Adams</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jon</FirstName>
+        <LastName>Stewart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cole</FirstName>
+        <LastName>Sprouse</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dylan</FirstName>
+        <LastName>Sprouse</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Josh</FirstName>
+        <LastName>Mostel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leslie</FirstName>
+        <LastName>Mann</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Allen</FirstName>
+        <LastName>Covert</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rob</FirstName>
+        <LastName>Schneider</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kristy</FirstName>
+        <LastName>Swanson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>Bologna</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Dante</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Loughran</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Buscemi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tim</FirstName>
+        <LastName>Herlihy</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

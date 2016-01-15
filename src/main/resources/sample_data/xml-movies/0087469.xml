@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Indiana Jones and the Temple of Doom</Title>
+    <Year>1984</Year>
+    <Directed_By>
+      <Director>Steven Spielberg</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Harrison</FirstName>
+        <LastName>Ford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kate</FirstName>
+        <LastName>Capshaw</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Amrish</FirstName>
+        <LastName>Puri</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roshan</FirstName>
+        <LastName>Seth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philip</FirstName>
+        <LastName>Stone (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roy</FirstName>
+        <LastName>Chiao</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Ke Quan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Yip</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ric</FirstName>
+        <LastName>Young</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chua</FirstName>
+        <LastName>Kah Joo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rex</FirstName>
+        <LastName>Ngui</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philip</FirstName>
+        <LastName>Tan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dan</FirstName>
+        <LastName>Aykroyd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dr.</FirstName>
+        <LastName>Akio Mitamura</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Yama</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Thin Man, The</Title>
+    <Year>1934</Year>
+    <Directed_By>
+      <Director>W.S. Van Dyke</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Mystery</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Powell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Myrna</FirstName>
+        <LastName>Loy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maureen</FirstName>
+        <LastName>O'Sullivan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nat</FirstName>
+        <LastName>Pendleton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Minna</FirstName>
+        <LastName>Gombell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Porter</FirstName>
+        <LastName>Hall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Wadsworth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Henry (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harold</FirstName>
+        <LastName>Huber</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>César</FirstName>
+        <LastName>Romero</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Natalie</FirstName>
+        <LastName>Moorhead</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edward</FirstName>
+        <LastName>Brophy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edward</FirstName>
+        <LastName>Ellis (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cyril</FirstName>
+        <LastName>Thornton</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

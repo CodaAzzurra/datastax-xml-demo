@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>General, The</Title>
+    <Year>1927</Year>
+    <Directed_By>
+      <Director>Clyde Bruckman</Director>
+      <Director>Buster Keaton</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Marion</FirstName>
+        <LastName>Mack</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Smith (V)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Allen (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Glen</FirstName>
+        <LastName>Cavender</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Farley (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frederick</FirstName>
+        <LastName>Vroom</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Keaton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mike</FirstName>
+        <LastName>Donlin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Nawn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Buster</FirstName>
+        <LastName>Keaton</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

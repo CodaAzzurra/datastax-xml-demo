@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Strada, La</Title>
+    <Year>1954</Year>
+    <Directed_By>
+      <Director>Federico Fellini</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Anthony</FirstName>
+        <LastName>Quinn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Giulietta</FirstName>
+        <LastName>Masina</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Basehart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Aldo</FirstName>
+        <LastName>Silvani (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marcella</FirstName>
+        <LastName>Rovere</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Livia</FirstName>
+        <LastName>Venturini</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

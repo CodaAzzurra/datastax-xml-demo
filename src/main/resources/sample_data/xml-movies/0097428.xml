@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Ghostbusters II</Title>
+    <Year>1989</Year>
+    <Directed_By>
+      <Director>Ivan Reitman</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Murray</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dan</FirstName>
+        <LastName>Aykroyd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sigourney</FirstName>
+        <LastName>Weaver</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harold</FirstName>
+        <LastName>Ramis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rick</FirstName>
+        <LastName>Moranis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ernie</FirstName>
+        <LastName>Hudson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Annie</FirstName>
+        <LastName>Potts</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>MacNicol</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harris</FirstName>
+        <LastName>Yulin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Margulies</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kurt</FirstName>
+        <LastName>Fuller</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Janet</FirstName>
+        <LastName>Margolin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wilhelm</FirstName>
+        <LastName>von Homburg</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>T. Deutschendorf</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>J. Deutschendorf II</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

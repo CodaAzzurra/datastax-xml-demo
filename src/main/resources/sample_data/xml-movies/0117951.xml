@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Trainspotting</Title>
+    <Year>1996</Year>
+    <Directed_By>
+      <Director>Danny Boyle</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Ewan</FirstName>
+        <LastName>McGregor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ewen</FirstName>
+        <LastName>Bremner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonny</FirstName>
+        <LastName>Lee Miller</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>McKidd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Carlyle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kelly</FirstName>
+        <LastName>MacDonald</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Mullan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Cosmo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eileen</FirstName>
+        <LastName>Nicholas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Susan</FirstName>
+        <LastName>Vidler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pauline</FirstName>
+        <LastName>Lynch</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shirley</FirstName>
+        <LastName>Henderson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stuart</FirstName>
+        <LastName>McQuarrie</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Irvine</FirstName>
+        <LastName>Welsh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dale</FirstName>
+        <LastName>Winton</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

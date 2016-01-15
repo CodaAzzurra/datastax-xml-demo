@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Terms of Endearment</Title>
+    <Year>1983</Year>
+    <Directed_By>
+      <Director>James L. Brooks</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Shirley</FirstName>
+        <LastName>MacLaine</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Debra</FirstName>
+        <LastName>Winger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Nicholson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Danny</FirstName>
+        <LastName>DeVito</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeff</FirstName>
+        <LastName>Daniels</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Lithgow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lisa</FirstName>
+        <LastName>Hart Carroll</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Betty</FirstName>
+        <LastName>King</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Huckleberry</FirstName>
+        <LastName>Fox</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Troy</FirstName>
+        <LastName>Bishop</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shane</FirstName>
+        <LastName>Serwin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Megan</FirstName>
+        <LastName>Morris</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tara</FirstName>
+        <LastName>Yeakey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Norman</FirstName>
+        <LastName>Bennett (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jennifer</FirstName>
+        <LastName>Josey</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

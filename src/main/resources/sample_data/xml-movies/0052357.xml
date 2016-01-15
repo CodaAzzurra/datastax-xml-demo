@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Vertigo</Title>
+    <Year>1958</Year>
+    <Directed_By>
+      <Director>Alfred Hitchcock</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Mystery</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Stewart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kim</FirstName>
+        <LastName>Novak</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barbara</FirstName>
+        <LastName>Bel Geddes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Helmore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Jones (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Raymond</FirstName>
+        <LastName>Bailey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ellen</FirstName>
+        <LastName>Corby</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Konstantin</FirstName>
+        <LastName>Shayne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lee</FirstName>
+        <LastName>Patrick</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

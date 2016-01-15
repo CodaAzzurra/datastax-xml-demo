@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Tomorrow Never Dies</Title>
+    <Year>1997</Year>
+    <Directed_By>
+      <Director>Roger Spottiswoode</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Pierce</FirstName>
+        <LastName>Brosnan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Pryce</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michelle</FirstName>
+        <LastName>Yeoh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Teri</FirstName>
+        <LastName>Hatcher</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ricky</FirstName>
+        <LastName>Jay</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Götz</FirstName>
+        <LastName>Otto</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Don Baker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vincent</FirstName>
+        <LastName>Schiavelli</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Judi</FirstName>
+        <LastName>Dench</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Desmond</FirstName>
+        <LastName>Llewelyn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Samantha</FirstName>
+        <LastName>Bond</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Colin</FirstName>
+        <LastName>Salmon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Geoffrey</FirstName>
+        <LastName>Palmer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julian</FirstName>
+        <LastName>Fellowes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Terence</FirstName>
+        <LastName>Rigby</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

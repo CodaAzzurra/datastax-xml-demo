@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Player, The</Title>
+    <Year>1992</Year>
+    <Directed_By>
+      <Director>Robert Altman</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tim</FirstName>
+        <LastName>Robbins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Greta</FirstName>
+        <LastName>Scacchi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fred</FirstName>
+        <LastName>Ward</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Whoopi</FirstName>
+        <LastName>Goldberg</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Gallagher</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brion</FirstName>
+        <LastName>James</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cynthia</FirstName>
+        <LastName>Stevenson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vincent</FirstName>
+        <LastName>D'Onofrio</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dean</FirstName>
+        <LastName>Stockwell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>E. Grant</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sydney</FirstName>
+        <LastName>Pollack</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lyle</FirstName>
+        <LastName>Lovett</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dina</FirstName>
+        <LastName>Merrill</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Angela</FirstName>
+        <LastName>Hall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leah</FirstName>
+        <LastName>Ayres</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

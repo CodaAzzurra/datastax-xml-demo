@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Die xue shuang xiong</Title>
+    <Year>1989</Year>
+    <Directed_By>
+      <Director>John Woo</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Crime</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Yun-Fat</FirstName>
+        <LastName>Chow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Danny</FirstName>
+        <LastName>Lee (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sally</FirstName>
+        <LastName>Yeh (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chu</FirstName>
+        <LastName>Kong</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kenneth</FirstName>
+        <LastName>Tsang</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fui-On</FirstName>
+        <LastName>Shing</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wing</FirstName>
+        <LastName>Cho Ip</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fan</FirstName>
+        <LastName>Wei Yee</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barry</FirstName>
+        <LastName>Wong</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Parkman</FirstName>
+        <LastName>Wong</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Siu-Hung</FirstName>
+        <LastName>Ng</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sing</FirstName>
+        <LastName>Yeung</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Siu</FirstName>
+        <LastName>Hung Ngan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kwong</FirstName>
+        <LastName>Leung Wong</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

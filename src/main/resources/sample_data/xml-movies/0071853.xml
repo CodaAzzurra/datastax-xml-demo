@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Monty Python and the Holy Grail</Title>
+    <Year>1975</Year>
+    <Directed_By>
+      <Director>Terry Gilliam</Director>
+      <Director>Terry Jones</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Graham</FirstName>
+        <LastName>Chapman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Cleese</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eric</FirstName>
+        <LastName>Idle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Terry</FirstName>
+        <LastName>Gilliam</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Terry</FirstName>
+        <LastName>Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Palin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Connie</FirstName>
+        <LastName>Booth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carol</FirstName>
+        <LastName>Cleveland</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Neil</FirstName>
+        <LastName>Innes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bee</FirstName>
+        <LastName>Duffell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Young (V)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rita</FirstName>
+        <LastName>Davies</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Avril</FirstName>
+        <LastName>Stewart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sally</FirstName>
+        <LastName>Kinghorne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Zycon</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

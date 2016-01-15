@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Who Framed Roger Rabbit</Title>
+    <Year>1988</Year>
+    <Directed_By>
+      <Director>Robert Zemeckis</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Fantasy</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Bob</FirstName>
+        <LastName>Hoskins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Lloyd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joanna</FirstName>
+        <LastName>Cassidy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Fleischer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stubby</FirstName>
+        <LastName>Kaye</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alan</FirstName>
+        <LastName>Tilvern</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Le Parmentier</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lou</FirstName>
+        <LastName>Hirsch</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Betsy</FirstName>
+        <LastName>Brantley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joel</FirstName>
+        <LastName>Silver</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Springer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Ridings</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edwin</FirstName>
+        <LastName>Craig</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lindsay</FirstName>
+        <LastName>Holiday</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mike</FirstName>
+        <LastName>Edmonds</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Addams Family, The</Title>
+    <Year>1991</Year>
+    <Directed_By>
+      <Director>Barry Sonnenfeld</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Anjelica</FirstName>
+        <LastName>Huston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Raul</FirstName>
+        <LastName>Julia</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Lloyd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elizabeth</FirstName>
+        <LastName>Wilson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christina</FirstName>
+        <LastName>Ricci</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Judith</FirstName>
+        <LastName>Malina</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dan</FirstName>
+        <LastName>Hedaya</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carel</FirstName>
+        <LastName>Struycken</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Benedict</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Hart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dana</FirstName>
+        <LastName>Ivey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jimmy</FirstName>
+        <LastName>Workman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Franklin (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Azito</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Douglas</FirstName>
+        <LastName>Brian Martin</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

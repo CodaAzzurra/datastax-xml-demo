@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Dead Poets Society</Title>
+    <Year>1989</Year>
+    <Directed_By>
+      <Director>Peter Weir</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Robin</FirstName>
+        <LastName>Williams</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Sean Leonard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ethan</FirstName>
+        <LastName>Hawke</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Josh</FirstName>
+        <LastName>Charles</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gale</FirstName>
+        <LastName>Hansen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dylan</FirstName>
+        <LastName>Kussman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Allelon</FirstName>
+        <LastName>Ruggiero</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Norman</FirstName>
+        <LastName>Lloyd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kurtwood</FirstName>
+        <LastName>Smith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Waterston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carla</FirstName>
+        <LastName>Belver</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leon</FirstName>
+        <LastName>Pownall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Martin (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Aufiery</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Matt</FirstName>
+        <LastName>Carey</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

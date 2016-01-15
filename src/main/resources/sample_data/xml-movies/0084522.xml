@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Porky's</Title>
+    <Year>1981</Year>
+    <Directed_By>
+      <Director>Bob Clark (III)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Dan</FirstName>
+        <LastName>Monahan (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Herrier</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wyatt</FirstName>
+        <LastName>Knight</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roger</FirstName>
+        <LastName>Wilson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cyril</FirstName>
+        <LastName>O'Reilly</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Ganios</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kaki</FirstName>
+        <LastName>Hunter</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kim</FirstName>
+        <LastName>Cattrall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nancy</FirstName>
+        <LastName>Parsons</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scott</FirstName>
+        <LastName>Colomby</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Boyd</FirstName>
+        <LastName>Gaines</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Doug</FirstName>
+        <LastName>McGrath</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Susan</FirstName>
+        <LastName>Clark</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Art</FirstName>
+        <LastName>Hindle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wayne</FirstName>
+        <LastName>Maunder</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

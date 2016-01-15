@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Night of the Hunter, The</Title>
+    <Year>1955</Year>
+    <Directed_By>
+      <Director>Charles Laughton</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Film-Noir</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Mitchum</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shelley</FirstName>
+        <LastName>Winters</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lillian</FirstName>
+        <LastName>Gish</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Gleason (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Evelyn</FirstName>
+        <LastName>Varden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Graves (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Don</FirstName>
+        <LastName>Beddoe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Chapin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sally</FirstName>
+        <LastName>Jane Bruce</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gloria</FirstName>
+        <LastName>Castillo</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

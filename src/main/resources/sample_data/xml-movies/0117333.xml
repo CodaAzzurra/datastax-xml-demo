@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Phenomenon</Title>
+    <Year>1996</Year>
+    <Directed_By>
+      <Director>Jon Turteltaub</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Travolta</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kyra</FirstName>
+        <LastName>Sedgwick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Forest</FirstName>
+        <LastName>Whitaker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Duvall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeffrey</FirstName>
+        <LastName>DeMunn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Kiley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brent</FirstName>
+        <LastName>Spiner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vyto</FirstName>
+        <LastName>Ruginis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>A. Young</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Milhoan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sean</FirstName>
+        <LastName>O'Bryan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Gallagher</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ashley</FirstName>
+        <LastName>Buccille</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Genaro</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Troy</FirstName>
+        <LastName>Evans</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Chinatown</Title>
+    <Year>1974</Year>
+    <Directed_By>
+      <Director>Roman Polanski</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Film-Noir</Genre>
+      <Genre>Mystery</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Nicholson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Faye</FirstName>
+        <LastName>Dunaway</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Huston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Perry</FirstName>
+        <LastName>Lopez</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Hillerman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Darrell</FirstName>
+        <LastName>Zwerling</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Diane</FirstName>
+        <LastName>Ladd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roy</FirstName>
+        <LastName>Jenson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roman</FirstName>
+        <LastName>Polanski</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Bakalyan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Mantell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Glover (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nandu</FirstName>
+        <LastName>Hinds</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>O'Rear</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Hong</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

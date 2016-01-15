@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Out of Sight</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Steven Soderbergh</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Crime</Genre>
+      <Genre>Drama</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Clooney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Robinson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elgin</FirstName>
+        <LastName>Marlow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Donna</FirstName>
+        <LastName>Frenzel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Manny</FirstName>
+        <LastName>Suárez</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Keith</FirstName>
+        <LastName>Hudson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Luis</FirstName>
+        <LastName>Guzmán</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Soileau</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scott</FirstName>
+        <LastName>Allen (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Catherine</FirstName>
+        <LastName>Keener</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ving</FirstName>
+        <LastName>Rhames</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Susan</FirstName>
+        <LastName>Hatfield</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jennifer</FirstName>
+        <LastName>Lopez</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dennis</FirstName>
+        <LastName>Farina</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Zahn</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

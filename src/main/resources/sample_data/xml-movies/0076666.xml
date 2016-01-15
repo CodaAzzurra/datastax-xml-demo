@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Saturday Night Fever</Title>
+    <Year>1977</Year>
+    <Directed_By>
+      <Director>John Badham</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Travolta</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Karen</FirstName>
+        <LastName>Lynn Gorney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barry</FirstName>
+        <LastName>Miller</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>Cali</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Pape</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Donna</FirstName>
+        <LastName>Pescow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Ornstein</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julie</FirstName>
+        <LastName>Bovasso</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Martin</FirstName>
+        <LastName>Shakar</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sam</FirstName>
+        <LastName>Coppola (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nina</FirstName>
+        <LastName>Hansen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lisa</FirstName>
+        <LastName>Peluso</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Denny</FirstName>
+        <LastName>Dillon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bert</FirstName>
+        <LastName>Michaels</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Costanzo</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

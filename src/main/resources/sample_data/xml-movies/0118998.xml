@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Doctor Dolittle</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Betty Thomas (I)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Children's</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Eddie</FirstName>
+        <LastName>Murphy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ossie</FirstName>
+        <LastName>Davis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Oliver</FirstName>
+        <LastName>Platt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Boyle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Schiff</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kristen</FirstName>
+        <LastName>Wilson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeffrey</FirstName>
+        <LastName>Tambor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kyla</FirstName>
+        <LastName>Pratt (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Erik</FirstName>
+        <LastName>Dellums</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>June</FirstName>
+        <LastName>Christopher</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cherie</FirstName>
+        <LastName>Franklin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Adair-Rios</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Don</FirstName>
+        <LastName>Calfa</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arnold</FirstName>
+        <LastName>F. Turner</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

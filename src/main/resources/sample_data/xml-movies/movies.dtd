@@ -1,0 +1,13 @@
+<?xml encoding="ISO-8859-1"?>
+<!ELEMENT W4F_DOC (Movie)>
+<!ELEMENT Movie (Title,Year,Directed_By,Genres,Cast)>
+<!ELEMENT Title (#PCDATA)>
+<!ELEMENT Year (#PCDATA)>
+<!ELEMENT Directed_By (Director)*>
+<!ELEMENT Director (#PCDATA)>
+<!ELEMENT Genres (Genre)*>
+<!ELEMENT Genre (#PCDATA)>
+<!ELEMENT Cast (Actor)*>
+<!ELEMENT Actor (FirstName,LastName)>
+<!ELEMENT FirstName (#PCDATA)>
+<!ELEMENT LastName (#PCDATA)>

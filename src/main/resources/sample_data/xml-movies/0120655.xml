@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Dogma</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>Kevin Smith (II)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Ben</FirstName>
+        <LastName>Affleck</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Carlin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Matt</FirstName>
+        <LastName>Damon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Linda</FirstName>
+        <LastName>Fiorentino</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Salma</FirstName>
+        <LastName>Hayek</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Lee (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Mewes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alan</FirstName>
+        <LastName>Rickman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>Rock</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bud</FirstName>
+        <LastName>Cort</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alanis</FirstName>
+        <LastName>Morissette</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Smith (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeff</FirstName>
+        <LastName>Anderson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brian</FirstName>
+        <LastName>O'Halloran</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Janeane</FirstName>
+        <LastName>Garofalo</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

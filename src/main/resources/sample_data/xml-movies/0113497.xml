@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Jumanji</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>Joe Johnston</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Adventure</Genre>
+      <Genre>Action</Genre>
+      <Genre>Fantasy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Robin</FirstName>
+        <LastName>Williams</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Hyde</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kirsten</FirstName>
+        <LastName>Dunst</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bradley</FirstName>
+        <LastName>Pierce</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bonnie</FirstName>
+        <LastName>Hunt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bebe</FirstName>
+        <LastName>Neuwirth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Alan Grier</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patricia</FirstName>
+        <LastName>Clarkson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Adam</FirstName>
+        <LastName>Hann-Byrd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laura</FirstName>
+        <LastName>Bundy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Handy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gillian</FirstName>
+        <LastName>Barber</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brandon</FirstName>
+        <LastName>Obray</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cyrus</FirstName>
+        <LastName>Theideke</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Joseph Thorup</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

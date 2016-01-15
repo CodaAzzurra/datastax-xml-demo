@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>As Good As It Gets</Title>
+    <Year>1997</Year>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Nicholson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Helen</FirstName>
+        <LastName>Hunt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Greg</FirstName>
+        <LastName>Kinnear</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cuba</FirstName>
+        <LastName>Gooding Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Skeet</FirstName>
+        <LastName>Ulrich</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shirley</FirstName>
+        <LastName>Knight</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Yeardley</FirstName>
+        <LastName>Smith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lupe</FirstName>
+        <LastName>Ontiveros</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bibi</FirstName>
+        <LastName>Osterwald</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ross</FirstName>
+        <LastName>Bleckner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bernadette</FirstName>
+        <LastName>Balagtas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jaffe</FirstName>
+        <LastName>Cohen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laurie</FirstName>
+        <LastName>Kilpatrick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alice</FirstName>
+        <LastName>Vaughn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brian</FirstName>
+        <LastName>Doyle-Murray</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

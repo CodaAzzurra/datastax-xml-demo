@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Lethal Weapon 4</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Richard Donner</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Mel</FirstName>
+        <LastName>Gibson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Danny</FirstName>
+        <LastName>Glover</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Pesci</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rene</FirstName>
+        <LastName>Russo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>Rock</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jet</FirstName>
+        <LastName>Li</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Kahan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kim</FirstName>
+        <LastName>Chan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Darlene</FirstName>
+        <LastName>Love</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Traci</FirstName>
+        <LastName>Wolfe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eddy</FirstName>
+        <LastName>Ko</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Kehler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Calvin</FirstName>
+        <LastName>Jung</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Damon</FirstName>
+        <LastName>Hines</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ebonie</FirstName>
+        <LastName>Smith</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

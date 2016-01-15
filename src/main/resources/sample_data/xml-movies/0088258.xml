@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>This Is Spinal Tap</Title>
+    <Year>1984</Year>
+    <Directed_By>
+      <Director>Rob Reiner</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Rob</FirstName>
+        <LastName>Reiner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kimberly</FirstName>
+        <LastName>Stringer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chazz</FirstName>
+        <LastName>Domingueza</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shari</FirstName>
+        <LastName>Hall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>R.J.</FirstName>
+        <LastName>Parnell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Kaff</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Hendra</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>McKean</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Guest</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harry</FirstName>
+        <LastName>Shearer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruno</FirstName>
+        <LastName>Kirby</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jean</FirstName>
+        <LastName>Cromie</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patrick</FirstName>
+        <LastName>Maher</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ed</FirstName>
+        <LastName>Begley Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Danny</FirstName>
+        <LastName>Kortchmar</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

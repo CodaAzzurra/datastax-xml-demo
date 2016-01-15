@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Speed 2: Cruise Control</Title>
+    <Year>1997</Year>
+    <Directed_By>
+      <Director>Jan de Bont</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Sandra</FirstName>
+        <LastName>Bullock</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Patric</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Willem</FirstName>
+        <LastName>Dafoe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Temuera</FirstName>
+        <LastName>Morrison</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brian</FirstName>
+        <LastName>McCardie</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christine</FirstName>
+        <LastName>Firkins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>G. Hagerty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Colleen</FirstName>
+        <LastName>Camp</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lois</FirstName>
+        <LastName>Chiles</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Francis</FirstName>
+        <LastName>Guinan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeremy</FirstName>
+        <LastName>Hotz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Enrique</FirstName>
+        <LastName>Murciano Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jessica</FirstName>
+        <LastName>Diz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Connie</FirstName>
+        <LastName>Ray</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

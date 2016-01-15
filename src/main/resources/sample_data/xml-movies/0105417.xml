@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Sister Act</Title>
+    <Year>1992</Year>
+    <Directed_By>
+      <Director>Emile Ardolino</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Crime</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Whoopi</FirstName>
+        <LastName>Goldberg</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maggie</FirstName>
+        <LastName>Smith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kathy</FirstName>
+        <LastName>Najimy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wendy</FirstName>
+        <LastName>Makkena</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mary</FirstName>
+        <LastName>Wickes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harvey</FirstName>
+        <LastName>Keitel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Nunn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Miranda</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Portnow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ellen</FirstName>
+        <LastName>Albertini Dow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carmen</FirstName>
+        <LastName>Zapata</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pat</FirstName>
+        <LastName>Crawford Brown</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Prudence</FirstName>
+        <LastName>Wright Holmes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Georgia</FirstName>
+        <LastName>Creighton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Susan</FirstName>
+        <LastName>Johnson (II)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>American History X</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Tony Kaye</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Edward</FirstName>
+        <LastName>Norton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edward</FirstName>
+        <LastName>Furlong</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Beverly</FirstName>
+        <LastName>D'Angelo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jennifer</FirstName>
+        <LastName>Lien</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ethan</FirstName>
+        <LastName>Suplee</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fairuza</FirstName>
+        <LastName>Balk</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Avery</FirstName>
+        <LastName>Brooks</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elliott</FirstName>
+        <LastName>Gould</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stacy</FirstName>
+        <LastName>Keach</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Russ</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Guy</FirstName>
+        <LastName>Torry</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>Cortese (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Bose Smith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Antonio</FirstName>
+        <LastName>David Lyons</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alex</FirstName>
+        <LastName>Sol</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

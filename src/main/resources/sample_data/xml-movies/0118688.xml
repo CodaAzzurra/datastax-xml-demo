@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Batman &amp; Robin</Title>
+    <Year>1997</Year>
+    <Directed_By>
+      <Director>Joel Schumacher</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Fantasy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Arnold</FirstName>
+        <LastName>Schwarzenegger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Clooney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>O'Donnell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Uma</FirstName>
+        <LastName>Thurman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alicia</FirstName>
+        <LastName>Silverstone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Gough</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pat</FirstName>
+        <LastName>Hingle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Glover</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elle</FirstName>
+        <LastName>Macpherson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vivica</FirstName>
+        <LastName>A. Fox</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vendela</FirstName>
+        <LastName>Kirsebom</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elizabeth</FirstName>
+        <LastName>Sanders</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeep</FirstName>
+        <LastName>Swenson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Fink</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Reid MacKay</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

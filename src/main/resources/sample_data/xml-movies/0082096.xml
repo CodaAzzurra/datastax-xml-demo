@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Boot, Das</Title>
+    <Year>1981</Year>
+    <Directed_By>
+      <Director>Wolfgang Petersen</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Drama</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jürgen</FirstName>
+        <LastName>Prochnow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Herbert</FirstName>
+        <LastName>Grönemeyer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Klaus</FirstName>
+        <LastName>Wennemann</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hubertus</FirstName>
+        <LastName>Bengsch</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Martin</FirstName>
+        <LastName>Semmelrogge</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bernd</FirstName>
+        <LastName>Tauber</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Erwin</FirstName>
+        <LastName>Leder</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Martin</FirstName>
+        <LastName>May</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Heinz</FirstName>
+        <LastName>Hoenig</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Uwe</FirstName>
+        <LastName>Ochsenknecht</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claude-Oliver</FirstName>
+        <LastName>Rudolph</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jan</FirstName>
+        <LastName>Fedder</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ralf</FirstName>
+        <LastName>Richter</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joachim</FirstName>
+        <LastName>Bernhard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Oliver</FirstName>
+        <LastName>Stritzel</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

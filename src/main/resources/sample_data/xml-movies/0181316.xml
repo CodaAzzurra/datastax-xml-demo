@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Blue Streak</Title>
+    <Year>1999</Year>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Action</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Martin</FirstName>
+        <LastName>Lawrence</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Luke</FirstName>
+        <LastName>Wilson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Greene (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Chappelle (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nicole</FirstName>
+        <LastName>Parker (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Graham</FirstName>
+        <LastName>Beckel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Miranda</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Olek</FirstName>
+        <LastName>Krupa</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Saverio</FirstName>
+        <LastName>Guerra</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>C. Sarafian</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tamala</FirstName>
+        <LastName>Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julio</FirstName>
+        <LastName>Oscar Mechoso</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Rankin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carmen</FirstName>
+        <LastName>Argenziano</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Hawkes (I)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

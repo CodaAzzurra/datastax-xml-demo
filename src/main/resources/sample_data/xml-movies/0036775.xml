@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Double Indemnity</Title>
+    <Year>1944</Year>
+    <Directed_By>
+      <Director>Billy Wilder</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Crime</Genre>
+      <Genre>Film-Noir</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Fred</FirstName>
+        <LastName>MacMurray</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barbara</FirstName>
+        <LastName>Stanwyck</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edward</FirstName>
+        <LastName>G. Robinson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Porter</FirstName>
+        <LastName>Hall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jean</FirstName>
+        <LastName>Heather</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Powers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Byron</FirstName>
+        <LastName>Barr (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Gaines</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fortunio</FirstName>
+        <LastName>Bonanova</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Philliber</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

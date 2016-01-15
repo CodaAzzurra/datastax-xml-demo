@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Sound of Music, The</Title>
+    <Year>1965</Year>
+    <Directed_By>
+      <Director>Robert Wise</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Musical</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Julie</FirstName>
+        <LastName>Andrews</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Plummer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eleanor</FirstName>
+        <LastName>Parker (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Haydn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peggy</FirstName>
+        <LastName>Wood</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charmian</FirstName>
+        <LastName>Carr</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Heather</FirstName>
+        <LastName>Menzies</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nicholas</FirstName>
+        <LastName>Hammond (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Duane</FirstName>
+        <LastName>Chase</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Angela</FirstName>
+        <LastName>Cartwright</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Debbie</FirstName>
+        <LastName>Turner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kym</FirstName>
+        <LastName>Karath</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anna</FirstName>
+        <LastName>Lee (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Portia</FirstName>
+        <LastName>Nelson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ben</FirstName>
+        <LastName>Wright (I)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

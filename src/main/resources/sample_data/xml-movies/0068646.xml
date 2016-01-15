@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Godfather, The</Title>
+    <Year>1972</Year>
+    <Directed_By>
+      <Director>Francis Coppola</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Crime</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Marlon</FirstName>
+        <LastName>Brando</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Al</FirstName>
+        <LastName>Pacino</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Diane</FirstName>
+        <LastName>Keaton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Duvall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>S. Castellano</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Caan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Talia</FirstName>
+        <LastName>Shire</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sterling</FirstName>
+        <LastName>Hayden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Marley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Conte</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Al</FirstName>
+        <LastName>Lettieri</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Abe</FirstName>
+        <LastName>Vigoda</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gianni</FirstName>
+        <LastName>Russo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Cazale</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rudy</FirstName>
+        <LastName>Bond</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

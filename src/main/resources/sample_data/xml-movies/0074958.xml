@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Network</Title>
+    <Year>1976</Year>
+    <Directed_By>
+      <Director>Sidney Lumet</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Faye</FirstName>
+        <LastName>Dunaway</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Holden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Finch</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Duvall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wesley</FirstName>
+        <LastName>Addy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ned</FirstName>
+        <LastName>Beatty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arthur</FirstName>
+        <LastName>Burghardt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Burrows</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Carpenter (III)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jordan</FirstName>
+        <LastName>Charney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kathy</FirstName>
+        <LastName>Cronkite</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ed</FirstName>
+        <LastName>Crowley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jerome</FirstName>
+        <LastName>Dempsey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Conchata</FirstName>
+        <LastName>Ferrell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gene</FirstName>
+        <LastName>Gross</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

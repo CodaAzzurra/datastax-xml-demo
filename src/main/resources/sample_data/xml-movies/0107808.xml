@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Perfect World, A</Title>
+    <Year>1993</Year>
+    <Directed_By>
+      <Director>Clint Eastwood</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Costner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clint</FirstName>
+        <LastName>Eastwood</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laura</FirstName>
+        <LastName>Dern</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>T.J.</FirstName>
+        <LastName>Lowther</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Keith</FirstName>
+        <LastName>Szarabajka</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leo</FirstName>
+        <LastName>Burmester</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Hewitt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bradley</FirstName>
+        <LastName>Whitford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ray</FirstName>
+        <LastName>McKinnon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jennifer</FirstName>
+        <LastName>Griffin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leslie</FirstName>
+        <LastName>Flowers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Belinda</FirstName>
+        <LastName>Flowers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Darryl</FirstName>
+        <LastName>Cox</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jay</FirstName>
+        <LastName>Whiteaker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Taylor</FirstName>
+        <LastName>Suzanna McBride</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

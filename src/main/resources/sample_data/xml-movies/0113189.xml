@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>GoldenEye</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>Martin Campbell</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Pierce</FirstName>
+        <LastName>Brosnan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sean</FirstName>
+        <LastName>Bean</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Izabella</FirstName>
+        <LastName>Scorupco</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Famke</FirstName>
+        <LastName>Janssen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Don Baker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Judi</FirstName>
+        <LastName>Dench</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robbie</FirstName>
+        <LastName>Coltrane</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tchéky</FirstName>
+        <LastName>Karyo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gottfried</FirstName>
+        <LastName>John</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alan</FirstName>
+        <LastName>Cumming</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Desmond</FirstName>
+        <LastName>Llewelyn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Samantha</FirstName>
+        <LastName>Bond</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Kitchen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Serena</FirstName>
+        <LastName>Gordon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Simon</FirstName>
+        <LastName>Kunz</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Maltese Falcon, The</Title>
+    <Year>1941</Year>
+    <Directed_By>
+      <Director>John Huston</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Film-Noir</Genre>
+      <Genre>Mystery</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Humphrey</FirstName>
+        <LastName>Bogart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mary</FirstName>
+        <LastName>Astor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gladys</FirstName>
+        <LastName>George</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Lorre</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barton</FirstName>
+        <LastName>MacLane</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lee</FirstName>
+        <LastName>Patrick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sydney</FirstName>
+        <LastName>Greenstreet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ward</FirstName>
+        <LastName>Bond</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jerome</FirstName>
+        <LastName>Cowan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elisha</FirstName>
+        <LastName>Cook Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Burke (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Murray</FirstName>
+        <LastName>Alper</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Hamilton (I)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>MASH</Title>
+    <Year>1970</Year>
+    <Directed_By>
+      <Director>Robert Altman</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Donald</FirstName>
+        <LastName>Sutherland</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elliott</FirstName>
+        <LastName>Gould</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Skerritt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sally</FirstName>
+        <LastName>Kellerman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Duvall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roger</FirstName>
+        <LastName>Bowen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rene</FirstName>
+        <LastName>Auberjonois</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Arkin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jo</FirstName>
+        <LastName>Ann Pflug</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Burghoff</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fred</FirstName>
+        <LastName>Williamson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Murphy (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Indus</FirstName>
+        <LastName>Arthur</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ken</FirstName>
+        <LastName>Prymus</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bobby</FirstName>
+        <LastName>Troup</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

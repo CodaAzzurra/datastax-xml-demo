@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Liar Liar</Title>
+    <Year>1997</Year>
+    <Directed_By>
+      <Director>Tom Shadyac</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Carrey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maura</FirstName>
+        <LastName>Tierney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Justin</FirstName>
+        <LastName>Cooper</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cary</FirstName>
+        <LastName>Elwes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anne</FirstName>
+        <LastName>Haney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jennifer</FirstName>
+        <LastName>Tilly</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Amanda</FirstName>
+        <LastName>Donohoe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Bernard (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Swoosie</FirstName>
+        <LastName>Kurtz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mitch</FirstName>
+        <LastName>Ryan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Mayer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eric</FirstName>
+        <LastName>Pierpoint</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Randall</FirstName>
+        <LastName>'Tex' Cobb</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cheri</FirstName>
+        <LastName>Oteri</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>S.W.</FirstName>
+        <LastName>Fisher</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

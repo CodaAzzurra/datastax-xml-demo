@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>African Queen, The</Title>
+    <Year>1951</Year>
+    <Directed_By>
+      <Director>John Huston</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Adventure</Genre>
+      <Genre>Romance</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Humphrey</FirstName>
+        <LastName>Bogart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Katharine</FirstName>
+        <LastName>Hepburn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Morley (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Bull (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Theodore</FirstName>
+        <LastName>Bikel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Walter</FirstName>
+        <LastName>Gotell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gerald</FirstName>
+        <LastName>Onn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Swanwick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Marner</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

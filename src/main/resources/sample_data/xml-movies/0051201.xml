@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Witness for the Prosecution</Title>
+    <Year>1957</Year>
+    <Directed_By>
+      <Director>Billy Wilder</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Mystery</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tyrone</FirstName>
+        <LastName>Power</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marlene</FirstName>
+        <LastName>Dietrich</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Laughton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elsa</FirstName>
+        <LastName>Lanchester</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Williams (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Daniell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>Wolfe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Torin</FirstName>
+        <LastName>Thatcher</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Norma</FirstName>
+        <LastName>Varden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Una</FirstName>
+        <LastName>O'Connor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Francis</FirstName>
+        <LastName>Compton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philip</FirstName>
+        <LastName>Tonge</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ruta</FirstName>
+        <LastName>Lee</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Yojinbo</Title>
+    <Year>1961</Year>
+    <Directed_By>
+      <Director>Akira Kurosawa</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Western</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Toshirô</FirstName>
+        <LastName>Mifune</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eijirô</FirstName>
+        <LastName>Tono</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kamatari</FirstName>
+        <LastName>Fujiwara</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Takashi</FirstName>
+        <LastName>Shimura</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Seizaburô</FirstName>
+        <LastName>Kawazu</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Isuzu</FirstName>
+        <LastName>Yamada</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hiroshi</FirstName>
+        <LastName>Tachikawa</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kyu</FirstName>
+        <LastName>Sazanka</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tatsuya</FirstName>
+        <LastName>Nakadai</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daisuke</FirstName>
+        <LastName>Katô</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ikio</FirstName>
+        <LastName>Sawamura</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ko</FirstName>
+        <LastName>Nishimura</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Yoshio</FirstName>
+        <LastName>Tsuchiya</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Yôko</FirstName>
+        <LastName>Tsukasa</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Susumu</FirstName>
+        <LastName>Fujita</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

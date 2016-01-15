@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Manhattan</Title>
+    <Year>1979</Year>
+    <Directed_By>
+      <Director>Woody Allen</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Woody</FirstName>
+        <LastName>Allen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Diane</FirstName>
+        <LastName>Keaton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Murphy (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mariel</FirstName>
+        <LastName>Hemingway</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Meryl</FirstName>
+        <LastName>Streep</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anne</FirstName>
+        <LastName>Byrne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Karen</FirstName>
+        <LastName>Ludwig</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>O'Donoghue</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Victor</FirstName>
+        <LastName>Truro</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tisa</FirstName>
+        <LastName>Farrow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Helen</FirstName>
+        <LastName>Hanft</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bella</FirstName>
+        <LastName>Abzug</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Weis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kenny</FirstName>
+        <LastName>Vance</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Levin</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

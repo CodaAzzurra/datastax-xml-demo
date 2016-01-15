@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>While You Were Sleeping</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>Jon Turteltaub</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Sandra</FirstName>
+        <LastName>Bullock</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Pullman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Gallagher</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Boyle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Warden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Glynis</FirstName>
+        <LastName>Johns</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Micole</FirstName>
+        <LastName>Mercurio</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Bernard (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Rispoli</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ally</FirstName>
+        <LastName>Walker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Monica</FirstName>
+        <LastName>Keena</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ruth</FirstName>
+        <LastName>Rudnick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marcia</FirstName>
+        <LastName>Wright</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dick</FirstName>
+        <LastName>Cusack</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thomas</FirstName>
+        <LastName>Q. Morris</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

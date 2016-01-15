@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Killing Fields, The</Title>
+    <Year>1984</Year>
+    <Directed_By>
+      <Director>Roland Joffé</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Sam</FirstName>
+        <LastName>Waterston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Haing</FirstName>
+        <LastName>S. Ngor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Malkovich</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julian</FirstName>
+        <LastName>Sands</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Craig</FirstName>
+        <LastName>T. Nelson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Spalding</FirstName>
+        <LastName>Gray</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Paterson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Athol</FirstName>
+        <LastName>Fugard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Graham</FirstName>
+        <LastName>Kennedy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Katherine</FirstName>
+        <LastName>Krapum Chey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Oliver</FirstName>
+        <LastName>Pierpaoli</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edward</FirstName>
+        <LastName>Entero Chey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Bird</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Monirak</FirstName>
+        <LastName>Sisowath</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lambool</FirstName>
+        <LastName>Dtangpaibool</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

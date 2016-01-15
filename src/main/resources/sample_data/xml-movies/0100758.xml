@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Teenage Mutant Ninja Turtles</Title>
+    <Year>1990</Year>
+    <Directed_By>
+      <Director>Steve Barron</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Fantasy</Genre>
+      <Genre>Action</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Judith</FirstName>
+        <LastName>Hoag</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elias</FirstName>
+        <LastName>Koteas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Josh</FirstName>
+        <LastName>Pais</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michelan</FirstName>
+        <LastName>Sisti</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leif</FirstName>
+        <LastName>Tilden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Forman (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Turney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jay</FirstName>
+        <LastName>Patterson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Raymond</FirstName>
+        <LastName>Serra</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Saito</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Toshirô</FirstName>
+        <LastName>Obata</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sam</FirstName>
+        <LastName>Rockwell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kitty</FirstName>
+        <LastName>Fitzgibbon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Louis</FirstName>
+        <LastName>Cantarini</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>D'Onofrio</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>His Girl Friday</Title>
+    <Year>1940</Year>
+    <Directed_By>
+      <Director>Howard Hawks</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Cary</FirstName>
+        <LastName>Grant</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rosalind</FirstName>
+        <LastName>Russell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ralph</FirstName>
+        <LastName>Bellamy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gene</FirstName>
+        <LastName>Lockhart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Porter</FirstName>
+        <LastName>Hall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ernest</FirstName>
+        <LastName>Truex</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cliff</FirstName>
+        <LastName>Edwards</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clarence</FirstName>
+        <LastName>Kolb</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roscoe</FirstName>
+        <LastName>Karns</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Jenks (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Regis</FirstName>
+        <LastName>Toomey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Abner</FirstName>
+        <LastName>Biberman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Orth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Qualen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Helen</FirstName>
+        <LastName>Mack</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

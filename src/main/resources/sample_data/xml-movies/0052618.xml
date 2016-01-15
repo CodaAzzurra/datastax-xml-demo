@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Ben-Hur</Title>
+    <Year>1959</Year>
+    <Directed_By>
+      <Director>William Wyler</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Charlton</FirstName>
+        <LastName>Heston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Hawkins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Haya</FirstName>
+        <LastName>Harareet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stephen</FirstName>
+        <LastName>Boyd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hugh</FirstName>
+        <LastName>Griffith (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Martha</FirstName>
+        <LastName>Scott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cathy</FirstName>
+        <LastName>O'Donnell (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sam</FirstName>
+        <LastName>Jaffe (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Finlay</FirstName>
+        <LastName>Currie</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Thring (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Terence</FirstName>
+        <LastName>Longdon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Relph</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>André</FirstName>
+        <LastName>Morell</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Runaway Bride</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>Garry Marshall</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Julia</FirstName>
+        <LastName>Roberts</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Gere</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joan</FirstName>
+        <LastName>Cusack</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hector</FirstName>
+        <LastName>Elizondo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rita</FirstName>
+        <LastName>Wilson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Dooley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Meloni</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Reg</FirstName>
+        <LastName>Rogers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Yul</FirstName>
+        <LastName>Vazquez</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jane</FirstName>
+        <LastName>Morris</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lisa</FirstName>
+        <LastName>Roberts (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kathleen</FirstName>
+        <LastName>Marshall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jean</FirstName>
+        <LastName>Schertler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laurie</FirstName>
+        <LastName>Metcalf</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marvin</FirstName>
+        <LastName>Braverman</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

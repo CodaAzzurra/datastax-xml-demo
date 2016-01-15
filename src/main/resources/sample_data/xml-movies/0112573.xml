@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Braveheart</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>Mel Gibson</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>Drama</Genre>
+      <Genre>War</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Mel</FirstName>
+        <LastName>Gibson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sophie</FirstName>
+        <LastName>Marceau</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patrick</FirstName>
+        <LastName>McGoohan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Catherine</FirstName>
+        <LastName>McCormack</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Angus</FirstName>
+        <LastName>MacFadyen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brendan</FirstName>
+        <LastName>Gleeson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>O'Hara (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>Bannen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Robinson (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sean</FirstName>
+        <LastName>Lawlor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sandy</FirstName>
+        <LastName>Nelson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Cosmo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sean</FirstName>
+        <LastName>McGinley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alan</FirstName>
+        <LastName>Tall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Andrew</FirstName>
+        <LastName>Weir</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

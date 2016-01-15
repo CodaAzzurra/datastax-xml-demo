@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Conversation, The</Title>
+    <Year>1974</Year>
+    <Directed_By>
+      <Director>Francis Coppola</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Mystery</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Gene</FirstName>
+        <LastName>Hackman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Cazale</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Allen</FirstName>
+        <LastName>Garfield</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frederic</FirstName>
+        <LastName>Forrest</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cindy</FirstName>
+        <LastName>Williams (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Higgins (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elizabeth</FirstName>
+        <LastName>MacRae</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Teri</FirstName>
+        <LastName>Garr</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harrison</FirstName>
+        <LastName>Ford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Wheeler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Shields (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Phoebe</FirstName>
+        <LastName>Alexander</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Sleeping with the Enemy</Title>
+    <Year>1991</Year>
+    <Directed_By>
+      <Director>Joseph Ruben</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Julia</FirstName>
+        <LastName>Roberts</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patrick</FirstName>
+        <LastName>Bergin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Anderson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elizabeth</FirstName>
+        <LastName>Lawrence</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kyle</FirstName>
+        <LastName>Secor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claudette</FirstName>
+        <LastName>Nevins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Abatemarco</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marita</FirstName>
+        <LastName>Geraghty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harley</FirstName>
+        <LastName>Venton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nancy</FirstName>
+        <LastName>Fish</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sandi</FirstName>
+        <LastName>Shackelford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bonnie</FirstName>
+        <LastName>Cook</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Graham</FirstName>
+        <LastName>Harrington</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>David Ward</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sharon</FirstName>
+        <LastName>J. Robinson</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

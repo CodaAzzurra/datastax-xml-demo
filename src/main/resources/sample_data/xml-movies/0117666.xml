@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Sling Blade</Title>
+    <Year>1996</Year>
+    <Directed_By>
+      <Director>Billy Bob Thornton</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Bob Thornton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dwight</FirstName>
+        <LastName>Yoakam</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>J.T.</FirstName>
+        <LastName>Walsh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Ritter</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lucas</FirstName>
+        <LastName>Black (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Natalie</FirstName>
+        <LastName>Canerday</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Hampton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Duvall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rick</FirstName>
+        <LastName>Dial</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brent</FirstName>
+        <LastName>Briscoe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christy</FirstName>
+        <LastName>Ward</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sarah</FirstName>
+        <LastName>Boss</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kathy</FirstName>
+        <LastName>Sue Brown</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wendell</FirstName>
+        <LastName>Rafferty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Hampton (II)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

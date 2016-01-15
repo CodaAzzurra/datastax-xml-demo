@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Beauty and the Beast</Title>
+    <Year>1991</Year>
+    <Directed_By>
+      <Director>Gary Trousdale</Director>
+      <Director>Kirk Wise</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Animation</Genre>
+      <Genre>Children's</Genre>
+      <Genre>Musical</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Paige</FirstName>
+        <LastName>O'Hara</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robby</FirstName>
+        <LastName>Benson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>White (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jerry</FirstName>
+        <LastName>Orbach</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Ogden Stiers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Angela</FirstName>
+        <LastName>Lansbury</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bradley</FirstName>
+        <LastName>Pierce</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rex</FirstName>
+        <LastName>Everhart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jesse</FirstName>
+        <LastName>Corti</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hal</FirstName>
+        <LastName>Smith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jo</FirstName>
+        <LastName>Anne Worley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mary</FirstName>
+        <LastName>Kay Bergman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brian</FirstName>
+        <LastName>Cummings</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alvin</FirstName>
+        <LastName>Epstein</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Jay</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Rear Window</Title>
+    <Year>1954</Year>
+    <Directed_By>
+      <Director>Alfred Hitchcock</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Stewart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Grace</FirstName>
+        <LastName>Kelly</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wendell</FirstName>
+        <LastName>Corey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thelma</FirstName>
+        <LastName>Ritter</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Raymond</FirstName>
+        <LastName>Burr</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Judith</FirstName>
+        <LastName>Evelyn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ross</FirstName>
+        <LastName>Bagdasarian</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Georgine</FirstName>
+        <LastName>Darcy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sara</FirstName>
+        <LastName>Berner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Cady</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jesslyn</FirstName>
+        <LastName>Fax</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rand</FirstName>
+        <LastName>Harper</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Irene</FirstName>
+        <LastName>Winston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Havis</FirstName>
+        <LastName>Davenport</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

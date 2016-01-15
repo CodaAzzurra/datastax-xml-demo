@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Nikita</Title>
+    <Year>1990</Year>
+    <Directed_By>
+      <Director>Luc Besson</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Anne</FirstName>
+        <LastName>Parillaud</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marc</FirstName>
+        <LastName>Duret</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patrick</FirstName>
+        <LastName>Fontana</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laura</FirstName>
+        <LastName>Cheron</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jacques</FirstName>
+        <LastName>Boudet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pierre-Alain</FirstName>
+        <LastName>De garrigues</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patrick</FirstName>
+        <LastName>Pérez</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruno</FirstName>
+        <LastName>Randon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vincent</FirstName>
+        <LastName>Skimenti</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roland</FirstName>
+        <LastName>Blanche</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>Teruel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jacques</FirstName>
+        <LastName>Disses</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stéphane</FirstName>
+        <LastName>Fey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Philippe</FirstName>
+        <LastName>Dehesdin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michel</FirstName>
+        <LastName>Brunot</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

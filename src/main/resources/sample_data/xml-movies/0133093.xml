@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Matrix, The</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>Andy Wachowski</Director>
+      <Director>Larry Wachowski</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Keanu</FirstName>
+        <LastName>Reeves</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laurence</FirstName>
+        <LastName>Fishburne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carrie-Anne</FirstName>
+        <LastName>Moss</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hugo</FirstName>
+        <LastName>Weaving</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gloria</FirstName>
+        <LastName>Foster</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Pantoliano</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marcus</FirstName>
+        <LastName>Chong</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julian</FirstName>
+        <LastName>Arahanga</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Matt</FirstName>
+        <LastName>Doran</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Belinda</FirstName>
+        <LastName>Mcclory</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ray</FirstName>
+        <LastName>Anthony Parker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Goddard (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Taylor (VII)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Aston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marc</FirstName>
+        <LastName>Gray</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

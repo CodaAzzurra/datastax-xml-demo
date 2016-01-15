@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Patton</Title>
+    <Year>1970</Year>
+    <Directed_By>
+      <Director>Franklin J. Schaffner</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>C. Scott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Karl</FirstName>
+        <LastName>Malden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Bates (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stephen</FirstName>
+        <LastName>Young (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ed</FirstName>
+        <LastName>Binns</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lawrence</FirstName>
+        <LastName>Dobkin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Doucette</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Edwards (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Latimore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Münch</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Morgan</FirstName>
+        <LastName>Paull</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Siegfried</FirstName>
+        <LastName>Rauch</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Stevens (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Strong (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Karl</FirstName>
+        <LastName>Michael Vogler</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

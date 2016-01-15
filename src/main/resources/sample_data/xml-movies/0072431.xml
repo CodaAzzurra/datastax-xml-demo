@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Young Frankenstein</Title>
+    <Year>1974</Year>
+    <Directed_By>
+      <Director>Mel Brooks</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Gene</FirstName>
+        <LastName>Wilder</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Boyle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marty</FirstName>
+        <LastName>Feldman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Madeline</FirstName>
+        <LastName>Kahn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cloris</FirstName>
+        <LastName>Leachman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Teri</FirstName>
+        <LastName>Garr</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kenneth</FirstName>
+        <LastName>Mars</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Haydn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Liam</FirstName>
+        <LastName>Dunn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Danny</FirstName>
+        <LastName>Goldman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Oscar</FirstName>
+        <LastName>Beregi Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arthur</FirstName>
+        <LastName>Malet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Roth (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Monte</FirstName>
+        <LastName>Landis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rusty</FirstName>
+        <LastName>Blitz</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

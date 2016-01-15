@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Festen</Title>
+    <Year>1998</Year>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Ulrich</FirstName>
+        <LastName>Thomsen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henning</FirstName>
+        <LastName>Moritzen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thomas</FirstName>
+        <LastName>Bo Larsen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paprika</FirstName>
+        <LastName>Steen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Birthe</FirstName>
+        <LastName>Neumann</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Trine</FirstName>
+        <LastName>Dyrholm</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Helle</FirstName>
+        <LastName>Dolleris</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Therese</FirstName>
+        <LastName>Glahn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Klaus</FirstName>
+        <LastName>Bondam</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bjarne</FirstName>
+        <LastName>Henriksen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gbatokai</FirstName>
+        <LastName>Dakinah</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lasse</FirstName>
+        <LastName>Lunderskov</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lars</FirstName>
+        <LastName>Brygmann</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lene</FirstName>
+        <LastName>Laub Oksen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Linda</FirstName>
+        <LastName>Laursen</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

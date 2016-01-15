@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Halloween H20: Twenty Years Later</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Steve Miner</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Horror</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jamie</FirstName>
+        <LastName>Lee Curtis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Adam</FirstName>
+        <LastName>Arkin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michelle</FirstName>
+        <LastName>Williams</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Adam</FirstName>
+        <LastName>Hann-Byrd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jodi</FirstName>
+        <LastName>Lyn O'Keefe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Janet</FirstName>
+        <LastName>Leigh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Josh</FirstName>
+        <LastName>Hartnett</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>LL</FirstName>
+        <LastName>Cool J</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>Gordon-Levitt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brandon</FirstName>
+        <LastName>Williams (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nancy</FirstName>
+        <LastName>Stephens</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Beau</FirstName>
+        <LastName>Billingslea</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Matt</FirstName>
+        <LastName>Winston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Larissa</FirstName>
+        <LastName>Miller</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Emilee</FirstName>
+        <LastName>Thompson</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

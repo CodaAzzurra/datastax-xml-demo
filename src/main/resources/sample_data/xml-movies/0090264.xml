@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>View to a Kill, A</Title>
+    <Year>1985</Year>
+    <Directed_By>
+      <Director>John Glen (II)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Roger</FirstName>
+        <LastName>Moore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Walken</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tanya</FirstName>
+        <LastName>Roberts</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Grace</FirstName>
+        <LastName>Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patrick</FirstName>
+        <LastName>Macnee</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patrick</FirstName>
+        <LastName>Bauchau</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Yip</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fiona</FirstName>
+        <LastName>Fullerton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Manning</FirstName>
+        <LastName>Redwood</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alison</FirstName>
+        <LastName>Doody</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Willoughby</FirstName>
+        <LastName>Gray</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Desmond</FirstName>
+        <LastName>Llewelyn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Brown (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lois</FirstName>
+        <LastName>Maxwell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Walter</FirstName>
+        <LastName>Gotell</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Stargate</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>Roland Emmerich</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Kurt</FirstName>
+        <LastName>Russell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Spader</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Viveca</FirstName>
+        <LastName>Lindfors</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alexis</FirstName>
+        <LastName>Cruz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mili</FirstName>
+        <LastName>Avital</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leon</FirstName>
+        <LastName>Rippy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Diehl</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carlos</FirstName>
+        <LastName>Lauchu</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Djimon</FirstName>
+        <LastName>Hounsou</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Erick</FirstName>
+        <LastName>Avari</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>French</FirstName>
+        <LastName>Stewart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gianin</FirstName>
+        <LastName>Loffler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jaye</FirstName>
+        <LastName>Davidson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>John Fields</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Derek</FirstName>
+        <LastName>Webster</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

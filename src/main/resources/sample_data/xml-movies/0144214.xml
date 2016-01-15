@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>General's Daughter, The</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>Simon West (I)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Mystery</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Travolta</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Madeleine</FirstName>
+        <LastName>Stowe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Cromwell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Timothy</FirstName>
+        <LastName>Hutton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leslie</FirstName>
+        <LastName>Stefanson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clarence</FirstName>
+        <LastName>Williams III</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Woods</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daniel</FirstName>
+        <LastName>von Bargen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Weireter</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Boone Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Beasley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Boyd</FirstName>
+        <LastName>Kestner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brad</FirstName>
+        <LastName>Beyer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Benjamin Hickey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rick</FirstName>
+        <LastName>Dial</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

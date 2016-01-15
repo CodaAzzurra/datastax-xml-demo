@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>X Files, The</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Rob Bowman (I)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Thriller</Genre>
+      <Genre>Action</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Duchovny</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gillian</FirstName>
+        <LastName>Anderson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Neville</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>B. Davis (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Martin</FirstName>
+        <LastName>Landau</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mitch</FirstName>
+        <LastName>Pileggi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeffrey</FirstName>
+        <LastName>DeMunn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Blythe</FirstName>
+        <LastName>Danner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Terry</FirstName>
+        <LastName>O'Quinn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Armin</FirstName>
+        <LastName>Mueller-Stahl</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lucas</FirstName>
+        <LastName>Black (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Fennell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cody</FirstName>
+        <LastName>Newton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Blake</FirstName>
+        <LastName>Stokes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dean</FirstName>
+        <LastName>Haglund</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

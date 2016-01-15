@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Good Will Hunting</Title>
+    <Year>1997</Year>
+    <Directed_By>
+      <Director>Gus Van Sant</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Matt</FirstName>
+        <LastName>Damon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ben</FirstName>
+        <LastName>Affleck</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stellan</FirstName>
+        <LastName>Skarsgård</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Mighton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rachel</FirstName>
+        <LastName>Majowski</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Colleen</FirstName>
+        <LastName>McCauley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Casey</FirstName>
+        <LastName>Affleck</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cole</FirstName>
+        <LastName>Hauser</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Matt</FirstName>
+        <LastName>Mercier</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ralph</FirstName>
+        <LastName>St. George</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bob</FirstName>
+        <LastName>Lynds</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dan</FirstName>
+        <LastName>Washington</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alison</FirstName>
+        <LastName>Folland</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Derrick</FirstName>
+        <LastName>Bridgeman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vik</FirstName>
+        <LastName>Sahay</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

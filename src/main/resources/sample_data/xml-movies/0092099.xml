@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Top Gun</Title>
+    <Year>1986</Year>
+    <Directed_By>
+      <Director>Tony Scott</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Drama</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Cruise</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kelly</FirstName>
+        <LastName>McGillis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Val</FirstName>
+        <LastName>Kilmer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anthony</FirstName>
+        <LastName>Edwards</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Skerritt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Ironside</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Stockwell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barry</FirstName>
+        <LastName>Tubb</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rick</FirstName>
+        <LastName>Rossovich</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tim</FirstName>
+        <LastName>Robbins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clarence</FirstName>
+        <LastName>Gilyard Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Whip</FirstName>
+        <LastName>Hubley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Tolkan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Meg</FirstName>
+        <LastName>Ryan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Adrian</FirstName>
+        <LastName>Pasdar</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

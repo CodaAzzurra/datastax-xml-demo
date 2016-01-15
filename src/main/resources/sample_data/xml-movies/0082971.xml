@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Raiders of the Lost Ark</Title>
+    <Year>1981</Year>
+    <Directed_By>
+      <Director>Steven Spielberg</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Harrison</FirstName>
+        <LastName>Ford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Karen</FirstName>
+        <LastName>Allen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Freeman (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ronald</FirstName>
+        <LastName>Lacey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Rhys-Davies</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Denholm</FirstName>
+        <LastName>Elliott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alfred</FirstName>
+        <LastName>Molina</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wolf</FirstName>
+        <LastName>Kahler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anthony</FirstName>
+        <LastName>Higgins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vic</FirstName>
+        <LastName>Tablian</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Don</FirstName>
+        <LastName>Fellows</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Hootkins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Reimbold</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fred</FirstName>
+        <LastName>Sorenson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patrick</FirstName>
+        <LastName>Durkin</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

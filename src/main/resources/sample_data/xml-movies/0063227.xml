@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Lion in Winter, The</Title>
+    <Year>1968</Year>
+    <Directed_By>
+      <Director>Anthony Harvey (II)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>O'Toole</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Katharine</FirstName>
+        <LastName>Hepburn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anthony</FirstName>
+        <LastName>Hopkins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Castle (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nigel</FirstName>
+        <LastName>Terry</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Timothy</FirstName>
+        <LastName>Dalton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jane</FirstName>
+        <LastName>Merrow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nigel</FirstName>
+        <LastName>Stock (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kenneth</FirstName>
+        <LastName>Ives</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>O.Z.</FirstName>
+        <LastName>Whitehead</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fran</FirstName>
+        <LastName>Stafford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ella</FirstName>
+        <LastName>More</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kenneth</FirstName>
+        <LastName>Griffith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Woolf</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Karol</FirstName>
+        <LastName>Hagar</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

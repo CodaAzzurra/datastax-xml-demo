@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Gremlins</Title>
+    <Year>1984</Year>
+    <Directed_By>
+      <Director>Joe Dante</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Horror</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Zach</FirstName>
+        <LastName>Galligan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Phoebe</FirstName>
+        <LastName>Cates</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Louie</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hoyt</FirstName>
+        <LastName>Axton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lee</FirstName>
+        <LastName>McCain</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Don</FirstName>
+        <LastName>Steele (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Susan</FirstName>
+        <LastName>Burgess</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dick</FirstName>
+        <LastName>Miller (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Polly</FirstName>
+        <LastName>Holliday</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arnie</FirstName>
+        <LastName>Moore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Corey</FirstName>
+        <LastName>Feldman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Judge</FirstName>
+        <LastName>Reinhold</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Glynn</FirstName>
+        <LastName>Turman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scott</FirstName>
+        <LastName>Brady (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Keye</FirstName>
+        <LastName>Luke</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

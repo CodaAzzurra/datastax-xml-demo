@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Trois couleurs: Rouge</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>Krzysztof Kieslowski</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Irène</FirstName>
+        <LastName>Jacob</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jean-Louis</FirstName>
+        <LastName>Trintignant</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frédérique</FirstName>
+        <LastName>Feder</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jean-Pierre</FirstName>
+        <LastName>Lorit</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Samuel</FirstName>
+        <LastName>Le Bihan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marion</FirstName>
+        <LastName>Stalens</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Teco</FirstName>
+        <LastName>Celio</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bernard</FirstName>
+        <LastName>Escalon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jean</FirstName>
+        <LastName>Schlegel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elzbieta</FirstName>
+        <LastName>Jasinska</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Vermeulen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jean-Marie</FirstName>
+        <LastName>Daunas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roland</FirstName>
+        <LastName>Carey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brigitte</FirstName>
+        <LastName>Raul</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leo</FirstName>
+        <LastName>Ramseyer</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

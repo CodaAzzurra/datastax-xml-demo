@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Licence to Kill</Title>
+    <Year>1989</Year>
+    <Directed_By>
+      <Director>John Glen (II)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Timothy</FirstName>
+        <LastName>Dalton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carey</FirstName>
+        <LastName>Lowell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Davi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Talisa</FirstName>
+        <LastName>Soto</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anthony</FirstName>
+        <LastName>Zerbe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>McRae</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Everett</FirstName>
+        <LastName>McGill</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wayne</FirstName>
+        <LastName>Newton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Benicio</FirstName>
+        <LastName>Del Toro</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anthony</FirstName>
+        <LastName>Starke</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pedro</FirstName>
+        <LastName>Armendáriz Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Desmond</FirstName>
+        <LastName>Llewelyn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Hedison</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Priscilla</FirstName>
+        <LastName>Barnes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Brown (I)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

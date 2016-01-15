@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Waterworld</Title>
+    <Year>1995</Year>
+    <Directed_By>
+      <Director>Kevin Reynolds</Director>
+      <Director></Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Costner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chaim</FirstName>
+        <LastName>Jeraffi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rick</FirstName>
+        <LastName>Aviles</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>R.D.</FirstName>
+        <LastName>Call</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Zitto</FirstName>
+        <LastName>Kazann</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leonardo</FirstName>
+        <LastName>Cimino</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Zakes</FirstName>
+        <LastName>Mokae</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Luke</FirstName>
+        <LastName>Ka'ili Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anthony</FirstName>
+        <LastName>DeMasters</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Willy</FirstName>
+        <LastName>Petrovic</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Kehler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeanne</FirstName>
+        <LastName>Tripplehorn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lanny</FirstName>
+        <LastName>Flaherty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>A. Silverman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gerard</FirstName>
+        <LastName>Murphy</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

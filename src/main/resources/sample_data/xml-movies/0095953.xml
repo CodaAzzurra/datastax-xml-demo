@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Rain Man</Title>
+    <Year>1988</Year>
+    <Directed_By>
+      <Director>Barry Levinson</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Dustin</FirstName>
+        <LastName>Hoffman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Cruise</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Valeria</FirstName>
+        <LastName>Golino</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gerald</FirstName>
+        <LastName>R. Molen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Murdock</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>D. Roberts</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ralph</FirstName>
+        <LastName>Seymour</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lucinda</FirstName>
+        <LastName>Jenney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bonnie</FirstName>
+        <LastName>Hunt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kim</FirstName>
+        <LastName>Robillard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Beth</FirstName>
+        <LastName>Grant</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dolan</FirstName>
+        <LastName>Dougherty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marshall</FirstName>
+        <LastName>Dougherty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patrick</FirstName>
+        <LastName>Dougherty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John-Michael</FirstName>
+        <LastName>Dougherty</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

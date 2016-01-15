@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Exorcist, The</Title>
+    <Year>1973</Year>
+    <Directed_By>
+      <Director>William Friedkin</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Horror</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Ellen</FirstName>
+        <LastName>Burstyn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Max</FirstName>
+        <LastName>von Sydow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lee</FirstName>
+        <LastName>J. Cobb</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kitty</FirstName>
+        <LastName>Winn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>MacGowran</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Miller (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Linda</FirstName>
+        <LastName>Blair</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Reverend</FirstName>
+        <LastName>William O'Malley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barton</FirstName>
+        <LastName>Heyman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Masterson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rudolf</FirstName>
+        <LastName>Schündler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gina</FirstName>
+        <LastName>Petrushka</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Symonds</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arthur</FirstName>
+        <LastName>Storch</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Reverend</FirstName>
+        <LastName>Thomas Bermingham</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

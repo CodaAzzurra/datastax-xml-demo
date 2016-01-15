@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Reservoir Dogs</Title>
+    <Year>1992</Year>
+    <Directed_By>
+      <Director>Quentin Tarantino</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Crime</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Harvey</FirstName>
+        <LastName>Keitel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tim</FirstName>
+        <LastName>Roth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Madsen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>Penn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Buscemi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lawrence</FirstName>
+        <LastName>Tierney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Randy</FirstName>
+        <LastName>Brooks</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kirk</FirstName>
+        <LastName>Baltz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edward</FirstName>
+        <LastName>Bunker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Quentin</FirstName>
+        <LastName>Tarantino</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rich</FirstName>
+        <LastName>Turner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Steen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Cosmo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stevo</FirstName>
+        <LastName>Poliy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Sottile</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

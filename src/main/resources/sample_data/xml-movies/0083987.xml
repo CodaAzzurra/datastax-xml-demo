@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Gandhi</Title>
+    <Year>1982</Year>
+    <Directed_By>
+      <Director>Richard Attenborough</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Ben</FirstName>
+        <LastName>Kingsley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Candice</FirstName>
+        <LastName>Bergen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edward</FirstName>
+        <LastName>Fox</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Gielgud</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Trevor</FirstName>
+        <LastName>Howard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Mills (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Martin</FirstName>
+        <LastName>Sheen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>Charleson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Athol</FirstName>
+        <LastName>Fugard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Günther</FirstName>
+        <LastName>Maria Halmer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Saeed</FirstName>
+        <LastName>Jaffrey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Geraldine</FirstName>
+        <LastName>James</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alyque</FirstName>
+        <LastName>Padamsee</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Amrish</FirstName>
+        <LastName>Puri</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roshan</FirstName>
+        <LastName>Seth</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

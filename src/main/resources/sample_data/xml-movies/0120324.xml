@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Simple Plan, A</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Sam Raimi</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Crime</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Paxton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Bob Thornton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bridget</FirstName>
+        <LastName>Fonda</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Cole</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brent</FirstName>
+        <LastName>Briscoe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Becky</FirstName>
+        <LastName>Ann Baker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chelcie</FirstName>
+        <LastName>Ross</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Walsh (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bob</FirstName>
+        <LastName>Davis (V)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Syvertsen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Carey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Paxton (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marie</FirstName>
+        <LastName>Mathay</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Magers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joan</FirstName>
+        <LastName>Steffand</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

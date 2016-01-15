@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>In the Heat of the Night</Title>
+    <Year>1967</Year>
+    <Directed_By>
+      <Director>Norman Jewison</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Mystery</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Sidney</FirstName>
+        <LastName>Poitier</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rod</FirstName>
+        <LastName>Steiger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Warren</FirstName>
+        <LastName>Oates</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lee</FirstName>
+        <LastName>Grant (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Larry</FirstName>
+        <LastName>Gates</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Patterson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Schallert</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Beah</FirstName>
+        <LastName>Richards</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Whitney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kermit</FirstName>
+        <LastName>Murdock</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Larry</FirstName>
+        <LastName>D. Mann</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Matt</FirstName>
+        <LastName>Clark (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arthur</FirstName>
+        <LastName>Malet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fred</FirstName>
+        <LastName>Stewart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Quentin</FirstName>
+        <LastName>Dean</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Bridge on the River Kwai, The</Title>
+    <Year>1957</Year>
+    <Directed_By>
+      <Director>David Lean</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Holden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alec</FirstName>
+        <LastName>Guinness</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Hawkins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sessue</FirstName>
+        <LastName>Hayakawa</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Donald (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Geoffrey</FirstName>
+        <LastName>Horne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>André</FirstName>
+        <LastName>Morell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Williams (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Boxer (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Percy</FirstName>
+        <LastName>Herbert</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harold</FirstName>
+        <LastName>Goodwin (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ann</FirstName>
+        <LastName>Sears</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Okawa</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Keiichiro</FirstName>
+        <LastName>Katsumoto</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>M.R.B.</FirstName>
+        <LastName>Chakrabandhu</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

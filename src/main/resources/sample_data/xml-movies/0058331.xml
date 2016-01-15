@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Mary Poppins</Title>
+    <Year>1964</Year>
+    <Directed_By>
+      <Director>Robert Stevenson (I)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Children's</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Musical</Genre>
+      <Genre>Fantasy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Julie</FirstName>
+        <LastName>Andrews</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dick</FirstName>
+        <LastName>Van Dyke</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Tomlinson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Glynis</FirstName>
+        <LastName>Johns</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hermione</FirstName>
+        <LastName>Baddeley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Reta</FirstName>
+        <LastName>Shaw</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Karen</FirstName>
+        <LastName>Dotrice</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Matthew</FirstName>
+        <LastName>Garber</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elsa</FirstName>
+        <LastName>Lanchester</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arthur</FirstName>
+        <LastName>Treacher</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Reginald</FirstName>
+        <LastName>Owen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ed</FirstName>
+        <LastName>Wynn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jane</FirstName>
+        <LastName>Darwell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arthur</FirstName>
+        <LastName>Malet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Logan (I)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

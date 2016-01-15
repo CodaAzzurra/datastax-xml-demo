@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>American Pie</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>Paul Weitz</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Biggs</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>Klein</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thomas</FirstName>
+        <LastName>Ian Nicholas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Seann</FirstName>
+        <LastName>William Scott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mena</FirstName>
+        <LastName>Suvari</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Natasha</FirstName>
+        <LastName>Lyonne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tara</FirstName>
+        <LastName>Reid</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alyson</FirstName>
+        <LastName>Hannigan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shannon</FirstName>
+        <LastName>Elizabeth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jennifer</FirstName>
+        <LastName>Coolidge</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eddie</FirstName>
+        <LastName>Kaye Thomas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>Owen (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thomas</FirstName>
+        <LastName>DeLonge</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Hoppus</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clyde</FirstName>
+        <LastName>Kusatsu</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

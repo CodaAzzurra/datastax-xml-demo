@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Terminator 2: Judgment Day</Title>
+    <Year>1991</Year>
+    <Directed_By>
+      <Director>James Cameron</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Arnold</FirstName>
+        <LastName>Schwarzenegger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Linda</FirstName>
+        <LastName>Hamilton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edward</FirstName>
+        <LastName>Furlong</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Patrick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Earl</FirstName>
+        <LastName>Boen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Morton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>S.</FirstName>
+        <LastName>Epatha Merkerson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Castulo</FirstName>
+        <LastName>Guerra</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Danny</FirstName>
+        <LastName>Cooksey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jenette</FirstName>
+        <LastName>Goldstein</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Xander</FirstName>
+        <LastName>Berkeley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leslie</FirstName>
+        <LastName>Hamilton Gearren</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ken</FirstName>
+        <LastName>Gibbel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Winley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shane</FirstName>
+        <LastName>Wilder</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

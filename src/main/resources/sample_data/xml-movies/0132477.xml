@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>October Sky</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>Joe Johnston</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jake</FirstName>
+        <LastName>Gyllenhaal</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>Cooper (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>Owen (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chad</FirstName>
+        <LastName>Lindberg</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Lee Scott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laura</FirstName>
+        <LastName>Dern</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Natalie</FirstName>
+        <LastName>Canerday</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scott</FirstName>
+        <LastName>Thomas (IV)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>Ellis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Randy</FirstName>
+        <LastName>Stripling</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elya</FirstName>
+        <LastName>Baskin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Courtney</FirstName>
+        <LastName>Fendley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kailie</FirstName>
+        <LastName>Hollister</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Copeland (III)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tommy</FirstName>
+        <LastName>Smeltzer</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

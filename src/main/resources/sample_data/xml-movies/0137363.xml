@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Arlington Road</Title>
+    <Year>1999</Year>
+    <Genres>
+      <Genre>Thriller</Genre>
+      <Genre>Action</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jeff</FirstName>
+        <LastName>Bridges</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tim</FirstName>
+        <LastName>Robbins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joan</FirstName>
+        <LastName>Cusack</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hope</FirstName>
+        <LastName>Davis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Gossett</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mason</FirstName>
+        <LastName>Gamble</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Spencer</FirstName>
+        <LastName>Treat Clark</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stanley</FirstName>
+        <LastName>Anderson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Viviane</FirstName>
+        <LastName>Vives</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lee</FirstName>
+        <LastName>Stringer (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Darryl</FirstName>
+        <LastName>Cox</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Loyd</FirstName>
+        <LastName>Catlett</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sid</FirstName>
+        <LastName>Hillman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Auden</FirstName>
+        <LastName>Thornton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mary</FirstName>
+        <LastName>Ashleigh Green</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Coming to America</Title>
+    <Year>1988</Year>
+    <Directed_By>
+      <Director>John Landis</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Bates</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eddie</FirstName>
+        <LastName>Murphy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Garcelle</FirstName>
+        <LastName>Beauvais</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stephanie</FirstName>
+        <LastName>Simon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Victoria</FirstName>
+        <LastName>Dillard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Felicia</FirstName>
+        <LastName>Taylor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michele</FirstName>
+        <LastName>Watley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Earl Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Madge</FirstName>
+        <LastName>Sinclair</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sheila</FirstName>
+        <LastName>Johnson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arsenio</FirstName>
+        <LastName>Hall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Raymond</FirstName>
+        <LastName>D. Turner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Calvin</FirstName>
+        <LastName>Lockhart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billi</FirstName>
+        <LastName>Gordon</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

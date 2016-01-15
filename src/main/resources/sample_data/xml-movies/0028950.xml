@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Grande illusion, La</Title>
+    <Year>1937</Year>
+    <Directed_By>
+      <Director>Jean Renoir</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jean</FirstName>
+        <LastName>Gabin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marcel</FirstName>
+        <LastName>Dalio</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pierre</FirstName>
+        <LastName>Fresnay</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Erich</FirstName>
+        <LastName>von Stroheim</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julien</FirstName>
+        <LastName>Carette</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Georges</FirstName>
+        <LastName>Péclet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jean</FirstName>
+        <LastName>Dasté</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gaston</FirstName>
+        <LastName>Modot</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Werner</FirstName>
+        <LastName>Florian</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sylvain</FirstName>
+        <LastName>Itkine</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dita</FirstName>
+        <LastName>Parlo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jacques</FirstName>
+        <LastName>Becker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claude</FirstName>
+        <LastName>Sainval</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michel</FirstName>
+        <LastName>Salina</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

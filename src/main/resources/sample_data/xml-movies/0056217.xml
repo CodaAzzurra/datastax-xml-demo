@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Man Who Shot Liberty Valance, The</Title>
+    <Year>1962</Year>
+    <Directed_By>
+      <Director>John Ford</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Western</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Stewart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Wayne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vera</FirstName>
+        <LastName>Miles</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lee</FirstName>
+        <LastName>Marvin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edmond</FirstName>
+        <LastName>O'Brien</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Andy</FirstName>
+        <LastName>Devine (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ken</FirstName>
+        <LastName>Murray (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Carradine</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeanette</FirstName>
+        <LastName>Nolan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Qualen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Willis</FirstName>
+        <LastName>Bouchey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carleton</FirstName>
+        <LastName>Young</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Woody</FirstName>
+        <LastName>Strode</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Denver</FirstName>
+        <LastName>Pyle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Strother</FirstName>
+        <LastName>Martin</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Pulp Fiction</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>Quentin Tarantino</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Crime</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>Drama</Genre>
+      <Genre>Action</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Travolta</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Samuel</FirstName>
+        <LastName>L. Jackson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Uma</FirstName>
+        <LastName>Thurman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laura</FirstName>
+        <LastName>Lovelace</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Willis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harvey</FirstName>
+        <LastName>Keitel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Phil</FirstName>
+        <LastName>LaMarr</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tim</FirstName>
+        <LastName>Roth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Amanda</FirstName>
+        <LastName>Plummer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Whaley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Burr</FirstName>
+        <LastName>Steers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maria</FirstName>
+        <LastName>de Medeiros</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ving</FirstName>
+        <LastName>Rhames</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eric</FirstName>
+        <LastName>Stoltz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rosanna</FirstName>
+        <LastName>Arquette</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

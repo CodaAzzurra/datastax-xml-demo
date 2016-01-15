@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Sixth Sense, The</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>M. Night Shyamalan</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Thriller</Genre>
+      <Genre>Drama</Genre>
+      <Genre>Horror</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Willis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Toni</FirstName>
+        <LastName>Collette</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Olivia</FirstName>
+        <LastName>Williams</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Haley</FirstName>
+        <LastName>Joel Osment</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Donnie</FirstName>
+        <LastName>Wahlberg</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mischa</FirstName>
+        <LastName>Barton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Glenn</FirstName>
+        <LastName>Fitzgerald</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Trevor</FirstName>
+        <LastName>Morgan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Norris</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jodi</FirstName>
+        <LastName>Dawson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Firdous</FirstName>
+        <LastName>Bamji (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Michael Donnelly</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jose</FirstName>
+        <LastName>L. Rodriguez (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Samia</FirstName>
+        <LastName>Shoaib</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>M.</FirstName>
+        <LastName>Night Shyamalan</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

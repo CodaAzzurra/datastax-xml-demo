@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Smokey and the Bandit</Title>
+    <Year>1977</Year>
+    <Directed_By>
+      <Director>Hal Needham</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Burt</FirstName>
+        <LastName>Reynolds</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sally</FirstName>
+        <LastName>Field</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jerry</FirstName>
+        <LastName>Reed (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mike</FirstName>
+        <LastName>Henry</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Williams (III)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pat</FirstName>
+        <LastName>McCormick (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alfie</FirstName>
+        <LastName>Wise</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Reynolds</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Macon</FirstName>
+        <LastName>McCalman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Linda</FirstName>
+        <LastName>McClure</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Susan</FirstName>
+        <LastName>McIver</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laura</FirstName>
+        <LastName>Lizer Sommers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Mann (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lamar</FirstName>
+        <LastName>Jackson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jackie</FirstName>
+        <LastName>Gleason</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

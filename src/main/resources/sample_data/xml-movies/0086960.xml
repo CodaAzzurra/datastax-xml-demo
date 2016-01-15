@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Beverly Hills Cop</Title>
+    <Year>1984</Year>
+    <Directed_By>
+      <Director>Martin Brest</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Eddie</FirstName>
+        <LastName>Murphy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Judge</FirstName>
+        <LastName>Reinhold</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Ashton (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lisa</FirstName>
+        <LastName>Eilbacher</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ronny</FirstName>
+        <LastName>Cox</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steven</FirstName>
+        <LastName>Berkoff</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Russo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Banks</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stephen</FirstName>
+        <LastName>Elliott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gilbert</FirstName>
+        <LastName>R. Hill</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Art</FirstName>
+        <LastName>Kimbro</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joel</FirstName>
+        <LastName>Bailey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bronson</FirstName>
+        <LastName>Pinchot</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Reiser</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Champion</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

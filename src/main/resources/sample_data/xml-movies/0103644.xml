@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Alien³</Title>
+    <Year>1992</Year>
+    <Directed_By>
+      <Director>David Fincher</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Horror</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Sigourney</FirstName>
+        <LastName>Weaver</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Dutton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Dance</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>McGann</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brian</FirstName>
+        <LastName>Glover (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ralph</FirstName>
+        <LastName>Brown (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daniel</FirstName>
+        <LastName>Webb (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>John Fields</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Holt</FirstName>
+        <LastName>McCallany</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lance</FirstName>
+        <LastName>Henriksen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Fairbank</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carl</FirstName>
+        <LastName>Chase</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leon</FirstName>
+        <LastName>Herbert</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vincenzo</FirstName>
+        <LastName>Nicoli</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pete</FirstName>
+        <LastName>Postlethwaite</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

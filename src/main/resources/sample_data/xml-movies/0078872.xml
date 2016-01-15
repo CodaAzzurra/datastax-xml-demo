@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Black Stallion, The</Title>
+    <Year>1979</Year>
+    <Directed_By>
+      <Director>Carroll Ballard (I)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Adventure</Genre>
+      <Genre>Children's</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Kelly</FirstName>
+        <LastName>Reno</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mickey</FirstName>
+        <LastName>Rooney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Teri</FirstName>
+        <LastName>Garr</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clarence</FirstName>
+        <LastName>Muse</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hoyt</FirstName>
+        <LastName>Axton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Higgins (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ed</FirstName>
+        <LastName>McNamara</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Doghmi</FirstName>
+        <LastName>Larbi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Burton (III)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Buchanan (IV)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kristen</FirstName>
+        <LastName>Vigard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Karlson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leopoldo</FirstName>
+        <LastName>Trieste</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Cousins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Don</FirstName>
+        <LastName>Hudson</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Rocky III</Title>
+    <Year>1982</Year>
+    <Directed_By>
+      <Director>Sylvester Stallone</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Sylvester</FirstName>
+        <LastName>Stallone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Talia</FirstName>
+        <LastName>Shire</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Burt</FirstName>
+        <LastName>Young</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carl</FirstName>
+        <LastName>Weathers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Burgess</FirstName>
+        <LastName>Meredith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Burton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mr.</FirstName>
+        <LastName>T</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hulk</FirstName>
+        <LastName>Hogan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>Fried</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Al</FirstName>
+        <LastName>Salvani</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wally</FirstName>
+        <LastName>Taylor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Hill (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Don</FirstName>
+        <LastName>Sherman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dennis</FirstName>
+        <LastName>James</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ray</FirstName>
+        <LastName>Dedeon</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

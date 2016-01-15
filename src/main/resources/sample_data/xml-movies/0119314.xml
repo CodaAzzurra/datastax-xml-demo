@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Horse Whisperer, The</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Robert Redford</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Redford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kristin</FirstName>
+        <LastName>Scott Thomas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sam</FirstName>
+        <LastName>Neill</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dianne</FirstName>
+        <LastName>Wiest</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scarlett</FirstName>
+        <LastName>Johansson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>Cooper (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cherry</FirstName>
+        <LastName>Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ty</FirstName>
+        <LastName>Hillman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Catherine</FirstName>
+        <LastName>Bosworth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Austin</FirstName>
+        <LastName>Schwarz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dustin</FirstName>
+        <LastName>Schwarz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeanette</FirstName>
+        <LastName>Nolan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Frye</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Don</FirstName>
+        <LastName>Edwards (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jessalyn</FirstName>
+        <LastName>Gilsig</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

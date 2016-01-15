@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Sweet Hereafter, The</Title>
+    <Year>1997</Year>
+    <Directed_By>
+      <Director>Atom Egoyan</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>Holm</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maury</FirstName>
+        <LastName>Chaykin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gabrielle</FirstName>
+        <LastName>Rose</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Donaldson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Greenwood (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Hemblen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brooke</FirstName>
+        <LastName>Johnson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arsinée</FirstName>
+        <LastName>Khanjian</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>McCamus</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stephanie</FirstName>
+        <LastName>Morgenstern</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Earl</FirstName>
+        <LastName>Pastko</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sarah</FirstName>
+        <LastName>Polley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alberta</FirstName>
+        <LastName>Watson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Caerthan</FirstName>
+        <LastName>Banks</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kirsten</FirstName>
+        <LastName>Kieferle</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

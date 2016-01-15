@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Stand by Me</Title>
+    <Year>1986</Year>
+    <Directed_By>
+      <Director>Rob Reiner</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Adventure</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Wil</FirstName>
+        <LastName>Wheaton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>River</FirstName>
+        <LastName>Phoenix</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Corey</FirstName>
+        <LastName>Feldman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jerry</FirstName>
+        <LastName>O'Connell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kiefer</FirstName>
+        <LastName>Sutherland</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Casey</FirstName>
+        <LastName>Siemaszko</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Riley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bradley</FirstName>
+        <LastName>Gregg</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Oliver (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marshall</FirstName>
+        <LastName>Bell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lee</FirstName>
+        <LastName>McCain</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Kirby</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Bronder</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Scott</FirstName>
+        <LastName>Beach</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Dreyfuss</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

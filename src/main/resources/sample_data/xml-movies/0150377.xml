@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Double Jeopardy</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>Bruce Beresford</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Thriller</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tommy</FirstName>
+        <LastName>Lee Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ashley</FirstName>
+        <LastName>Judd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Annabeth</FirstName>
+        <LastName>Gish</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Greenwood (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Roma</FirstName>
+        <LastName>Maffia</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Davenia</FirstName>
+        <LastName>McFadden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jay</FirstName>
+        <LastName>Brazeau</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gillian</FirstName>
+        <LastName>Barber</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Benjamin</FirstName>
+        <LastName>Weir</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Spencer</FirstName>
+        <LastName>Treat Clark</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ben</FirstName>
+        <LastName>Bode</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brennan</FirstName>
+        <LastName>Elliott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Gaston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dave</FirstName>
+        <LastName>Hager</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daniel</FirstName>
+        <LastName>Lapaine</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

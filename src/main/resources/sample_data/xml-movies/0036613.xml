@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Arsenic and Old Lace</Title>
+    <Year>1944</Year>
+    <Directed_By>
+      <Director>Frank Capra</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Cary</FirstName>
+        <LastName>Grant</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Priscilla</FirstName>
+        <LastName>Lane</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Raymond</FirstName>
+        <LastName>Massey (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Carson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edward</FirstName>
+        <LastName>Everett Horton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Lorre</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Gleason (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Josephine</FirstName>
+        <LastName>Hull</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jean</FirstName>
+        <LastName>Adair (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Alexander (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Grant</FirstName>
+        <LastName>Mitchell (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edward</FirstName>
+        <LastName>McNamara</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Garry</FirstName>
+        <LastName>Owen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Ridgely</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vaughan</FirstName>
+        <LastName>Glaser</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Fight Club</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>David Fincher</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Brad</FirstName>
+        <LastName>Pitt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edward</FirstName>
+        <LastName>Norton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Helena</FirstName>
+        <LastName>Bonham Carter</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Meat</FirstName>
+        <LastName>Loaf</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jared</FirstName>
+        <LastName>Leto</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Zach</FirstName>
+        <LastName>Grenier</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eion</FirstName>
+        <LastName>Bailey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ezra</FirstName>
+        <LastName>Buzzington</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richmond</FirstName>
+        <LastName>Arquette</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joel</FirstName>
+        <LastName>Bissonnette</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stuart</FirstName>
+        <LastName>Blumberg</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Dillon (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Iacangelo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joon</FirstName>
+        <LastName>B. Kim</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edward</FirstName>
+        <LastName>Kowalczyk</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Scott Mack</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Maguire</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Holt</FirstName>
+        <LastName>McCallany</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Evan</FirstName>
+        <LastName>Mirand</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rachel</FirstName>
+        <LastName>Singer</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

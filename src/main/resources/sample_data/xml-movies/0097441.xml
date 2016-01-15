@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Glory</Title>
+    <Year>1989</Year>
+    <Directed_By>
+      <Director>Edward Zwick</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Drama</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Matthew</FirstName>
+        <LastName>Broderick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Denzel</FirstName>
+        <LastName>Washington</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cary</FirstName>
+        <LastName>Elwes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Morgan</FirstName>
+        <LastName>Freeman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jihmi</FirstName>
+        <LastName>Kennedy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>André</FirstName>
+        <LastName>Braugher</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Finn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Donovan</FirstName>
+        <LastName>Leitch</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>David Cullum</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alan</FirstName>
+        <LastName>North</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bob</FirstName>
+        <LastName>Gunton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cliff</FirstName>
+        <LastName>De Young</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christian</FirstName>
+        <LastName>Baskous</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ronreaco</FirstName>
+        <LastName>Lee</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jay</FirstName>
+        <LastName>O. Sanders</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

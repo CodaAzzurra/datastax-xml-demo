@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Time to Kill, A</Title>
+    <Year>1996</Year>
+    <Directed_By>
+      <Director>Joel Schumacher</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Matthew</FirstName>
+        <LastName>McConaughey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sandra</FirstName>
+        <LastName>Bullock</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Samuel</FirstName>
+        <LastName>L. Jackson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Spacey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Oliver</FirstName>
+        <LastName>Platt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Dutton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brenda</FirstName>
+        <LastName>Fricker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Donald</FirstName>
+        <LastName>Sutherland</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kiefer</FirstName>
+        <LastName>Sutherland</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patrick</FirstName>
+        <LastName>McGoohan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ashley</FirstName>
+        <LastName>Judd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tonea</FirstName>
+        <LastName>Stewart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rae'ven</FirstName>
+        <LastName>Kelly</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Darrin</FirstName>
+        <LastName>Mitchell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>LaConte</FirstName>
+        <LastName>McGrew</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

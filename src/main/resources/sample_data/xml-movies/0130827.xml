@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Lola rennt</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Tom Tykwer</Director>
+    </Directed_By>
+    <Cast>
+      <Actor>
+        <FirstName>Franka</FirstName>
+        <LastName>Potente</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Moritz</FirstName>
+        <LastName>Bleibtreu</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Herbert</FirstName>
+        <LastName>Knaup</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nina</FirstName>
+        <LastName>Petri</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Armin</FirstName>
+        <LastName>Rohde</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joachim</FirstName>
+        <LastName>Król</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ludger</FirstName>
+        <LastName>Pistor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Suzanne</FirstName>
+        <LastName>von Borsody</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sebastian</FirstName>
+        <LastName>Schipper</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julia</FirstName>
+        <LastName>Lindig</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lars</FirstName>
+        <LastName>Rudolph</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Andreas</FirstName>
+        <LastName>Petri</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Klaus</FirstName>
+        <LastName>Müller (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Utz</FirstName>
+        <LastName>Krause</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Beate</FirstName>
+        <LastName>Finckh</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

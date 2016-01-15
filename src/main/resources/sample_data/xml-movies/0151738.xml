@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Never Been Kissed</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>Raja Gosnell</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Drew</FirstName>
+        <LastName>Barrymore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Vartan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Molly</FirstName>
+        <LastName>Shannon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Arquette</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leelee</FirstName>
+        <LastName>Sobieski</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeremy</FirstName>
+        <LastName>Jordan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jessica</FirstName>
+        <LastName>Alba</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marley</FirstName>
+        <LastName>Shelton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jordan</FirstName>
+        <LastName>Ladd</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>C. Reilly</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Garry</FirstName>
+        <LastName>Marshall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sean</FirstName>
+        <LastName>Whalen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cress</FirstName>
+        <LastName>Williams</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Octavia</FirstName>
+        <LastName>Spencer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sarah</FirstName>
+        <LastName>DeVincentis</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

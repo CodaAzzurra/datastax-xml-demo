@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Flintstones, The</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>Brian Levant</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Goodman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elizabeth</FirstName>
+        <LastName>Perkins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rick</FirstName>
+        <LastName>Moranis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rosie</FirstName>
+        <LastName>O'Donnell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kyle</FirstName>
+        <LastName>MacLachlan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Halle</FirstName>
+        <LastName>Berry</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elizabeth</FirstName>
+        <LastName>Taylor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dann</FirstName>
+        <LastName>Florek</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Moll</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Irwin</FirstName>
+        <LastName>Keyes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Winters</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harvey</FirstName>
+        <LastName>Korman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elaine</FirstName>
+        <LastName>Silver</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Melanie</FirstName>
+        <LastName>Silver</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hlynur</FirstName>
+        <LastName>Sigurdsson</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

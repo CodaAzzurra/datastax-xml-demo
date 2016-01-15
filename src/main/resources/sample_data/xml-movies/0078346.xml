@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Superman</Title>
+    <Year>1978</Year>
+    <Directed_By>
+      <Director>Richard Donner</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Marlon</FirstName>
+        <LastName>Brando</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gene</FirstName>
+        <LastName>Hackman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Reeve</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ned</FirstName>
+        <LastName>Beatty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jackie</FirstName>
+        <LastName>Cooper (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Glenn</FirstName>
+        <LastName>Ford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Trevor</FirstName>
+        <LastName>Howard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Margot</FirstName>
+        <LastName>Kidder</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Valerie</FirstName>
+        <LastName>Perrine</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maria</FirstName>
+        <LastName>Schell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Phyllis</FirstName>
+        <LastName>Thaxter</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Susannah</FirstName>
+        <LastName>York</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeff</FirstName>
+        <LastName>East</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marc</FirstName>
+        <LastName>McClure (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sarah</FirstName>
+        <LastName>Douglas (I)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Basic Instinct</Title>
+    <Year>1992</Year>
+    <Directed_By>
+      <Director>Paul Verhoeven</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Mystery</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Douglas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sharon</FirstName>
+        <LastName>Stone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Dzundza</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeanne</FirstName>
+        <LastName>Tripplehorn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Denis</FirstName>
+        <LastName>Arndt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leilani</FirstName>
+        <LastName>Sarelle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>A. Young</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chelcie</FirstName>
+        <LastName>Ross</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dorothy</FirstName>
+        <LastName>Malone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wayne</FirstName>
+        <LastName>Knight</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daniel</FirstName>
+        <LastName>von Bargen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stephen</FirstName>
+        <LastName>Tobolowsky</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Benjamin</FirstName>
+        <LastName>Mouton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>McGee</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Cable</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>There's Something About Mary</Title>
+    <Year>1998</Year>
+    <Directed_By>
+      <Director>Bobby Farrelly</Director>
+      <Director>Peter Farrelly</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Cameron</FirstName>
+        <LastName>Diaz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Matt</FirstName>
+        <LastName>Dillon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ben</FirstName>
+        <LastName>Stiller</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lee</FirstName>
+        <LastName>Evans (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chris</FirstName>
+        <LastName>Elliott (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lin</FirstName>
+        <LastName>Shaye</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeffrey</FirstName>
+        <LastName>Tambor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Markie</FirstName>
+        <LastName>Post</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Keith</FirstName>
+        <LastName>David (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>W.</FirstName>
+        <LastName>Earl Brown</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sarah</FirstName>
+        <LastName>Silverman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Khandi</FirstName>
+        <LastName>Alexander</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marnie</FirstName>
+        <LastName>Alexenburg</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Danny</FirstName>
+        <LastName>Murphy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Tyson</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>'Crocodile' Dundee II</Title>
+    <Year>1988</Year>
+    <Directed_By>
+      <Director>John Cornell</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Hogan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Linda</FirstName>
+        <LastName>Kozlowski</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Meillon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ernie</FirstName>
+        <LastName>Dingo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Rackman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gerry</FirstName>
+        <LastName>Skilton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gus</FirstName>
+        <LastName>Mercurio</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Holt (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alec</FirstName>
+        <LastName>Wilson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maggie</FirstName>
+        <LastName>Blinco</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Sandy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Saunders</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Betty</FirstName>
+        <LastName>Bobbit</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Cooper</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sam</FirstName>
+        <LastName>Cooper</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

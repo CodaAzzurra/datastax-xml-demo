@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Singin' in the Rain</Title>
+    <Year>1952</Year>
+    <Directed_By>
+      <Director>Stanley Donen</Director>
+      <Director>Gene Kelly</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Musical</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Gene</FirstName>
+        <LastName>Kelly</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Donald</FirstName>
+        <LastName>O'Connor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Debbie</FirstName>
+        <LastName>Reynolds</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jean</FirstName>
+        <LastName>Hagen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Millard</FirstName>
+        <LastName>Mitchell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cyd</FirstName>
+        <LastName>Charisse</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Douglas</FirstName>
+        <LastName>Fowley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rita</FirstName>
+        <LastName>Moreno</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

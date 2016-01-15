@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>101 Dalmatians</Title>
+    <Year>1996</Year>
+    <Directed_By>
+      <Director>Stephen Herek</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Children's</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Glenn</FirstName>
+        <LastName>Close</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeff</FirstName>
+        <LastName>Daniels</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joely</FirstName>
+        <LastName>Richardson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joan</FirstName>
+        <LastName>Plowright</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hugh</FirstName>
+        <LastName>Laurie</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Williams (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Shrapnel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tim</FirstName>
+        <LastName>McInnerny</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hugh</FirstName>
+        <LastName>Fraser (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Zohren</FirstName>
+        <LastName>Weiss</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Haddigan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Percival</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Neville</FirstName>
+        <LastName>Phillips</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Evans (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hilda</FirstName>
+        <LastName>Braid</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

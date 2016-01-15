@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>World Is Not Enough, The</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>Michael Apted</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Pierce</FirstName>
+        <LastName>Brosnan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sophie</FirstName>
+        <LastName>Marceau</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Denise</FirstName>
+        <LastName>Richards</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Carlyle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Judi</FirstName>
+        <LastName>Dench</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Samantha</FirstName>
+        <LastName>Bond</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robbie</FirstName>
+        <LastName>Coltrane</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maria</FirstName>
+        <LastName>Grazia Cucinotta</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Desmond</FirstName>
+        <LastName>Llewelyn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Cleese</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Goldie</FirstName>
+        <LastName>(II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ulrich</FirstName>
+        <LastName>Thomsen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claude-Oliver</FirstName>
+        <LastName>Rudolph</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Kitchen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Colin</FirstName>
+        <LastName>Salmon</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

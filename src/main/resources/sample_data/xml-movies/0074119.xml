@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>All the President's Men</Title>
+    <Year>1976</Year>
+    <Directed_By>
+      <Director>Alan J. Pakula</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Dustin</FirstName>
+        <LastName>Hoffman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Redford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Warden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Martin</FirstName>
+        <LastName>Balsam</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hal</FirstName>
+        <LastName>Holbrook</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Robards</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jane</FirstName>
+        <LastName>Alexander</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Meredith</FirstName>
+        <LastName>Baxter</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ned</FirstName>
+        <LastName>Beatty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stephen</FirstName>
+        <LastName>Collins (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Penny</FirstName>
+        <LastName>Fuller</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>McMartin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Walden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frank</FirstName>
+        <LastName>Wills</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>F.</FirstName>
+        <LastName>Murray Abraham</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

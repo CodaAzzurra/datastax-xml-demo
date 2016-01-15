@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Ghost</Title>
+    <Year>1990</Year>
+    <Directed_By>
+      <Director>Jerry Zucker</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Patrick</FirstName>
+        <LastName>Swayze</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Demi</FirstName>
+        <LastName>Moore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Goldwyn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stanley</FirstName>
+        <LastName>Lawrence</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>J. Keene</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Susan</FirstName>
+        <LastName>Breslau</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Martina</FirstName>
+        <LastName>Degnan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Kleber</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Macka</FirstName>
+        <LastName>Foley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rick</FirstName>
+        <LastName>Aviles</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Phil</FirstName>
+        <LastName>Leeds</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Hugh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sam</FirstName>
+        <LastName>Tsoutsouvas</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sharon</FirstName>
+        <LastName>Breslau Cornell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vincent</FirstName>
+        <LastName>Schiavelli</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

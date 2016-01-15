@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Cliffhanger</Title>
+    <Year>1993</Year>
+    <Directed_By>
+      <Director>Renny Harlin</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Adventure</Genre>
+      <Genre>Crime</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Sylvester</FirstName>
+        <LastName>Stallone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Lithgow</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Rooker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Janine</FirstName>
+        <LastName>Turner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rex</FirstName>
+        <LastName>Linn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Caroline</FirstName>
+        <LastName>Goodall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>León</FirstName>
+        <LastName>(I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leon</FirstName>
+        <LastName>(I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Craig</FirstName>
+        <LastName>Fairbrass</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gregory</FirstName>
+        <LastName>Scott Cummins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Denis</FirstName>
+        <LastName>Forest</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michelle</FirstName>
+        <LastName>Joyner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Max</FirstName>
+        <LastName>Perlich</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Winfield</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ralph</FirstName>
+        <LastName>Waite</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

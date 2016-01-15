@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Superman II</Title>
+    <Year>1980</Year>
+    <Directed_By>
+      <Director>Richard Lester</Director>
+      <Director></Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Adventure</Genre>
+      <Genre>Action</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Gene</FirstName>
+        <LastName>Hackman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Reeve</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ned</FirstName>
+        <LastName>Beatty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jackie</FirstName>
+        <LastName>Cooper (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sarah</FirstName>
+        <LastName>Douglas (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Margot</FirstName>
+        <LastName>Kidder</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>O'Halloran</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Valerie</FirstName>
+        <LastName>Perrine</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Susannah</FirstName>
+        <LastName>York</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clifton</FirstName>
+        <LastName>James</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>E.G.</FirstName>
+        <LastName>Marshall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marc</FirstName>
+        <LastName>McClure (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Terence</FirstName>
+        <LastName>Stamp</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leueen</FirstName>
+        <LastName>Willoughby</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robin</FirstName>
+        <LastName>Pappas</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

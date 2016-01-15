@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>West Side Story</Title>
+    <Year>1961</Year>
+    <Directed_By>
+      <Director>Jerome Robbins</Director>
+      <Director>Robert Wise</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Musical</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Natalie</FirstName>
+        <LastName>Wood</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Beymer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Russ</FirstName>
+        <LastName>Tamblyn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rita</FirstName>
+        <LastName>Moreno</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Chakiris</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Simon</FirstName>
+        <LastName>Oakland</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ned</FirstName>
+        <LastName>Glass</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Bramley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tucker</FirstName>
+        <LastName>Smith (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Mordente</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Winters</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eliot</FirstName>
+        <LastName>Feld</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bert</FirstName>
+        <LastName>Michaels</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Bean</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Banas</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

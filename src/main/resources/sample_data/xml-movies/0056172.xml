@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Lawrence of Arabia</Title>
+    <Year>1962</Year>
+    <Directed_By>
+      <Director>David Lean</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Adventure</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>O'Toole</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alec</FirstName>
+        <LastName>Guinness</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anthony</FirstName>
+        <LastName>Quinn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Hawkins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Omar</FirstName>
+        <LastName>Sharif</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>José</FirstName>
+        <LastName>Ferrer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anthony</FirstName>
+        <LastName>Quayle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claude</FirstName>
+        <LastName>Rains</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arthur</FirstName>
+        <LastName>Kennedy (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Dimech</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kenneth</FirstName>
+        <LastName>Fortescue</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Gwyllim</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>I.S.</FirstName>
+        <LastName>Johar</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Howard</FirstName>
+        <LastName>Marion-Crawford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hugh</FirstName>
+        <LastName>Miller (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Zia</FirstName>
+        <LastName>Mohyeddin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Henry</FirstName>
+        <LastName>Oscar</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gamil</FirstName>
+        <LastName>Ratib</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michel</FirstName>
+        <LastName>Ray</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Norman</FirstName>
+        <LastName>Rossington</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Ruddock</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fernando</FirstName>
+        <LastName>Sancho (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stuart</FirstName>
+        <LastName>Saunders (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Donald</FirstName>
+        <LastName>Wolfit</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

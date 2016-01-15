@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Big Sleep, The</Title>
+    <Year>1946</Year>
+    <Directed_By>
+      <Director>Howard Hawks</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Film-Noir</Genre>
+      <Genre>Mystery</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Humphrey</FirstName>
+        <LastName>Bogart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lauren</FirstName>
+        <LastName>Bacall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Ridgely</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Martha</FirstName>
+        <LastName>Vickers</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dorothy</FirstName>
+        <LastName>Malone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peggy</FirstName>
+        <LastName>Knudsen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Regis</FirstName>
+        <LastName>Toomey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>Waldron</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charles</FirstName>
+        <LastName>D. Brown (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bob</FirstName>
+        <LastName>Steele (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elisha</FirstName>
+        <LastName>Cook Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Louis</FirstName>
+        <LastName>Jean Heydt</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

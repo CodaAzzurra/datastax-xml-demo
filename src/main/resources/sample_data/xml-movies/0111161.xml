@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Shawshank Redemption, The</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>Frank Darabont</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tim</FirstName>
+        <LastName>Robbins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Morgan</FirstName>
+        <LastName>Freeman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bob</FirstName>
+        <LastName>Gunton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Sadler</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clancy</FirstName>
+        <LastName>Brown</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gil</FirstName>
+        <LastName>Bellows</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Rolston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Whitmore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeffrey</FirstName>
+        <LastName>DeMunn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Larry</FirstName>
+        <LastName>Brandenburg</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Neil</FirstName>
+        <LastName>Giuntoli</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brian</FirstName>
+        <LastName>Libby</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Proval</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>Ragno</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jude</FirstName>
+        <LastName>Ciccolella</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

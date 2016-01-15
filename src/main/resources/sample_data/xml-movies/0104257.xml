@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Few Good Men, A</Title>
+    <Year>1992</Year>
+    <Directed_By>
+      <Director>Rob Reiner</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Cruise</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jack</FirstName>
+        <LastName>Nicholson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Demi</FirstName>
+        <LastName>Moore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Bacon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kiefer</FirstName>
+        <LastName>Sutherland</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Pollak</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Marshall (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>J.T.</FirstName>
+        <LastName>Walsh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Guest</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>J.A.</FirstName>
+        <LastName>Preston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Matt</FirstName>
+        <LastName>Craven</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Wolfgang</FirstName>
+        <LastName>Bodison</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Xander</FirstName>
+        <LastName>Berkeley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>M. Jackson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Noah</FirstName>
+        <LastName>Wyle</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

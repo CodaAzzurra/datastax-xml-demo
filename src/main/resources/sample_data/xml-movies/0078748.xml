@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Alien</Title>
+    <Year>1979</Year>
+    <Directed_By>
+      <Director>Ridley Scott</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Horror</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Skerritt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sigourney</FirstName>
+        <LastName>Weaver</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Veronica</FirstName>
+        <LastName>Cartwright</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harry</FirstName>
+        <LastName>Dean Stanton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Hurt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>Holm</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Yaphet</FirstName>
+        <LastName>Kotto</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bolaji</FirstName>
+        <LastName>Badejo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Helen</FirstName>
+        <LastName>Horton</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

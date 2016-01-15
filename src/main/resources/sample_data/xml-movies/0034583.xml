@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Casablanca</Title>
+    <Year>1942</Year>
+    <Directed_By>
+      <Director>Michael Curtiz</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Humphrey</FirstName>
+        <LastName>Bogart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ingrid</FirstName>
+        <LastName>Bergman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Henreid</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claude</FirstName>
+        <LastName>Rains</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Conrad</FirstName>
+        <LastName>Veidt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sydney</FirstName>
+        <LastName>Greenstreet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Lorre</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>S.Z.</FirstName>
+        <LastName>Sakall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Madeleine</FirstName>
+        <LastName>LeBeau</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dooley</FirstName>
+        <LastName>Wilson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joy</FirstName>
+        <LastName>Page</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Qualen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leonid</FirstName>
+        <LastName>Kinskey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Curt</FirstName>
+        <LastName>Bois</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

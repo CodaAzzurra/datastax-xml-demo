@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Mummy, The</Title>
+    <Year>1999</Year>
+    <Directed_By>
+      <Director>Stephen Sommers (I)</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Adventure</Genre>
+      <Genre>Action</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>Horror</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Brendan</FirstName>
+        <LastName>Fraser</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rachel</FirstName>
+        <LastName>Weisz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Hannah</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arnold</FirstName>
+        <LastName>Vosloo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>J. O'Connor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Hyde</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Oded</FirstName>
+        <LastName>Fehr</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stephen</FirstName>
+        <LastName>Dunham</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Erick</FirstName>
+        <LastName>Avari</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Corey</FirstName>
+        <LastName>Johnson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tuc</FirstName>
+        <LastName>Watkins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Omid</FirstName>
+        <LastName>Djalili</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Aharon</FirstName>
+        <LastName>Ipalé</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bernard</FirstName>
+        <LastName>Fox (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patricia</FirstName>
+        <LastName>Velazquez</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

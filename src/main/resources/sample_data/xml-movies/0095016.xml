@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Die Hard</Title>
+    <Year>1988</Year>
+    <Directed_By>
+      <Director>John McTiernan</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Bruce</FirstName>
+        <LastName>Willis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bonnie</FirstName>
+        <LastName>Bedelia</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Reginald</FirstName>
+        <LastName>VelJohnson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Gleason (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>De'voreaux</FirstName>
+        <LastName>White</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Atherton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hart</FirstName>
+        <LastName>Bochner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Shigeta</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alan</FirstName>
+        <LastName>Rickman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alexander</FirstName>
+        <LastName>Godunov</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bruno</FirstName>
+        <LastName>Doyon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Andreas</FirstName>
+        <LastName>Wisniewski</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clarence</FirstName>
+        <LastName>Gilyard Jr.</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joey</FirstName>
+        <LastName>Plewa</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lorenzo</FirstName>
+        <LastName>Caccialanza</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

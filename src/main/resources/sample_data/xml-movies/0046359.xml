@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Stalag 17</Title>
+    <Year>1953</Year>
+    <Directed_By>
+      <Director>Billy Wilder</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Holden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Don</FirstName>
+        <LastName>Taylor (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Otto</FirstName>
+        <LastName>Preminger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Strauss (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harvey</FirstName>
+        <LastName>Lembeck</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Erdman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Graves (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Neville</FirstName>
+        <LastName>Brand</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sig</FirstName>
+        <LastName>Ruman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Moore (III)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Baldwin (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robinson</FirstName>
+        <LastName>Stone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Shawley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Pearson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gil</FirstName>
+        <LastName>Stratton</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

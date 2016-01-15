@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Laura</Title>
+    <Year>1944</Year>
+    <Directed_By>
+      <Director>Otto Preminger</Director>
+      <Director></Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Film-Noir</Genre>
+      <Genre>Mystery</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Gene</FirstName>
+        <LastName>Tierney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dana</FirstName>
+        <LastName>Andrews</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clifton</FirstName>
+        <LastName>Webb</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vincent</FirstName>
+        <LastName>Price</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Judith</FirstName>
+        <LastName>Anderson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dorothy</FirstName>
+        <LastName>Adams</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Flavin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Clyde</FirstName>
+        <LastName>Fillmore</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ralph</FirstName>
+        <LastName>Dunn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Grant</FirstName>
+        <LastName>Mitchell (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kathleen</FirstName>
+        <LastName>Howard</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

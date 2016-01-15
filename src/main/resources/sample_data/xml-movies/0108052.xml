@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Schindler's List</Title>
+    <Year>1993</Year>
+    <Directed_By>
+      <Director>Steven Spielberg</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>War</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Liam</FirstName>
+        <LastName>Neeson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ben</FirstName>
+        <LastName>Kingsley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ralph</FirstName>
+        <LastName>Fiennes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Caroline</FirstName>
+        <LastName>Goodall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jonathan</FirstName>
+        <LastName>Sagall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Embeth</FirstName>
+        <LastName>Davidtz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Malgoscha</FirstName>
+        <LastName>Gebel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Shmulik</FirstName>
+        <LastName>Levy (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Ivanir</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Béatrice</FirstName>
+        <LastName>Macola</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Andrzej</FirstName>
+        <LastName>Seweryn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Friedrich</FirstName>
+        <LastName>von Thun</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Krzysztof</FirstName>
+        <LastName>Luft</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Harry</FirstName>
+        <LastName>Nehring</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Norbert</FirstName>
+        <LastName>Weisser</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

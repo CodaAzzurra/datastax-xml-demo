@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Nutty Professor, The</Title>
+    <Year>1996</Year>
+    <Directed_By>
+      <Director>Tom Shadyac</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Romance</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Eddie</FirstName>
+        <LastName>Murphy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jada</FirstName>
+        <LastName>Pinkett</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Coburn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Larry</FirstName>
+        <LastName>Miller</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Chappelle (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Ales</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Patricia</FirstName>
+        <LastName>Wilson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jamal</FirstName>
+        <LastName>Mixon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nichole</FirstName>
+        <LastName>McAuley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hamilton</FirstName>
+        <LastName>von Watts</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chao</FirstName>
+        <LastName>Li Chi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Carlin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Quinn</FirstName>
+        <LastName>Duffy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Montell</FirstName>
+        <LastName>Jordan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Doug</FirstName>
+        <LastName>Williams</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

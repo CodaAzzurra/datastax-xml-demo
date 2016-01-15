@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Rock, The</Title>
+    <Year>1996</Year>
+    <Directed_By>
+      <Director>Michael Bay</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Sean</FirstName>
+        <LastName>Connery</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nicolas</FirstName>
+        <LastName>Cage</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ed</FirstName>
+        <LastName>Harris</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Spencer (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Morse</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Forsythe</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Biehn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Vanessa</FirstName>
+        <LastName>Marcil</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>C. McGinley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gregory</FirstName>
+        <LastName>Sporleder</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tony</FirstName>
+        <LastName>Todd (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bokeem</FirstName>
+        <LastName>Woodbine</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Maniaci</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Greg</FirstName>
+        <LastName>Collins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brendan</FirstName>
+        <LastName>Kelly (I)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

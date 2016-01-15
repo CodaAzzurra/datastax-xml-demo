@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Graduate, The</Title>
+    <Year>1967</Year>
+    <Directed_By>
+      <Director>Mike Nichols</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Anne</FirstName>
+        <LastName>Bancroft</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dustin</FirstName>
+        <LastName>Hoffman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Katharine</FirstName>
+        <LastName>Ross</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Daniels (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Murray</FirstName>
+        <LastName>Hamilton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Elizabeth</FirstName>
+        <LastName>Wilson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Buck</FirstName>
+        <LastName>Henry</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brian</FirstName>
+        <LastName>Avery (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Walter</FirstName>
+        <LastName>Brooke</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Norman</FirstName>
+        <LastName>Fell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alice</FirstName>
+        <LastName>Ghostley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marion</FirstName>
+        <LastName>Lorne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eddra</FirstName>
+        <LastName>Gale</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

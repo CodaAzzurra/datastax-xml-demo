@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Little Big Man</Title>
+    <Year>1970</Year>
+    <Directed_By>
+      <Director>Arthur Penn</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>Western</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Dustin</FirstName>
+        <LastName>Hoffman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Faye</FirstName>
+        <LastName>Dunaway</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Chief</FirstName>
+        <LastName>Dan George</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Martin</FirstName>
+        <LastName>Balsam</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Mulligan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeff</FirstName>
+        <LastName>Corey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Aimée</FirstName>
+        <LastName>Eccles</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kelly</FirstName>
+        <LastName>Jean Peters</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Carole</FirstName>
+        <LastName>Androsky</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Little Star</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cal</FirstName>
+        <LastName>Bellini</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ruben</FirstName>
+        <LastName>Moreno</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Shemayne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Hickey (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Anderson (I)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

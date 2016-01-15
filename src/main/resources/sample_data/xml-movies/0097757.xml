@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Little Mermaid, The</Title>
+    <Year>1989</Year>
+    <Directed_By>
+      <Director>Ron Clements</Director>
+      <Director>John Musker</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Animation</Genre>
+      <Genre>Children's</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Musical</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Alaskey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rene</FirstName>
+        <LastName>Auberjonois</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christopher</FirstName>
+        <LastName>Daniel Barnes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jodi</FirstName>
+        <LastName>Benson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hamilton</FirstName>
+        <LastName>Camp</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pat</FirstName>
+        <LastName>Carroll</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nancy</FirstName>
+        <LastName>Cartwright</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paddi</FirstName>
+        <LastName>Edwards</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gerrit</FirstName>
+        <LastName>Graham</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Buddy</FirstName>
+        <LastName>Hackett</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anne</FirstName>
+        <LastName>Lockhart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jason</FirstName>
+        <LastName>Marin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kenneth</FirstName>
+        <LastName>Mars</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edie</FirstName>
+        <LastName>McClurg</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Will</FirstName>
+        <LastName>Ryan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Weil</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ben</FirstName>
+        <LastName>Wright (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Samuel</FirstName>
+        <LastName>E. Wright</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Grease</Title>
+    <Year>1978</Year>
+    <Directed_By>
+      <Director>Randal Kleiser</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Musical</Genre>
+      <Genre>Romance</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Travolta</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Olivia</FirstName>
+        <LastName>Newton-John</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stockard</FirstName>
+        <LastName>Channing</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jeff</FirstName>
+        <LastName>Conaway</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Barry</FirstName>
+        <LastName>Pearl</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Michael</FirstName>
+        <LastName>Tucci</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kelly</FirstName>
+        <LastName>Ward</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Didi</FirstName>
+        <LastName>Conn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jamie</FirstName>
+        <LastName>Donnelly (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dinah</FirstName>
+        <LastName>Manoff</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eve</FirstName>
+        <LastName>Arden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frankie</FirstName>
+        <LastName>Avalon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joan</FirstName>
+        <LastName>Blondell</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edd</FirstName>
+        <LastName>Byrnes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sid</FirstName>
+        <LastName>Caesar</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

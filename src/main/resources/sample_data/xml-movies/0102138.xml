@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>JFK</Title>
+    <Year>1991</Year>
+    <Directed_By>
+      <Director>Oliver Stone</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Mystery</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Sally</FirstName>
+        <LastName>Kirkland</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gary</FirstName>
+        <LastName>Taggart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anthony</FirstName>
+        <LastName>Ramirez (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ray</FirstName>
+        <LastName>LePere</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Reed</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jodie</FirstName>
+        <LastName>Farber</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Columbia</FirstName>
+        <LastName>Dubose</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Randy</FirstName>
+        <LastName>Means</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Costner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jay</FirstName>
+        <LastName>O. Sanders</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>E.J.</FirstName>
+        <LastName>Morris</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cheryl</FirstName>
+        <LastName>Penland</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Gough</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Perry</FirstName>
+        <LastName>R. Russo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mike</FirstName>
+        <LastName>Longman</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Crocodile Dundee</Title>
+    <Year>1986</Year>
+    <Directed_By>
+      <Director>Peter Faiman</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Adventure</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Hogan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Linda</FirstName>
+        <LastName>Kozlowski</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Meillon</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Gulpilil</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ritchie</FirstName>
+        <LastName>Singer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maggie</FirstName>
+        <LastName>Blinco</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steve</FirstName>
+        <LastName>Rackman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gerry</FirstName>
+        <LastName>Skilton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Terry</FirstName>
+        <LastName>Gill</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Turnbull</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christine</FirstName>
+        <LastName>Totos</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Graham</FirstName>
+        <LastName>'Grace' Walker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Bracks</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brett</FirstName>
+        <LastName>Hogan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mark</FirstName>
+        <LastName>Blum</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

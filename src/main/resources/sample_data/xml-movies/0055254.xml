@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>One Hundred and One Dalmatians</Title>
+    <Year>1961</Year>
+    <Directed_By>
+      <Director>Clyde Geronimi</Director>
+      <Director>Hamilton Luske</Director>
+      <Director></Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Animation</Genre>
+      <Genre>Children's</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Rod</FirstName>
+        <LastName>Taylor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Betty</FirstName>
+        <LastName>Lou Gerson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cate</FirstName>
+        <LastName>Bauer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lisa</FirstName>
+        <LastName>Daniels</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ben</FirstName>
+        <LastName>Wright (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Frederick</FirstName>
+        <LastName>Worlock</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lisa</FirstName>
+        <LastName>Davis (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Martha</FirstName>
+        <LastName>Wentworth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>J.</FirstName>
+        <LastName>Pat O'Malley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tudor</FirstName>
+        <LastName>Owen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tom</FirstName>
+        <LastName>Conway (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Pelling</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Thurl</FirstName>
+        <LastName>Ravenscroft</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Frankham</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ramsay</FirstName>
+        <LastName>Hill</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

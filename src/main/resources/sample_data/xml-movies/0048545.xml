@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Rebel Without a Cause</Title>
+    <Year>1955</Year>
+    <Directed_By>
+      <Director>Nicholas Ray</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Dean</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Natalie</FirstName>
+        <LastName>Wood</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sal</FirstName>
+        <LastName>Mineo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Backus</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ann</FirstName>
+        <LastName>Doran</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Corey</FirstName>
+        <LastName>Allen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Hopper (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rochelle</FirstName>
+        <LastName>Hudson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dennis</FirstName>
+        <LastName>Hopper</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edward</FirstName>
+        <LastName>Platt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Steffi</FirstName>
+        <LastName>Sidney</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marietta</FirstName>
+        <LastName>Canty</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Virginia</FirstName>
+        <LastName>Brissac</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Beverly</FirstName>
+        <LastName>Long</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ian</FirstName>
+        <LastName>Wolfe</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

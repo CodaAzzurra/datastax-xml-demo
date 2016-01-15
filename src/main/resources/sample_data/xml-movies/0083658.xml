@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Blade Runner</Title>
+    <Year>1982</Year>
+    <Directed_By>
+      <Director>Ridley Scott</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Film-Noir</Genre>
+      <Genre>Sci-Fi</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Harrison</FirstName>
+        <LastName>Ford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rutger</FirstName>
+        <LastName>Hauer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sean</FirstName>
+        <LastName>Young</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edward</FirstName>
+        <LastName>James Olmos</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>M.</FirstName>
+        <LastName>Emmet Walsh</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daryl</FirstName>
+        <LastName>Hannah</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Sanderson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Brion</FirstName>
+        <LastName>James</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joe</FirstName>
+        <LastName>Turkel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joanna</FirstName>
+        <LastName>Cassidy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>James</FirstName>
+        <LastName>Hong</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Morgan</FirstName>
+        <LastName>Paull</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Thompson (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Edward Allen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hy</FirstName>
+        <LastName>Pyke</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

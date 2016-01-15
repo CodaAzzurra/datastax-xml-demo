@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Wild Bunch, The</Title>
+    <Year>1969</Year>
+    <Directed_By>
+      <Director>Sam Peckinpah</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Action</Genre>
+      <Genre>Drama</Genre>
+      <Genre>Western</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>William</FirstName>
+        <LastName>Holden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ernest</FirstName>
+        <LastName>Borgnine</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robert</FirstName>
+        <LastName>Ryan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edmond</FirstName>
+        <LastName>O'Brien</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Warren</FirstName>
+        <LastName>Oates</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jaime</FirstName>
+        <LastName>Sánchez</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ben</FirstName>
+        <LastName>Johnson (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Emilio</FirstName>
+        <LastName>Fernández</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Strother</FirstName>
+        <LastName>Martin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>L.Q.</FirstName>
+        <LastName>Jones</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Albert</FirstName>
+        <LastName>Dekker</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bo</FirstName>
+        <LastName>Hopkins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dub</FirstName>
+        <LastName>Taylor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Paul</FirstName>
+        <LastName>Harper</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jorge</FirstName>
+        <LastName>Russek</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

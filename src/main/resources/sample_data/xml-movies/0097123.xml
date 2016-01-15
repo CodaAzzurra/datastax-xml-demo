@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Crimes and Misdemeanors</Title>
+    <Year>1989</Year>
+    <Directed_By>
+      <Director>Woody Allen</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Comedy</Genre>
+      <Genre>Drama</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Bill</FirstName>
+        <LastName>Bernstein</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Martin</FirstName>
+        <LastName>Landau</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Claire</FirstName>
+        <LastName>Bloom</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stephanie</FirstName>
+        <LastName>Roth</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gregg</FirstName>
+        <LastName>Edelman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Mason</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Anjelica</FirstName>
+        <LastName>Huston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Woody</FirstName>
+        <LastName>Allen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jenny</FirstName>
+        <LastName>Nichols</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joanna</FirstName>
+        <LastName>Gleason</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Alan</FirstName>
+        <LastName>Alda</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sam</FirstName>
+        <LastName>Waterston</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Zina</FirstName>
+        <LastName>Jasper</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dolores</FirstName>
+        <LastName>Sutton</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joel</FirstName>
+        <LastName>Fogel</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Hook</Title>
+    <Year>1991</Year>
+    <Directed_By>
+      <Director>Steven Spielberg</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Adventure</Genre>
+      <Genre>Fantasy</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Dustin</FirstName>
+        <LastName>Hoffman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Robin</FirstName>
+        <LastName>Williams</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Julia</FirstName>
+        <LastName>Roberts</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bob</FirstName>
+        <LastName>Hoskins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maggie</FirstName>
+        <LastName>Smith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Caroline</FirstName>
+        <LastName>Goodall</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Charlie</FirstName>
+        <LastName>Korsmo</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Amber</FirstName>
+        <LastName>Scott</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laurel</FirstName>
+        <LastName>Cronin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Phil</FirstName>
+        <LastName>Collins</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arthur</FirstName>
+        <LastName>Malet</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Isiah</FirstName>
+        <LastName>Robinson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jasen</FirstName>
+        <LastName>Fisher</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dante</FirstName>
+        <LastName>Basco</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Raushan</FirstName>
+        <LastName>Hammond</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

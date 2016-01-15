@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Rashomon</Title>
+    <Year>1950</Year>
+    <Directed_By>
+      <Director>Akira Kurosawa</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Drama</Genre>
+      <Genre>Mystery</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Toshirô</FirstName>
+        <LastName>Mifune</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Machiko</FirstName>
+        <LastName>Kyô</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Masayuki</FirstName>
+        <LastName>Mori (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Takashi</FirstName>
+        <LastName>Shimura</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Minoru</FirstName>
+        <LastName>Chiaki</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kichijiro</FirstName>
+        <LastName>Ueda</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fumiko</FirstName>
+        <LastName>Honma</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Daisuke</FirstName>
+        <LastName>Katô</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

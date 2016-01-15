@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Rebecca</Title>
+    <Year>1940</Year>
+    <Directed_By>
+      <Director>Alfred Hitchcock</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Romance</Genre>
+      <Genre>Thriller</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Laurence</FirstName>
+        <LastName>Olivier</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joan</FirstName>
+        <LastName>Fontaine</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>George</FirstName>
+        <LastName>Sanders</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Judith</FirstName>
+        <LastName>Anderson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Gladys</FirstName>
+        <LastName>Cooper</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nigel</FirstName>
+        <LastName>Bruce</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Reginald</FirstName>
+        <LastName>Denny</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>C.</FirstName>
+        <LastName>Aubrey Smith</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Melville</FirstName>
+        <LastName>Cooper</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Florence</FirstName>
+        <LastName>Bates</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leonard</FirstName>
+        <LastName>Carey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Leo</FirstName>
+        <LastName>G. Carroll</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Edward</FirstName>
+        <LastName>Fielding</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lumsden</FirstName>
+        <LastName>Hare</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Forrester</FirstName>
+        <LastName>Harvey</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

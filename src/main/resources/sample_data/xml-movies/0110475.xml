@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Mask, The</Title>
+    <Year>1994</Year>
+    <Directed_By>
+      <Director>Chuck Russell</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Fantasy</Genre>
+      <Genre>Action</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Crime</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Carrey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Riegert</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Greene (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Amy</FirstName>
+        <LastName>Yasbeck</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard</FirstName>
+        <LastName>Jeni</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Orestes</FirstName>
+        <LastName>Matacena</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Timothy</FirstName>
+        <LastName>Bagley</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Nancy</FirstName>
+        <LastName>Fish</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Johnny</FirstName>
+        <LastName>Williams (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Reg</FirstName>
+        <LastName>E. Cathey</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Doughan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Denis</FirstName>
+        <LastName>Forest</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cameron</FirstName>
+        <LastName>Diaz</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Joseph</FirstName>
+        <LastName>Alfieri</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>B.J.</FirstName>
+        <LastName>Barie</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>

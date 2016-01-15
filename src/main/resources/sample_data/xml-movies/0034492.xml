@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--                                                                -->
+<!--   W4F: Copyright Arnaud Sahuguet and Fabien Azavant, 1998-99   -->
+<!--   URL: http://db.cis.upenn.edu/W4F                             -->
+<!--                                                                -->
+<!DOCTYPE W4F_DOC  SYSTEM "movies.dtd">
+<W4F_DOC>
+  <Movie>
+    <Title>Bambi</Title>
+    <Year>1942</Year>
+    <Directed_By>
+      <Director>David Hand</Director>
+    </Directed_By>
+    <Genres>
+      <Genre>Animation</Genre>
+      <Genre>Children's</Genre>
+      <Genre>(more)</Genre>
+    </Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Hardie</FirstName>
+        <LastName>Albright</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stan</FirstName>
+        <LastName>Alexander</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Behn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tim</FirstName>
+        <LastName>Davis</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Donnie</FirstName>
+        <LastName>Dunagan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ann</FirstName>
+        <LastName>Gillis (I)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sterling</FirstName>
+        <LastName>Holloway</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Cammie</FirstName>
+        <LastName>King</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Fred</FirstName>
+        <LastName>Shields</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bobby</FirstName>
+        <LastName>Stewart (II)</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Sutherland (IV)</LastName>
+      </Actor>
+    </Cast>
+  </Movie>
+</W4F_DOC>
