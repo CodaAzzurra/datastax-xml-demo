@@ -3,7 +3,6 @@ package com.datastax.demo.xml.webservice;
 import java.util.List;
 
 import com.datastax.demo.xml.VehicleDao;
-import com.datastax.demo.xml.model.Vehicle;
 import com.github.davidmoten.geo.LatLong;
 
 public class TaxiService {

@@ -14,7 +14,6 @@ import javax.ws.rs.core.Response;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.datastax.demo.xml.model.Vehicle;
 import com.github.davidmoten.geo.LatLong;
 
 @WebService
