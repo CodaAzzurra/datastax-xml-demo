@@ -1,19 +1,17 @@
 package com.datastax.demo.xml.model;
 
-import com.github.davidmoten.geo.LatLong;
-
-import java.util.Arrays;
-import java.util.Date;
+import java.util.List;
 
 public class Movie
 {
 	private String title;
 	private int year;
-	private String[] directedBy;
-	private String[] genres;
-	private Actor[] cast;
+	private List<String> directedBy;
+	private List<String> genres;
+	private List<Actor> cast;
+	private String sourceXml;
 
-	public Movie(String title, int year, String[] directedBy, String[] genres, Actor[] cast)
+	public Movie(String title, int year, List<String> directedBy, List<String> genres, List<Actor> cast, String sourceXml)
 	{
 		super();
 		this.title = title;
@@ -21,26 +19,29 @@ public class Movie
 		this.directedBy = directedBy;
 		this.genres = genres;
 		this.cast = cast;
+		this.sourceXml = sourceXml;
 	}
 
 	public String getTitle() { return title; }
 
 	public int getYear() { return year; }
 
-	public String[] getDirectedBy() { return directedBy; }
+	public List<String> getDirectedBy() { return directedBy; }
 
-	public String[] getGenres() { return genres; }
+	public List<String> getGenres() { return genres; }
 
-	public Actor[] getCast() { return cast; }
+	public List<Actor> getCast() { return cast; }
+
+	public String getSourceXml() { return sourceXml; }
 
 	@Override
 	public String toString()
 	{
 		return "Movie{title=" + title
 				+ ", year=" + year
-				+ ", directedBy=" + Arrays.toString(directedBy)
-				+ ", genres=" + Arrays.toString(genres)
-				+ ", cast=" + Arrays.toString(cast)
+				+ ", directedBy=" + directedBy
+				+ ", genres=" + genres
+				+ ", cast=" + cast
 				+ "}";
 	}
 

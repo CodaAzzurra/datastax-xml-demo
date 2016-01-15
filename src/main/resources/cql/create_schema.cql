@@ -12,9 +12,10 @@ CREATE TYPE IF NOT EXISTS actor
 CREATE TABLE IF NOT EXISTS movies(
 	title text,
 	year int,
-	directed_by set<text>,
-	genres set<text>,
+	directed_by list<text>,
+	genres list<text>,
 	cast list<actor>,
+	source_xml text,
 	PRIMARY KEY ((title, year))
 ) WITH compaction = { 'class' :  'LeveledCompactionStrategy' };
 

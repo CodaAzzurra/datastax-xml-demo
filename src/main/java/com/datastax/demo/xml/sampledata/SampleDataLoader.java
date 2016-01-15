@@ -1,5 +1,6 @@
 package com.datastax.demo.xml.sampledata;
 
+import com.datastax.demo.xml.dao.MovieDao;
 import com.datastax.demo.xml.model.Actor;
 import com.datastax.demo.xml.model.Movie;
 import org.slf4j.Logger;
@@ -10,7 +11,6 @@ import javax.xml.stream.XMLStreamConstants;
 import javax.xml.stream.XMLStreamException;
 import javax.xml.stream.XMLStreamReader;
 import java.io.File;
-import java.util.ArrayList;
 
 public class SampleDataLoader
 {
@@ -38,6 +38,8 @@ public class SampleDataLoader
 
 	private void execute() throws XMLStreamException
 	{
+		MovieDao dao = MovieDao.build();
+
 		File moviesDir = new File(XML_MOVIES_DIR_PATH);
 		File[] movieFiles = moviesDir.listFiles();
 
@@ -53,11 +55,9 @@ public class SampleDataLoader
 
 				if (movie != null)
 				{
-					movieList.add(movie);
+					dao.insertMovieAsync(movie);
 				}
 			}
-
-
 		}
 	}
 
@@ -74,7 +74,7 @@ public class SampleDataLoader
 			reader = factory.createXMLStreamReader(
 					ClassLoader.getSystemResourceAsStream(movieFilePath));
 
-			while (reader.hasNext())
+			while (reader.hasNext() && movie == null)
 			{
 				int event = reader.next();
 
@@ -107,6 +107,13 @@ public class SampleDataLoader
 					{
 						logger.debug(String.format("END_ELEMENT: %s", reader.getLocalName()));
 					}
+					break;
+
+					default:
+					{
+						logger.warn(String.format("Unexpected event: %d", event));
+					}
+					break;
 				}
 			}
 		}
@@ -137,12 +144,12 @@ public class SampleDataLoader
 			{
 				case XMLStreamConstants.START_ELEMENT:
 				{
-					if (W4F_DOC.equals(reader.getLocalName()))
+
 				}
 			}
 		}
 
-		Movie movie = new Movie(title, year, directedBy, genres, cast);
+		//Movie movie = new Movie(title, year, directedBy, genres, cast);
 		return null;
 	}
 
