@@ -10,7 +10,7 @@ To specify contact points use the `contactPoints` command line parameter. The va
 
 To create the schema, run:
 
-	mvn clean compile exec:java -Dexec.mainClass="com.datastax.demo.SchemaSetup" -DcontactPoints=localhost
+	mvn clean compile exec:java -Dexec.mainClass=com.datastax.demo.schema.SchemaSetup -DcontactPoints=localhost
 
 #### Solr Core
 
