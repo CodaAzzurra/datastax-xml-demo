@@ -11,6 +11,8 @@ import javax.xml.stream.XMLStreamConstants;
 import javax.xml.stream.XMLStreamException;
 import javax.xml.stream.XMLStreamReader;
 import java.io.File;
+import java.util.List;
+import java.util.NoSuchElementException;
 
 public class SampleDataLoader
 {
@@ -51,7 +53,7 @@ public class SampleDataLoader
 		{
 			for (File movieFile : movieFiles)
 			{
-				Movie movie = parseMovieFile(movieFile.getPath());
+				Movie movie = parseMovieFile(movieFile);
 
 				if (movie != null)
 				{
@@ -61,9 +63,9 @@ public class SampleDataLoader
 		}
 	}
 
-	private Movie parseMovieFile(String movieFilePath) throws XMLStreamException
+	private Movie parseMovieFile(File movieFile) throws XMLStreamException
 	{
-		logger.debug(String.format("Parsing movie file: %s", movieFilePath));
+		logger.debug(String.format("Parsing movie file: %s", movieFile));
 
 		XMLStreamReader reader = null;
 		Movie movie = null;
@@ -73,6 +75,8 @@ public class SampleDataLoader
 			XMLInputFactory factory = XMLInputFactory.newInstance();
 			reader = factory.createXMLStreamReader(
 					ClassLoader.getSystemResourceAsStream(movieFilePath));
+
+			// start document, parse to Movie tag
 
 			while (reader.hasNext() && movie == null)
 			{
@@ -132,25 +136,78 @@ public class SampleDataLoader
 	{
 		String title = null;
 		int year = 1;
-		String[] directedBy = null;
-		String[] genres = null;
-		Actor[] cast = null;
+		List<String> directedBy = null;
+		List<String> genres = null;
+		List<Actor> cast = null;
+
+		StringBuilder elementChars;
+		int event = reader.next();
+		assert (XMLStreamConstants.START_ELEMENT == event && MOVIE.equals(reader.getLocalName()));
 
 		while (reader.hasNext())
 		{
-			int event = reader.next();
+			event = reader.next();
 
 			switch (event)
 			{
 				case XMLStreamConstants.START_ELEMENT:
 				{
+					logger.debug(String.format("START_ELEMENT: %s", reader.getLocalName()));
 
+					if (TITLE.equals(reader.getLocalName()))
+					{
+						title = parseCharacters(reader);
+					}
 				}
+				break;
+
+				default:
+				{
+					logger.warn(String.format("Unexpected event: %d", event));
+				}
+				break;
 			}
 		}
 
-		//Movie movie = new Movie(title, year, directedBy, genres, cast);
-		return null;
+		Movie movie = new Movie(title, year, directedBy, genres, cast);
+		return movie;
+	}
+
+	private String parseCharacters(XMLStreamReader reader) throws XMLStreamException
+	{
+		boolean working = true;
+		StringBuilder sb = new StringBuilder();
+
+		while (working && reader.hasNext())
+		{
+			int event = reader.next();
+
+			switch (event)
+			{
+				case XMLStreamConstants.CHARACTERS:
+				{
+					logger.debug(String.format("CHARACTERS: %s", reader.getLocalName()));
+					sb.append(reader.getText());
+				}
+				break;
+
+				case XMLStreamConstants.END_ELEMENT:
+				{
+					logger.debug(String.format("END_ELEMENT: %s", reader.getLocalName()));
+					working = false;
+				}
+				break;
+
+				default:
+				{
+					logger.warn(String.format("Unexpected event: %d", event));
+					working = false;
+				}
+				break;
+			}
+		}
+
+		return sb.toString();
 	}
 
 	/*
