@@ -11,10 +11,14 @@ To specify contact points use the `contactPoints` command line parameter. The va
 To create the schema, run:
 
 	mvn clean compile exec:java -Dexec.mainClass=com.datastax.demo.schema.SchemaSetup -DcontactPoints=localhost
+	
+To remove the schema, run:
+
+	mvn clean compile exec:java -Dexec.mainClass=com.datastax.demo.schema.SchemaTeardown -DcontactPoints=localhost
 
 #### Solr Core
 
-To create the solr core, run:
+TODO To create the solr core, run:
 
 	dsetool create_core datastax_taxi_app.current_location reindex=true coreOptions=src/main/resources/solr/rt.yaml schema=src/main/resources/solr/geo.xml solrconfig=src/main/resources/solr/solrconfig.xml
 

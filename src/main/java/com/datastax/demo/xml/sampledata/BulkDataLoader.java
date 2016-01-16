@@ -35,7 +35,8 @@ public class BulkDataLoader
 		}
 		else
 		{
-			for (File movieFile : movieFiles)
+			//TODO for (File movieFile : movieFiles)
+			File movieFile = movieFiles[1]; //DEBUG ONLY
 			{
 				BooleanResult br = shouldParseXmlMovieFile(movieFile);
 
