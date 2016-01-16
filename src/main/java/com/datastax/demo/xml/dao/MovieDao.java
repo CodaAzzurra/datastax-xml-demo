@@ -6,6 +6,7 @@ import com.datastax.demo.xml.model.Movie;
 import com.datastax.driver.core.*;
 import com.datastax.driver.core.policies.DCAwareRoundRobinPolicy;
 import com.datastax.driver.core.policies.TokenAwarePolicy;
+import com.google.common.collect.ImmutableList;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -24,6 +25,7 @@ public class MovieDao
 
 	private static final String KEYSPACE = "datastax_xml_demo";
 	private static final String MOVIES_TABLE = KEYSPACE + ".movies";
+	private static final String ACTOR_UDT = "actor";
 
 	private static final String TITLE = "title";
 	private static final String YEAR = "year";
@@ -47,6 +49,8 @@ public class MovieDao
 	private PreparedStatement insertMoviePrep;
 	private PreparedStatement selectMoviePrep;
 
+	private UserType actorUDT;
+
 	public MovieDao(String[] contactPoints)
 	{
 		super();
@@ -55,21 +59,32 @@ public class MovieDao
 
 	public ResultSetFuture insertMovieAsync(Movie movie)
 	{
-		BoundStatement bound = insertMoviePrep.bind();
-		bound.setString(TITLE, movie.getTitle());
-		bound.setInt(YEAR, movie.getYear());
-		bound.setList(DIRECTED_BY, movie.getDirectedBy());
-		bound.setList(GENRES, movie.getGenres());
-		bound.setList(CAST, movie.getCast());
+		BoundStatement bound = insertMoviePrep.bind()
+				.setString(TITLE, movie.getTitle())
+				.setInt(YEAR, movie.getYear())
+				.setList(DIRECTED_BY, movie.getDirectedBy())
+				.setList(GENRES, movie.getGenres());
+
+		List<UDTValue> actorUdtValues = new ArrayList<>();
+
+		for (Actor actor : movie.getCast())
+		{
+			UDTValue actorUdtValue = actorUDT.newValue()
+					.setString(ACTOR_FIRST_NAME, actor.getFirstName())
+					.setString(ACTOR_LAST_NAME, actor.getLastName());
+			actorUdtValues.add(actorUdtValue);
+		}
+
+		bound.setList(CAST, actorUdtValues);
 		bound.setBytes(SOURCE_BYTES, ByteBuffer.wrap(movie.getSourceBytes()));
 		return session.executeAsync(bound);
 	}
 
 	public Movie selectMovie(String title, int year)
 	{
-		BoundStatement bound = selectMoviePrep.bind();
-		bound.setString(0, title);
-		bound.setInt(1, year);
+		BoundStatement bound = selectMoviePrep.bind()
+				.setString(0, title)
+				.setInt(1, year);
 
 		ResultSet resultSet = session.execute(bound);
 		Row row = resultSet.one();
@@ -162,11 +177,14 @@ public class MovieDao
 	{
 		logger.debug(String.format("Preparing MovieDao with contact points: %s.", Arrays.toString(contactPoints)));
 		Cluster cluster = Cluster.builder()
-								 .withLoadBalancingPolicy(new TokenAwarePolicy(new DCAwareRoundRobinPolicy()))
-								 .addContactPoints(contactPoints).build();
+				.withLoadBalancingPolicy(new TokenAwarePolicy(new DCAwareRoundRobinPolicy()))
+				.addContactPoints(contactPoints).build();
 		session = cluster.connect();
+
 		insertMoviePrep = session.prepare(INSERT_MOVIE);
 		selectMoviePrep = session.prepare(SELECT_MOVIE);
+
+		actorUDT = session.getCluster().getMetadata().getKeyspace(KEYSPACE).getUserType(ACTOR_UDT);
 	}
 
 	public static MovieDao build()

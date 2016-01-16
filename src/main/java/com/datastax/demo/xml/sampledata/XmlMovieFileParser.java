@@ -8,6 +8,7 @@ import org.apache.commons.io.FilenameUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.w3c.dom.Document;
+import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.InputSource;
@@ -16,16 +17,16 @@ import org.xml.sax.SAXException;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
-import java.io.ByteArrayInputStream;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
+import javax.xml.transform.TransformerException;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
 public class XmlMovieFileParser
 {
 	private static final Logger logger = LoggerFactory.getLogger(XmlMovieFileParser.class);
+
+	private static final String ENCODING = "ISO-8859-1";
 
 	private static final String W4F_DOC = "W4F_DOC";
 	private static final String MOVIE = "Movie";
@@ -52,13 +53,9 @@ public class XmlMovieFileParser
 	{
 		logger.debug(String.format("Reading movie file: %s", movieFile));
 		byte[] sourceBytes = FileUtils.readFileToByteArray(movieFile);
-		Movie movie = null;
+		Movie movie;
 
-		if (sourceBytes == null || sourceBytes.length == 0)
-		{
-			logger.warn(String.format("Ignoring empty movie file: %s", movieFile));
-		}
-		else
+		try
 		{
 			String dtdName = FilenameUtils.getName(moviesDtdPath);
 
@@ -76,35 +73,41 @@ public class XmlMovieFileParser
 				return is;
 			});
 
-			Document document = builder.parse(new ByteArrayInputStream(sourceBytes));
+			ByteArrayInputStream inputStream = new ByteArrayInputStream(sourceBytes);
+			InputStreamReader reader = new InputStreamReader(inputStream, ENCODING);
+			InputSource inputSource = new InputSource(reader);
+			inputSource.setEncoding(ENCODING);
+			Document document = builder.parse(inputSource);
 
-
-			Node w4fNode = XmlUtils.getNode(W4F_DOC, document.getChildNodes());
-
-			if (w4fNode == null)
+			try
 			{
-				logger.warn(String.format("Invalid movie file. Missing %s node.", W4F_DOC));
+				logger.debug(XmlUtils.nodeToString(document));
 			}
-			else
+			catch (TransformerException te)
 			{
-				Node movieNode = XmlUtils.getNode(MOVIE, w4fNode.getChildNodes());
-
-				if (movieNode == null)
-				{
-					logger.warn(String.format("Invalid movie file. Missing %s node.", MOVIE));
-				}
-				else
-				{
-					logger.debug(String.format("Found Movie node in document. Parsing: %s", movieNode));
-					movie = parseMovieNode(movieNode, sourceBytes);
-				}
+				logger.debug("Unable to debug XML document.", te);
 			}
+
+			Element rootElement = document.getDocumentElement();
+
+			if (!W4F_DOC.equalsIgnoreCase(rootElement.getTagName()))
+			{
+				throw new SAXException(String.format("Invalid movie file. Missing %s element.", W4F_DOC));
+			}
+
+			Element movieElement = getFirstChildElementByTagName(rootElement, MOVIE);
+			movie = parseMovieElement(movieElement, sourceBytes);
+
+		}
+		catch (Exception e)
+		{
+			throw new SAXException("Invalid XML movie file.", e);
 		}
 
 		return movie;
 	}
 
-	private Movie parseMovieNode(Node movieNode, byte[] sourceBytes)
+	private Movie parseMovieElement(Element movieElement, byte[] sourceBytes)
 	{
 		String title = null;
 		Integer year = null;
@@ -112,130 +115,77 @@ public class XmlMovieFileParser
 		List<String> genres = null;
 		List<Actor> cast = null;
 
-		NodeList children = movieNode.getChildNodes();
+		Element titleElement = getFirstChildElementByTagName(movieElement, TITLE);
+		title = titleElement.getTextContent();
 
-		for (int i = 0; i < children.getLength(); i++)
-		{
-			Node child = children.item(i);
+		Element yearElement = getFirstChildElementByTagName(movieElement, YEAR);
+		year = Integer.parseInt(yearElement.getTextContent());
 
-			switch (child.getLocalName())
-			{
-				case TITLE:
-					title = child.getTextContent();
-					break;
+		Element directedByElement = getFirstChildElementByTagName(movieElement, DIRECTED_BY);
+		directedBy = parseDirectedByElement(directedByElement);
 
-				case YEAR:
-					year = Integer.parseInt(child.getTextContent());
-					break;
+		Element genresElement = getFirstChildElementByTagName(movieElement, GENRES);
+		genres = parseGenresElement(genresElement);
 
-				case DIRECTED_BY:
-					directedBy = parseDirectedByNode(child);
-					break;
-
-				case GENRES:
-					genres = parseGenresNode(child);
-					break;
-
-				case CAST:
-					cast = parseCastNode(child);
-					break;
-
-				default:
-					logger.warn(String.format("Encountered unexpected tag: %s.", child.getLocalName()));
-					break;
-			}
-		}
+		Element castElement = getFirstChildElementByTagName(movieElement, CAST);
+		cast = parseCastElement(castElement);
 
 		return new Movie(title, year, directedBy, genres, cast, sourceBytes);
 	}
 
-	private List<String> parseDirectedByNode(Node directedByNode)
+	private List<String> parseDirectedByElement(Element directedByElement)
 	{
 		ArrayList<String> directors = new ArrayList<>();
-		NodeList children = directedByNode.getChildNodes();
+		NodeList directorElements = directedByElement.getElementsByTagName(DIRECTOR);
 
-		for (int i = 0; i < children.getLength(); i++)
+		for (int i = 0; i < directorElements.getLength(); i++)
 		{
-			Node child = children.item(i);
-
-			if (DIRECTOR.equals(child.getLocalName()))
-			{
-				directors.add(child.getTextContent());
-			}
-			else
-			{
-				logger.warn(String.format("Encountered unexpected tag: %s.", child.getLocalName()));
-			}
+			Element directorElement = (Element) directorElements.item(i);
+			directors.add(directorElement.getTextContent());
 		}
 
 		return directors;
 	}
 
-	private List<String> parseGenresNode(Node genresNode)
+	private List<String> parseGenresElement(Element genresElement)
 	{
 		ArrayList<String> genres = new ArrayList<>();
-		NodeList children = genresNode.getChildNodes();
+		NodeList genreElements = genresElement.getElementsByTagName(GENRE);
 
-		for (int i = 0; i < children.getLength(); i++)
+		for (int i = 0; i < genreElements.getLength(); i++)
 		{
-			Node child = children.item(i);
-
-			if (GENRE.equals(child.getLocalName()))
-			{
-				genres.add(child.getTextContent());
-			}
-			else
-			{
-				logger.warn(String.format("Encountered unexpected tag: %s.", child.getLocalName()));
-			}
+			Element genreElement = (Element) genreElements.item(i);
+			genres.add(genreElement.getTextContent());
 		}
 
 		return genres;
 	}
 
-	private List<Actor> parseCastNode(Node castNode)
+	private List<Actor> parseCastElement(Element castElement)
 	{
 		ArrayList<Actor> actors = new ArrayList<>();
-		NodeList castChildren = castNode.getChildNodes();
+		NodeList actorElements = castElement.getElementsByTagName(ACTOR);
 
-		for (int i = 0; i < castChildren.getLength(); i++)
+		for (int i = 0; i < actorElements.getLength(); i++)
 		{
-			Node castChild = castChildren.item(i);
+			Element actorElement = (Element) actorElements.item(i);
 
-			if (ACTOR.equals(castChild.getLocalName()))
-			{
-				String firstName = null;
-				String lastName = null;
-				NodeList actorChildren = castChild.getChildNodes();
+			Element firstNameElement = getFirstChildElementByTagName(actorElement, FIRST_NAME);
+			String firstName = firstNameElement.getTextContent();
 
-				for (int j = 0; j < actorChildren.getLength(); j++)
-				{
+			Element lastNameElement = getFirstChildElementByTagName(actorElement, LAST_NAME);
+			String lastName = lastNameElement.getTextContent();
 
-					Node actorChild = actorChildren.item(i);
-
-					if (FIRST_NAME.equals(actorChild.getLocalName()))
-					{
-						firstName = actorChild.getTextContent();
-					}
-					else if (LAST_NAME.equals(actorChild.getLocalName()))
-					{
-						lastName = actorChild.getTextContent();
-					}
-					else
-					{
-						logger.warn(String.format("Encountered unexpected tag: %s.", actorChild.getLocalName()));
-					}
-				}
-
-				Actor actor = new Actor(firstName, lastName);
-				actors.add(actor);
-			}
-			else
-			{
-				logger.warn(String.format("Encountered unexpected tag: %s.", castChild.getLocalName()));
-			}
+			Actor actor = new Actor(firstName, lastName);
+			actors.add(actor);
 		}
 
 		return actors;
+	}
+
+	private static Element getFirstChildElementByTagName(Element parent, String tagName)
+	{
+		NodeList nodeList = parent.getElementsByTagName(tagName);
+		return (Element) nodeList.item(0);
 	}
 }

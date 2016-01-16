@@ -21,7 +21,7 @@ public class BulkDataLoader
 
 	public BulkDataLoader() { super(); }
 
-	private void execute() throws ParserConfigurationException, SAXException, IOException
+	private void execute()
 	{
 		XmlMovieFileParser parser = new XmlMovieFileParser(String.format("%s/%s", XML_MOVIES_DIR_PATH, MOVIES_DTD));
 		MovieDao dao = MovieDao.build();
@@ -35,19 +35,26 @@ public class BulkDataLoader
 		}
 		else
 		{
-			//TODO for (File movieFile : movieFiles)
-			File movieFile = movieFiles[1]; //DEBUG ONLY
+			for (File movieFile : movieFiles)
 			{
 				BooleanResult br = shouldParseXmlMovieFile(movieFile);
 
 				if (br.result)
 				{
-					Movie movie = parser.parseMovieFile(movieFile);
-
-					if (movie != null)
+					try
 					{
-						logger.debug(String.format("Inserting movie: %s", movie));
-						dao.insertMovieAsync(movie);
+						logger.debug(String.format("Parsing XML movie file: %s", movieFile));
+						Movie movie = parser.parseMovieFile(movieFile);
+
+						if (movie != null)
+						{
+							logger.debug(String.format("Inserting movie: %s", movie));
+							dao.insertMovieAsync(movie);
+						}
+					}
+					catch (Exception e)
+					{
+						logger.warn("Exception loading XML movie.", e);
 					}
 				}
 				else
