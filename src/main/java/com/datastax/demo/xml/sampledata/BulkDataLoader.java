@@ -1,10 +1,12 @@
 package com.datastax.demo.xml.sampledata;
 
-import com.datastax.demo.utils.FileUtils;
 import com.datastax.demo.utils.XmlUtils;
 import com.datastax.demo.xml.dao.MovieDao;
 import com.datastax.demo.xml.model.Actor;
 import com.datastax.demo.xml.model.Movie;
+import org.apache.commons.io.FileUtils;
+import org.apache.commons.io.FilenameUtils;
+import org.apache.commons.lang.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.w3c.dom.Document;
@@ -21,11 +23,12 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class SampleDataLoader
+public class BulkDataLoader
 {
-	private static final Logger logger = LoggerFactory.getLogger(SampleDataLoader.class);
+	private static final Logger logger = LoggerFactory.getLogger(BulkDataLoader.class);
 
-	private static final String XML_MOVIES_DIR_PATH = "sample_data/xml-movies";
+	private static final String XML_MOVIES_DIR_PATH = "src/main/resources/sample_data/xml-movies";
+	private static final String XML = "xml";
 
 	private static final String W4F_DOC = "W4F_DOC";
 	private static final String MOVIE = "Movie";
@@ -40,7 +43,7 @@ public class SampleDataLoader
 	private static final String FIRST_NAME = "FirstName";
 	private static final String LAST_NAME = "LastName";
 
-	public SampleDataLoader()
+	public BulkDataLoader()
 	{
 		super();
 	}
@@ -60,11 +63,20 @@ public class SampleDataLoader
 		{
 			for (File movieFile : movieFiles)
 			{
-				Movie movie = parseMovieFile(movieFile);
+				BooleanResult br = shouldParseXmlMovieFile(movieFile);
 
-				if (movie != null)
+				if (br.result)
 				{
-					dao.insertMovieAsync(movie);
+					Movie movie = parseMovieFile(movieFile);
+
+					if (movie != null)
+					{
+						dao.insertMovieAsync(movie);
+					}
+				}
+				else
+				{
+					logger.warn(br.message);
 				}
 			}
 		}
@@ -72,21 +84,31 @@ public class SampleDataLoader
 
 	private Movie parseMovieFile(File movieFile) throws ParserConfigurationException, IOException, SAXException
 	{
-		logger.debug(String.format("Parsing movie file: %s", movieFile));
-		String sourceXml = FileUtils.readFileIntoString(movieFile);
+		logger.debug(String.format("Reading movie file: %s", movieFile));
+		String sourceXml = FileUtils.readFileToString(movieFile);
+		Movie movie = null;
 
-		DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
-		DocumentBuilder builder = factory.newDocumentBuilder();
-		Document document = builder.parse(new ByteArrayInputStream(sourceXml.getBytes()));
+		if (StringUtils.isBlank(sourceXml))
+		{
+			logger.warn(String.format("Ignoring blank movie file: %s", movieFile));
+		}
+		else
+		{
+			DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+			DocumentBuilder builder = factory.newDocumentBuilder();
+			Document document = builder.parse(new ByteArrayInputStream(sourceXml.getBytes()));
 
-		Node wf4Node = XmlUtils.getNode(W4F_DOC, document.getChildNodes());
-		assert wf4Node != null;
+			Node wf4Node = XmlUtils.getNode(W4F_DOC, document.getChildNodes());
+			assert wf4Node != null;
 
-		Node movieNode = XmlUtils.getNode(MOVIE, wf4Node.getChildNodes());
-		assert movieNode != null;
-		logger.debug("Found Movie node in document. Parsing.");
+			Node movieNode = XmlUtils.getNode(MOVIE, wf4Node.getChildNodes());
+			assert movieNode != null;
+			logger.debug("Found Movie node in document. Parsing.");
 
-		return parseMovieNode(movieNode, sourceXml);
+			movie = parseMovieNode(movieNode, sourceXml);
+		}
+
+		return movie;
 	}
 
 	private Movie parseMovieNode(Node movieNode, String sourceXml)
@@ -147,6 +169,10 @@ public class SampleDataLoader
 			{
 				directors.add(child.getTextContent());
 			}
+			else
+			{
+				logger.warn(String.format("Encountered unexpected tag: %s.", child.getLocalName()));
+			}
 		}
 
 		return directors;
@@ -164,6 +190,10 @@ public class SampleDataLoader
 			if (GENRE.equals(child.getLocalName()))
 			{
 				genres.add(child.getTextContent());
+			}
+			else
+			{
+				logger.warn(String.format("Encountered unexpected tag: %s.", child.getLocalName()));
 			}
 		}
 
@@ -198,14 +228,64 @@ public class SampleDataLoader
 					{
 						lastName = actorChild.getTextContent();
 					}
+					else
+					{
+						logger.warn(String.format("Encountered unexpected tag: %s.", actorChild.getLocalName()));
+					}
 				}
 
 				Actor actor = new Actor(firstName, lastName);
 				actors.add(actor);
 			}
+			else
+			{
+				logger.warn(String.format("Encountered unexpected tag: %s.", castChild.getLocalName()));
+			}
 		}
 
 		return actors;
+	}
+
+	private static BooleanResult shouldParseXmlMovieFile(File movieFile)
+	{
+		BooleanResult br = new BooleanResult();
+
+		if (movieFile.isFile())
+		{
+			if (movieFile.isHidden())
+			{
+				br.result = false;
+				br.message = String.format("Ignoring hidden file: %s", movieFile);
+			}
+			else
+			{
+				String ext = FilenameUtils.getExtension(movieFile.getName());
+
+				if (XML.equalsIgnoreCase(ext))
+				{
+					br.result = true;
+					br.message = null;
+				}
+				else
+				{
+					br.result = false;
+					br.message = String.format("Ignoring file without XML extension: %s", movieFile);
+				}
+			}
+		}
+		else
+		{
+			br.result = false;
+			br.message = String.format("Ignoring directory: %s", movieFile);
+		}
+
+		return br;
+	}
+
+	private static class BooleanResult
+	{
+		public boolean result;
+		public String message;
 	}
 
 	/**
@@ -213,7 +293,7 @@ public class SampleDataLoader
 	 */
 	public static void main(String[] args)
 	{
-		SampleDataLoader loader = new SampleDataLoader();
+		BulkDataLoader loader = new BulkDataLoader();
 
 		try
 		{

@@ -21,7 +21,7 @@ public class MovieDao
 	private static final String LOCALHOST = "localhost";
 	private static final String DELIMITER = ",";
 
-	private static final String KEYSPACE = "datastax-xml-demo";
+	private static final String KEYSPACE = "datastax_xml_demo";
 	private static final String MOVIES_TABLE = KEYSPACE + ".movies";
 
 	private static final String TITLE = "title";

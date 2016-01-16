@@ -18,13 +18,15 @@ To create the solr core, run:
 
 	dsetool create_core datastax_taxi_app.current_location reindex=true coreOptions=src/main/resources/solr/rt.yaml schema=src/main/resources/solr/geo.xml solrconfig=src/main/resources/solr/solrconfig.xml
 
-#### Sample Data
-
-To populate the database with sample data, run:
-
-	mvn clean compile exec:java -Dexec.mainClass="com.datastax.demo.xml.sampledata.SampleDataLoader" -DcontactPoints=localhost
+### Sample Data
 
 Thank you to the Department of Computer Sciences at the University of Wisconsin-Madison for the [XML movie data][niagara].
+
+#### Bulk Load
+
+To bulk load the database with sample data, run:
+
+	mvn clean compile exec:java -Dexec.mainClass="com.datastax.demo.xml.sampledata.BulkDataLoader" -DcontactPoints=localhost
 
 ####
 
