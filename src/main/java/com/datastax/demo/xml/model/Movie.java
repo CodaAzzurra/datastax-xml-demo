@@ -5,13 +5,13 @@ import java.util.List;
 public class Movie
 {
 	private String title;
-	private int year;
+	private Integer year;
 	private List<String> directedBy;
 	private List<String> genres;
 	private List<Actor> cast;
 	private String sourceXml;
 
-	public Movie(String title, int year, List<String> directedBy, List<String> genres, List<Actor> cast, String sourceXml)
+	public Movie(String title, Integer year, List<String> directedBy, List<String> genres, List<Actor> cast, String sourceXml)
 	{
 		super();
 		this.title = title;
@@ -24,7 +24,7 @@ public class Movie
 
 	public String getTitle() { return title; }
 
-	public int getYear() { return year; }
+	public Integer getYear() { return year; }
 
 	public List<String> getDirectedBy() { return directedBy; }
 
