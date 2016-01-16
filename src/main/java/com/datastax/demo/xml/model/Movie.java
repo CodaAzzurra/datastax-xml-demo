@@ -9,9 +9,9 @@ public class Movie
 	private List<String> directedBy;
 	private List<String> genres;
 	private List<Actor> cast;
-	private String sourceXml;
+	private byte[] sourceBytes;
 
-	public Movie(String title, Integer year, List<String> directedBy, List<String> genres, List<Actor> cast, String sourceXml)
+	public Movie(String title, Integer year, List<String> directedBy, List<String> genres, List<Actor> cast, byte[] sourceBytes)
 	{
 		super();
 		this.title = title;
@@ -19,7 +19,7 @@ public class Movie
 		this.directedBy = directedBy;
 		this.genres = genres;
 		this.cast = cast;
-		this.sourceXml = sourceXml;
+		this.sourceBytes = sourceBytes;
 	}
 
 	public String getTitle() { return title; }
@@ -32,7 +32,7 @@ public class Movie
 
 	public List<Actor> getCast() { return cast; }
 
-	public String getSourceXml() { return sourceXml; }
+	public byte[] getSourceBytes() { return sourceBytes; }
 
 	@Override
 	public String toString()
@@ -44,5 +44,4 @@ public class Movie
 				+ ", cast=" + cast
 				+ "}";
 	}
-
 }

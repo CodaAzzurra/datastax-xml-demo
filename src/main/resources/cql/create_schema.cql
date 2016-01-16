@@ -13,7 +13,7 @@ CREATE TABLE IF NOT EXISTS movies(
 	directed_by list<text>,
 	genres list<text>,
 	cast list<frozen <actor>>,
-	source_xml text,
+	source_bytes blob,
 	PRIMARY KEY ((title, year))
 ) WITH compaction = { 'class' :  'LeveledCompactionStrategy' };
 

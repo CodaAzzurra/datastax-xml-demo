@@ -9,6 +9,7 @@ import com.datastax.driver.core.policies.TokenAwarePolicy;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import java.nio.ByteBuffer;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -33,10 +34,10 @@ public class MovieDao
 	private static final String ACTOR_FIRST_NAME = "first_name";
 	private static final String ACTOR_LAST_NAME = "last_name";
 
-	private static final String SOURCE_XML = "source_xml";
+	private static final String SOURCE_BYTES = "source_bytes";
 
 	private static final String INSERT_MOVIE = String.format(
-			"INSERT INTO %s (title, year, directed_by, genres, cast, source_xml) VALUES (?,?,?,?,?,?);", MOVIES_TABLE);
+			"INSERT INTO %s (title, year, directed_by, genres, cast, source_bytes) VALUES (?,?,?,?,?,?);", MOVIES_TABLE);
 
 	private static final String SELECT_MOVIE = String.format(
 			"SELECT title, year, directed_by, genres, cast FROM %s WHERE title = ? and year = ?", MOVIES_TABLE);
@@ -60,6 +61,7 @@ public class MovieDao
 		bound.setList(DIRECTED_BY, movie.getDirectedBy());
 		bound.setList(GENRES, movie.getGenres());
 		bound.setList(CAST, movie.getCast());
+		bound.setBytes(SOURCE_BYTES, ByteBuffer.wrap(movie.getSourceBytes()));
 		return session.executeAsync(bound);
 	}
 
@@ -91,9 +93,8 @@ public class MovieDao
 				actors.add(actor);
 			}
 
-			String sourceXml = row.getString(SOURCE_XML);
-
-			movie = new Movie(rTitle, rYear, directedBy, genres, actors, sourceXml);
+			ByteBuffer sourceByteBuffer = row.getBytes(SOURCE_BYTES);
+			movie = new Movie(rTitle, rYear, directedBy, genres, actors, sourceByteBuffer.array());
 		}
 
 		return movie;
