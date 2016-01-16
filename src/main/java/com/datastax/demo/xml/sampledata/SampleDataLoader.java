@@ -1,18 +1,25 @@
 package com.datastax.demo.xml.sampledata;
 
+import com.datastax.demo.utils.FileUtils;
+import com.datastax.demo.utils.XmlUtils;
 import com.datastax.demo.xml.dao.MovieDao;
 import com.datastax.demo.xml.model.Actor;
 import com.datastax.demo.xml.model.Movie;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.w3c.dom.Document;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
+import org.xml.sax.SAXException;
 
-import javax.xml.stream.XMLInputFactory;
-import javax.xml.stream.XMLStreamConstants;
-import javax.xml.stream.XMLStreamException;
-import javax.xml.stream.XMLStreamReader;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.ParserConfigurationException;
+import java.io.ByteArrayInputStream;
 import java.io.File;
+import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
-import java.util.NoSuchElementException;
 
 public class SampleDataLoader
 {
@@ -38,7 +45,7 @@ public class SampleDataLoader
 		super();
 	}
 
-	private void execute() throws XMLStreamException
+	private void execute() throws ParserConfigurationException, SAXException, IOException
 	{
 		MovieDao dao = MovieDao.build();
 
@@ -63,334 +70,143 @@ public class SampleDataLoader
 		}
 	}
 
-	private Movie parseMovieFile(File movieFile) throws XMLStreamException
+	private Movie parseMovieFile(File movieFile) throws ParserConfigurationException, IOException, SAXException
 	{
 		logger.debug(String.format("Parsing movie file: %s", movieFile));
+		String sourceXml = FileUtils.readFileIntoString(movieFile);
 
-		XMLStreamReader reader = null;
-		Movie movie = null;
+		DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+		DocumentBuilder builder = factory.newDocumentBuilder();
+		Document document = builder.parse(new ByteArrayInputStream(sourceXml.getBytes()));
 
-		try
-		{
-			XMLInputFactory factory = XMLInputFactory.newInstance();
-			reader = factory.createXMLStreamReader(
-					ClassLoader.getSystemResourceAsStream(movieFilePath));
+		Node wf4Node = XmlUtils.getNode(W4F_DOC, document.getChildNodes());
+		assert wf4Node != null;
 
-			// start document, parse to Movie tag
+		Node movieNode = XmlUtils.getNode(MOVIE, wf4Node.getChildNodes());
+		assert movieNode != null;
+		logger.debug("Found Movie node in document. Parsing.");
 
-			while (reader.hasNext() && movie == null)
-			{
-				int event = reader.next();
-
-				switch (event)
-				{
-					case XMLStreamConstants.START_DOCUMENT:
-					{
-						logger.debug(String.format("START_DOCUMENT: %s", reader.getLocalName()));
-					}
-					break;
-
-					case XMLStreamConstants.END_DOCUMENT:
-					{
-						logger.debug(String.format("END_DOCUMENT: %s", reader.getLocalName()));
-					}
-					break;
-
-					case XMLStreamConstants.START_ELEMENT:
-					{
-						logger.debug(String.format("START_ELEMENT: %s", reader.getLocalName()));
-
-						if (W4F_DOC.equals(reader.getLocalName()))
-						{
-							movie = parseMovie(reader);
-						}
-					}
-					break;
-
-					case XMLStreamConstants.END_ELEMENT:
-					{
-						logger.debug(String.format("END_ELEMENT: %s", reader.getLocalName()));
-					}
-					break;
-
-					default:
-					{
-						logger.warn(String.format("Unexpected event: %d", event));
-					}
-					break;
-				}
-			}
-		}
-		finally
-		{
-			if (reader != null)
-			{
-				reader.close();
-			}
-		}
-
-		return movie;
+		return parseMovieNode(movieNode, sourceXml);
 	}
 
-	private Movie parseMovie(XMLStreamReader reader) throws XMLStreamException
+	private Movie parseMovieNode(Node movieNode, String sourceXml)
 	{
 		String title = null;
-		int year = 1;
+		Integer year = null;
 		List<String> directedBy = null;
 		List<String> genres = null;
 		List<Actor> cast = null;
 
-		StringBuilder elementChars;
-		int event = reader.next();
-		assert (XMLStreamConstants.START_ELEMENT == event && MOVIE.equals(reader.getLocalName()));
+		NodeList children = movieNode.getChildNodes();
 
-		while (reader.hasNext())
+		for (int i = 0; i < children.getLength(); i++)
 		{
-			event = reader.next();
+			Node child = children.item(i);
 
-			switch (event)
+			switch (child.getLocalName())
 			{
-				case XMLStreamConstants.START_ELEMENT:
-				{
-					logger.debug(String.format("START_ELEMENT: %s", reader.getLocalName()));
+				case TITLE:
+					title = child.getTextContent();
+					break;
 
-					if (TITLE.equals(reader.getLocalName()))
+				case YEAR:
+					year = Integer.parseInt(child.getTextContent());
+					break;
+
+				case DIRECTED_BY:
+					directedBy = parseDirectedByNode(child);
+					break;
+
+				case GENRES:
+					genres = parseGenresNode(child);
+					break;
+
+				case CAST:
+					cast = parseCastNode(child);
+					break;
+
+				default:
+					logger.warn(String.format("Encountered unexpected tag: %s.", child.getLocalName()));
+					break;
+			}
+		}
+
+		return new Movie(title, year, directedBy, genres, cast, sourceXml);
+	}
+
+	private List<String> parseDirectedByNode(Node directedByNode)
+	{
+		ArrayList<String> directors = new ArrayList<>();
+		NodeList children = directedByNode.getChildNodes();
+
+		for (int i = 0; i < children.getLength(); i++)
+		{
+			Node child = children.item(i);
+
+			if (DIRECTOR.equals(child.getLocalName()))
+			{
+				directors.add(child.getTextContent());
+			}
+		}
+
+		return directors;
+	}
+
+	private List<String> parseGenresNode(Node genresNode)
+	{
+		ArrayList<String> genres = new ArrayList<>();
+		NodeList children = genresNode.getChildNodes();
+
+		for (int i = 0; i < children.getLength(); i++)
+		{
+			Node child = children.item(i);
+
+			if (GENRE.equals(child.getLocalName()))
+			{
+				genres.add(child.getTextContent());
+			}
+		}
+
+		return genres;
+	}
+
+	private List<Actor> parseCastNode(Node castNode)
+	{
+		ArrayList<Actor> actors = new ArrayList<>();
+		NodeList castChildren = castNode.getChildNodes();
+
+		for (int i = 0; i < castChildren.getLength(); i++)
+		{
+			Node castChild = castChildren.item(i);
+
+			if (ACTOR.equals(castChild.getLocalName()))
+			{
+				String firstName = null;
+				String lastName = null;
+				NodeList actorChildren = castChild.getChildNodes();
+
+				for (int j = 0; j < actorChildren.getLength(); j++)
+				{
+
+					Node actorChild = actorChildren.item(i);
+
+					if (FIRST_NAME.equals(actorChild.getLocalName()))
 					{
-						title = parseCharacters(reader);
+						firstName = actorChild.getTextContent();
+					}
+					else if (LAST_NAME.equals(actorChild.getLocalName()))
+					{
+						lastName = actorChild.getTextContent();
 					}
 				}
-				break;
 
-				default:
-				{
-					logger.warn(String.format("Unexpected event: %d", event));
-				}
-				break;
+				Actor actor = new Actor(firstName, lastName);
+				actors.add(actor);
 			}
 		}
 
-		Movie movie = new Movie(title, year, directedBy, genres, cast);
-		return movie;
+		return actors;
 	}
-
-	private String parseCharacters(XMLStreamReader reader) throws XMLStreamException
-	{
-		boolean working = true;
-		StringBuilder sb = new StringBuilder();
-
-		while (working && reader.hasNext())
-		{
-			int event = reader.next();
-
-			switch (event)
-			{
-				case XMLStreamConstants.CHARACTERS:
-				{
-					logger.debug(String.format("CHARACTERS: %s", reader.getLocalName()));
-					sb.append(reader.getText());
-				}
-				break;
-
-				case XMLStreamConstants.END_ELEMENT:
-				{
-					logger.debug(String.format("END_ELEMENT: %s", reader.getLocalName()));
-					working = false;
-				}
-				break;
-
-				default:
-				{
-					logger.warn(String.format("Unexpected event: %d", event));
-					working = false;
-				}
-				break;
-			}
-		}
-
-		return sb.toString();
-	}
-
-	/*
-	while(reader.hasNext()){
-19
-      int event = reader.next();
-20
-
-21
-      switch(event){
-22
-        case XMLStreamConstants.START_ELEMENT:
-23
-          if ("employee".equals(reader.getLocalName())){
-24
-            currEmp = new Employee();
-25
-            currEmp.id = reader.getAttributeValue(0);
-26
-          }
-27
-          if("employees".equals(reader.getLocalName())){
-28
-            empList = new ArrayList<>();
-29
-          }
-30
-          break;
-31
-
-32
-        case XMLStreamConstants.CHARACTERS:
-33
-          tagContent = reader.getText().trim();
-34
-          break;
-35
-
-36
-        case XMLStreamConstants.END_ELEMENT:
-37
-          switch(reader.getLocalName()){
-38
-            case "employee":
-39
-              empList.add(currEmp);
-40
-              break;
-41
-            case "firstName":
-42
-              currEmp.firstName = tagContent;
-43
-              break;
-44
-            case "lastName":
-45
-              currEmp.lastName = tagContent;
-46
-              break;
-47
-            case "location":
-48
-              currEmp.location = tagContent;
-49
-              break;
-50
-          }
-51
-          break;
-52
-
-53
-        case XMLStreamConstants.START_DOCUMENT:
-54
-          empList = new ArrayList<>();
-55
-          break;
-56
-      }
-
-	 */
-
-
-//	public SampleDataLoader()
-//	{
-//		String contactPointsStr = PropertyHelper.getProperty("contactPoints", "localhost");
-//		this.dao = new VehicleDao(contactPointsStr.split(","));
-//
-//		Timer timer = new Timer();
-//		timer.start();
-//
-//		logger.info("Creating Locations");
-//		createStartLocations();
-//
-//		while (true)
-//		{
-//			logger.info("Updating Locations");
-//			updateLocations();
-//			sleep(1);
-//		}
-//	}
-//
-//	private void updateLocations()
-//	{
-//		Map<String, LatLong> newLocations = new HashMap<String, LatLong>();
-//
-//		for (int i = 0; i < BATCH; i++)
-//		{
-//			String random = new Double(Math.random() * TOTAL_VEHICLES).intValue() + 1 + "";
-//
-//			LatLong latLong = vehicleLocations.get(random);
-//			LatLong update = update(latLong);
-//			vehicleLocations.put(random, update);
-//			newLocations.put(random, update);
-//		}
-//
-//		dao.insertVehicleLocation(newLocations);
-//	}
-//
-//	private LatLong update(LatLong latLong)
-//	{
-//		double lon = latLong.getLon();
-//		double lat = latLong.getLat();
-//
-//		if (Math.random() < .1)
-//			return latLong;
-//
-//		if (Math.random() < .5)
-//			lon += .0001d;
-//		else
-//			lon -= .0001d;
-//
-//		if (Math.random() < .5)
-//			lat += .0001d;
-//		else
-//			lat -= .0001d;
-//
-//		return new LatLong(lat, lon);
-//	}
-//
-//	private void createStartLocations()
-//	{
-//
-//		for (int i = 0; i < TOTAL_VEHICLES; i++)
-//		{
-//			double lat = getRandomLat();
-//			double lon = getRandomLng();
-//
-//			this.vehicleLocations.put("" + (i + 1), new LatLong(lat, lon));
-//		}
-//	}
-//
-//	/**
-//	 * Between 1 and -1
-//	 *
-//	 * @return
-//	 */
-//	private double getRandomLng()
-//	{
-//		return (Math.random() < .5) ? Math.random() : -1 * Math.random();
-//	}
-//
-//	/**
-//	 * Between 50 and 55
-//	 */
-//	private double getRandomLat()
-//	{
-//
-//		return Math.random() * 5 + 50;
-//	}
-//
-//	private void sleep(int seconds)
-//	{
-//		try
-//		{
-//			Thread.sleep(seconds * 1000);
-//		}
-//		catch (InterruptedException e)
-//		{
-//			e.printStackTrace();
-//		}
-//	}
 
 	/**
 	 * @param args None.
@@ -403,9 +219,9 @@ public class SampleDataLoader
 		{
 			loader.execute();
 		}
-		catch (XMLStreamException xmlse)
+		catch (Exception e)
 		{
-			logger.error("Fatal error loading sample data.", xmlse);
+			logger.error("Fatal error loading sample data.", e);
 		}
 	}
 }
