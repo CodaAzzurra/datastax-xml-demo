@@ -76,12 +76,12 @@ public class MovieDao
 			}
 		}
 
-		Integer yearInteger = movie.getYear();
-		int year = (yearInteger == null) ? 0 : yearInteger.intValue();
+		Integer year = movie.getYear();
+		int yearUnboxed = (year == null) ? Integer.MIN_VALUE : year;
 
 		BoundStatement bound = insertMoviePrep.bind()
 				.setString(TITLE, movie.getTitle())
-				.setInt(YEAR, year)
+				.setInt(YEAR, yearUnboxed)
 				.setList(DIRECTED_BY, movie.getDirectedBy())
 				.setList(GENRES, movie.getGenres())
 				.setList(CAST, actorUdtValues)
