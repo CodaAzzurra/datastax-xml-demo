@@ -43,7 +43,7 @@ public class MovieDao
 			"INSERT INTO %s (title, year, directed_by, genres, cast, source_bytes) VALUES (?,?,?,?,?,?);", MOVIES_TABLE);
 
 	private static final String SELECT_MOVIE = String.format(
-			"SELECT title, year, directed_by, genres, cast FROM %s WHERE title = ? and year = ?", MOVIES_TABLE);
+			"SELECT title, year, directed_by, genres, cast, source_bytes FROM %s WHERE title = ? and year = ?", MOVIES_TABLE);
 
 	private Session session;
 

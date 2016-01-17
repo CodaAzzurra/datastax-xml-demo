@@ -28,7 +28,7 @@ public class MovieWebService
 	}
 
 	@GET
-	@Path("/getMovie/{title}/{year}")
+	@Path("/movie/{title}/{year}")
 	@Produces(MediaType.APPLICATION_JSON)
 	public Response getMovie(@PathParam("title") String title, @PathParam("year") String yearStr)
 	{
