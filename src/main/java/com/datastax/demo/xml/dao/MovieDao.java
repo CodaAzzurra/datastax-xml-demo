@@ -124,6 +124,26 @@ public class MovieDao
 		return movies;
 	}
 
+	public List<Movie> searchByDirector(String director)
+	{
+		String solrQuery = String.format("directed_by:%s", director);
+
+		BoundStatement bound = searchMoviePrep.bind()
+				.setString(0, solrQuery);
+		ResultSet resultSet = session.execute(bound);
+
+		List<Movie> movies = new ArrayList<>();
+		List<Row> rows = resultSet.all();
+
+		for (Row row : rows)
+		{
+			Movie movie = rowToMovie(row);
+			movies.add(movie);
+		}
+
+		return movies;
+	}
+
 	private Movie rowToMovie(Row row)
 	{
 		String rTitle = row.getString(TITLE);
