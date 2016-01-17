@@ -45,10 +45,14 @@ public class MovieDao
 	private static final String SELECT_MOVIE = String.format(
 			"SELECT title, year, directed_by, genres, cast, source_bytes FROM %s WHERE title = ? and year = ?", MOVIES_TABLE);
 
+	private static final String SEARCH_MOVIE = String.format(
+			"SELECT title, year, directed_by, genres, cast, source_bytes FROM %s WHERE solr_query = ?", MOVIES_TABLE);
+
 	private Session session;
 
 	private PreparedStatement insertMoviePrep;
 	private PreparedStatement selectMoviePrep;
+	private PreparedStatement searchMoviePrep;
 
 	private UserType actorUDT;
 
@@ -95,39 +99,51 @@ public class MovieDao
 		BoundStatement bound = selectMoviePrep.bind()
 				.setString(0, title)
 				.setInt(1, year);
-
 		ResultSet resultSet = session.execute(bound);
 		Row row = resultSet.one();
-		Movie movie = null;
-
-		if (row != null)
-		{
-			String rTitle = row.getString(TITLE);
-			int rYear = row.getInt(YEAR);
-			List<String> directedBy = row.getList(DIRECTED_BY, String.class);
-			List<String> genres = row.getList(GENRES, String.class);
-
-			List<UDTValue> cast = row.getList(CAST, UDTValue.class);
-			List<Actor> actors = new ArrayList<>();
-
-			for (UDTValue actorUDT : cast)
-			{
-				String actorFirstName = actorUDT.getString(ACTOR_FIRST_NAME);
-				String actorLastName = actorUDT.getString(ACTOR_LAST_NAME);
-				Actor actor = new Actor(actorFirstName, actorLastName);
-				actors.add(actor);
-			}
-
-			ByteBuffer sourceByteBuffer = row.getBytes(SOURCE_BYTES);
-			movie = new Movie(rTitle, rYear, directedBy, genres, actors, sourceByteBuffer.array());
-		}
-
-		return movie;
+		return (row == null) ? null : rowToMovie(row);
 	}
 
 	public List<Movie> searchByGenre(String genre)
 	{
-		return null;
+		String solrQuery = String.format("genres:%s", genre);
+
+		BoundStatement bound = searchMoviePrep.bind()
+				.setString(0, solrQuery);
+		ResultSet resultSet = session.execute(bound);
+
+		List<Movie> movies = new ArrayList<>();
+		List<Row> rows = resultSet.all();
+
+		for (Row row : rows)
+		{
+			Movie movie = rowToMovie(row);
+			movies.add(movie);
+		}
+
+		return movies;
+	}
+
+	private Movie rowToMovie(Row row)
+	{
+		String rTitle = row.getString(TITLE);
+		int rYear = row.getInt(YEAR);
+		List<String> directedBy = row.getList(DIRECTED_BY, String.class);
+		List<String> genres = row.getList(GENRES, String.class);
+
+		List<UDTValue> cast = row.getList(CAST, UDTValue.class);
+		List<Actor> actors = new ArrayList<>();
+
+		for (UDTValue actorUDT : cast)
+		{
+			String actorFirstName = actorUDT.getString(ACTOR_FIRST_NAME);
+			String actorLastName = actorUDT.getString(ACTOR_LAST_NAME);
+			Actor actor = new Actor(actorFirstName, actorLastName);
+			actors.add(actor);
+		}
+
+		ByteBuffer sourceByteBuffer = row.getBytes(SOURCE_BYTES);
+		return new Movie(rTitle, rYear, directedBy, genres, actors, sourceByteBuffer.array());
 	}
 
 //
@@ -193,6 +209,7 @@ public class MovieDao
 
 		insertMoviePrep = session.prepare(INSERT_MOVIE);
 		selectMoviePrep = session.prepare(SELECT_MOVIE);
+		searchMoviePrep = session.prepare(SEARCH_MOVIE);
 
 		actorUDT = session.getCluster().getMetadata().getKeyspace(KEYSPACE).getUserType(ACTOR_UDT);
 	}

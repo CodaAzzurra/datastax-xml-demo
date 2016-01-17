@@ -34,6 +34,10 @@ To bulk load the database with sample data, run:
 
 	mvn clean compile exec:java -Dexec.mainClass="com.datastax.demo.xml.sampledata.BulkDataLoader" -DcontactPoints=localhost
 
+### Web Service & Streaming Updates
+
+Coming soon...
+
 ## Web Services
 
 ### Launch the Web Server
@@ -44,46 +48,16 @@ To start the web server, in another terminal run:
 
 ### Query Via the Web API
 
-To retrieve a specific movie, use the following rest command
+To retrieve a specific movie, use the following REST command:
 
 	http://localhost:8080/datastax-xml-demo/rest/movie/{title}/{year}
 	
 	Example: http://localhost:8080/datastax-xml-demo/rest/movie/Network/1976
 	
+To search by genre, use the following REST command:
+
+	http://localhost:8080/datastax-xml-demo/rest/search/genre/{genre}
+	
+	Example: http://localhost:8080/datastax-xml-demo/rest/search/genre/drama
+	
 [niagara]: http://research.cs.wisc.edu/niagara/data.html "Niagara XML movie data"
-
-
-
-
-
-	
-To find all movements of a vehicle use http://localhost:8080/datastax-taxi-app/rest/getmovements/{vehicle}/{date} e.g.
-
-	http://localhost:8080/datastax-taxi-app/rest/getmovements/1/20160112
-
-Or
-
-	select * from vehicle where vehicle = '1' and day='20160112';
-
-To find all vehicle movement, use the rest command http://localhost:8080/datastax-taxi-app/rest/getvehicles/{tile} e.g.
-
-	http://localhost:8080/datastax-taxi-app/rest/getvehicles/gcrf
-
-or 
-
-	CQL - select * from current_location where solr_query = '{"q": "tile1:gcrf"}' limit 1000;
-
-
-To find all vehicles within a certain distance of a latitude and longitude, http://localhost:8080/datastax-taxi-app/rest/search/{lat}/{long}/{distance}
-
-	http://localhost:8080/datastax-taxi-app/rest/search/52.53956077140064/-0.20225833920426117/5
-	
-Or
-
-	select * from current_location where solr_query = '{"q": "*:*", "fq": "{!geofilt sfield=lat_long pt=52.53956077140064,-0.20225833920426117 d=5}"}' limit 1000;
- 	
-To remove the tables and the schema, run the following.
-
-    mvn clean compile exec:java -Dexec.mainClass="com.datastax.demo.SchemaTeardown"
-    
-    

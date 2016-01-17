@@ -33,7 +33,6 @@ public class MovieWebService
 	public Response getMovie(@PathParam("title") String title, @PathParam("year") String yearStr)
 	{
 		logger.info(String.format("getMovie/%s/%s", title, yearStr));
-
 		int year = Integer.parseInt(yearStr);
 		Movie movie = dao.selectMovie(title, year);
 		return Response.status(201).entity(movie).build();
@@ -45,7 +44,6 @@ public class MovieWebService
 	public Response searchGenre(@PathParam("genre") String genre)
 	{
 		logger.info(String.format("/search/genre/%s", genre));
-
 		List<Movie> movies = dao.searchByGenre(genre);
 		return Response.status(201).entity(movies).build();
 	}
