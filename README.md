@@ -20,7 +20,7 @@ To remove the schema, run:
 
 TODO To create the solr core, run:
 
-	dsetool create_core datastax_taxi_app.current_location reindex=true coreOptions=src/main/resources/solr/rt.yaml schema=src/main/resources/solr/geo.xml solrconfig=src/main/resources/solr/solrconfig.xml
+	dsetool create_core datastax_xml_demo.movies reindex=true coreOptions=solr/rt.yaml schema=solr/movies_schema.xml solrconfig=solr/movies_solrconfig.xml
 
 ### Sample Data
 
