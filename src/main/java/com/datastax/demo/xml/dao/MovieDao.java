@@ -104,6 +104,46 @@ public class MovieDao
 		return (row == null) ? null : rowToMovie(row);
 	}
 
+	public List<Movie> searchByTitle(String title)
+	{
+		String solrQuery = String.format("title:%s", title);
+
+		BoundStatement bound = searchMoviePrep.bind()
+				.setString(0, solrQuery);
+		ResultSet resultSet = session.execute(bound);
+
+		List<Movie> movies = new ArrayList<>();
+		List<Row> rows = resultSet.all();
+
+		for (Row row : rows)
+		{
+			Movie movie = rowToMovie(row);
+			movies.add(movie);
+		}
+
+		return movies;
+	}
+
+	public List<Movie> searchByYear(int year)
+	{
+		String solrQuery = String.format("year:%d", year);
+
+		BoundStatement bound = searchMoviePrep.bind()
+				.setString(0, solrQuery);
+		ResultSet resultSet = session.execute(bound);
+
+		List<Movie> movies = new ArrayList<>();
+		List<Row> rows = resultSet.all();
+
+		for (Row row : rows)
+		{
+			Movie movie = rowToMovie(row);
+			movies.add(movie);
+		}
+
+		return movies;
+	}
+
 	public List<Movie> searchByGenre(String genre)
 	{
 		String solrQuery = String.format("genres:%s", genre);
@@ -165,59 +205,6 @@ public class MovieDao
 		ByteBuffer sourceByteBuffer = row.getBytes(SOURCE_BYTES);
 		return new Movie(rTitle, rYear, directedBy, genres, actors, sourceByteBuffer.array());
 	}
-
-//
-//	public List<Vehicle> searchVehiclesByLonLatAndDistance(int distance, LatLong latLong)
-//	{
-//
-//		String cql = "select * from " + currentLocationTable
-//				+ " where solr_query = '{\"q\": \"*:*\", \"fq\": \"{!geofilt sfield=lat_long pt="
-//				+ latLong.getLat() + "," + latLong.getLon() + " d=" + distance + "}\"}'  limit 1000";
-//		ResultSet resultSet = session.execute(cql);
-//
-//		List<Vehicle> vehicleMovements = new ArrayList<Vehicle>();
-//		List<Row> all = resultSet.all();
-//
-//		for (Row row : all)
-//		{
-//			Date date = row.getTimestamp("date");
-//			String vehicleId = row.getString("vehicle");
-//			String lat_long = row.getString("lat_long");
-//			String tile = row.getString("tile2");
-//			Double lat = Double.parseDouble(lat_long.substring(0, lat_long.lastIndexOf(",")));
-//			Double lng = Double.parseDouble(lat_long.substring(lat_long.lastIndexOf(",") + 1));
-//
-//			Vehicle vehicle = new Vehicle(vehicleId, date, new LatLong(lat, lng), tile, "");
-//			vehicleMovements.add(vehicle);
-//		}
-//
-//		return vehicleMovements;
-//	}
-//
-//	public List<Vehicle> getVehiclesByTile(String tile)
-//	{
-//		String cql = "select * from " + currentLocationTable + " where solr_query = '{\"q\": \"tile1: " + tile + "\"}' limit 1000";
-//		ResultSet resultSet = session.execute(cql);
-//
-//		List<Vehicle> vehicleMovements = new ArrayList<Vehicle>();
-//		List<Row> all = resultSet.all();
-//
-//		for (Row row : all)
-//		{
-//			Date date = row.getTimestamp("date");
-//			String vehicleId = row.getString("vehicle");
-//			String lat_long = row.getString("lat_long");
-//			String tile1 = row.getString("tile1");
-//			String tile2 = row.getString("tile2");
-//			Double lat = Double.parseDouble(lat_long.substring(0, lat_long.lastIndexOf(",")));
-//			Double lng = Double.parseDouble(lat_long.substring(lat_long.lastIndexOf(",") + 1));
-//
-//			Vehicle vehicle = new Vehicle(vehicleId, date, new LatLong(lat, lng), tile1, tile2);
-//			vehicleMovements.add(vehicle);
-//		}
-//
-//		return vehicleMovements;
-//	}
 
 	private void prepareDao(String[] contactPoints)
 	{

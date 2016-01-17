@@ -53,6 +53,18 @@ To retrieve a specific movie, use the following REST command:
 	http://localhost:8080/datastax-xml-demo/rest/movie/{title}/{year}
 	
 	Example: http://localhost:8080/datastax-xml-demo/rest/movie/Network/1976
+
+To search by title, use the following REST command:
+
+	http://localhost:8080/datastax-xml-demo/rest/search/title/{title}
+	
+	Example: http://localhost:8080/datastax-xml-demo/rest/search/title/Strangelove
+
+To search by year, use the following REST command:
+
+	http://localhost:8080/datastax-xml-demo/rest/search/year/{year}
+	
+	Example: http://localhost:8080/datastax-xml-demo/rest/search/year/1981
 	
 To search by genre, use the following REST command:
 
