@@ -1,6 +1,5 @@
 package com.datastax.demo.xml.sampledata;
 
-import com.datastax.demo.utils.XmlUtils;
 import com.datastax.demo.xml.model.Actor;
 import com.datastax.demo.xml.model.Movie;
 import org.apache.commons.io.FileUtils;
@@ -16,7 +15,6 @@ import org.xml.sax.SAXException;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.transform.TransformerException;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -78,15 +76,6 @@ public class XmlMovieFileParser
 			inputSource.setEncoding(ENCODING);
 			Document document = builder.parse(inputSource);
 
-			try
-			{
-				logger.debug(XmlUtils.nodeToString(document));
-			}
-			catch (TransformerException te)
-			{
-				logger.debug("Unable to debug XML document.", te);
-			}
-
 			Element rootElement = document.getDocumentElement();
 
 			if (!W4F_DOC.equalsIgnoreCase(rootElement.getTagName()))
@@ -108,26 +97,26 @@ public class XmlMovieFileParser
 
 	private Movie parseMovieElement(Element movieElement, byte[] sourceBytes)
 	{
-		String title = null;
-		Integer year = null;
-		List<String> directedBy = null;
-		List<String> genres = null;
-		List<Actor> cast = null;
+		String title;
+		Integer year;
+		List<String> directedBy;
+		List<String> genres;
+		List<Actor> cast;
 
 		Element titleElement = getFirstChildElementByTagName(movieElement, TITLE);
 		title = titleElement.getTextContent();
 
 		Element yearElement = getFirstChildElementByTagName(movieElement, YEAR);
-		year = Integer.parseInt(yearElement.getTextContent());
+		year = (yearElement == null) ? null : Integer.parseInt(yearElement.getTextContent());
 
 		Element directedByElement = getFirstChildElementByTagName(movieElement, DIRECTED_BY);
-		directedBy = parseDirectedByElement(directedByElement);
+		directedBy = (directedByElement == null) ? null : parseDirectedByElement(directedByElement);
 
 		Element genresElement = getFirstChildElementByTagName(movieElement, GENRES);
-		genres = parseGenresElement(genresElement);
+		genres = (genresElement == null) ? null : parseGenresElement(genresElement);
 
 		Element castElement = getFirstChildElementByTagName(movieElement, CAST);
-		cast = parseCastElement(castElement);
+		cast = (castElement == null) ? null : parseCastElement(castElement);
 
 		return new Movie(title, year, directedBy, genres, cast, sourceBytes);
 	}

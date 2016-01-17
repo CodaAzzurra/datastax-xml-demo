@@ -13,6 +13,7 @@ import org.slf4j.LoggerFactory;
 import java.nio.ByteBuffer;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 
 public class MovieDao
@@ -59,24 +60,33 @@ public class MovieDao
 
 	public ResultSetFuture insertMovieAsync(Movie movie)
 	{
-		BoundStatement bound = insertMoviePrep.bind()
-				.setString(TITLE, movie.getTitle())
-				.setInt(YEAR, movie.getYear())
-				.setList(DIRECTED_BY, movie.getDirectedBy())
-				.setList(GENRES, movie.getGenres());
+		List<UDTValue> actorUdtValues = null;
+		List<Actor> actors = movie.getCast();
 
-		List<UDTValue> actorUdtValues = new ArrayList<>();
-
-		for (Actor actor : movie.getCast())
+		if (actors != null)
 		{
-			UDTValue actorUdtValue = actorUDT.newValue()
-					.setString(ACTOR_FIRST_NAME, actor.getFirstName())
-					.setString(ACTOR_LAST_NAME, actor.getLastName());
-			actorUdtValues.add(actorUdtValue);
+			actorUdtValues = new ArrayList<>();
+
+			for (Actor actor : movie.getCast())
+			{
+				UDTValue actorUdtValue = actorUDT.newValue()
+						.setString(ACTOR_FIRST_NAME, actor.getFirstName())
+						.setString(ACTOR_LAST_NAME, actor.getLastName());
+				actorUdtValues.add(actorUdtValue);
+			}
 		}
 
-		bound.setList(CAST, actorUdtValues);
-		bound.setBytes(SOURCE_BYTES, ByteBuffer.wrap(movie.getSourceBytes()));
+		Integer yearInteger = movie.getYear();
+		int year = (yearInteger == null) ? 0 : yearInteger.intValue();
+
+		BoundStatement bound = insertMoviePrep.bind()
+				.setString(TITLE, movie.getTitle())
+				.setInt(YEAR, year)
+				.setList(DIRECTED_BY, movie.getDirectedBy())
+				.setList(GENRES, movie.getGenres())
+				.setList(CAST, actorUdtValues)
+				.setBytes(SOURCE_BYTES, ByteBuffer.wrap(movie.getSourceBytes()));
+
 		return session.executeAsync(bound);
 	}
 
