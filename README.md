@@ -60,4 +60,10 @@ To search by genre, use the following REST command:
 	
 	Example: http://localhost:8080/datastax-xml-demo/rest/search/genre/drama
 	
+To search by director, use the following REST command:
+
+	http://localhost:8080/datastax-xml-demo/rest/search/director/{director}
+	
+	Example: http://localhost:8080/datastax-xml-demo/rest/search/director/%22James%20Cameron%22
+	
 [niagara]: http://research.cs.wisc.edu/niagara/data.html "Niagara XML movie data"
