@@ -186,7 +186,8 @@ public class MovieDao
 
 	public List<Movie> searchByActor(String actor)
 	{
-		String solrQuery = String.format("actor:%s", actor);
+		String solrQuery = String.format("cast_full_name:%s", actor);
+		logger.debug(String.format("Searching by actor with solr_query: %s", solrQuery));
 
 		BoundStatement bound = searchMoviePrep.bind()
 				.setString(0, solrQuery);

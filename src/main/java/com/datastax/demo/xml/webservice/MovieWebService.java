@@ -80,7 +80,7 @@ public class MovieWebService
 	}
 
 	@GET
-	@Path("/search/director/{actor}")
+	@Path("/search/actor/{actor}")
 	@Produces(MediaType.APPLICATION_JSON)
 	public Response searchByActor(@PathParam("actor") String actor)
 	{

@@ -3,33 +3,41 @@
 
 	<types>
 
-		<fieldType class="org.apache.solr.schema.TextField" name="TextField">
+		<fieldType name="StringField" class="solr.StrField"/>
+
+		<fieldType name="TextField" class="org.apache.solr.schema.TextField">
 			<analyzer>
 				<tokenizer class="solr.StandardTokenizerFactory"/>
 				<filter class="solr.LowerCaseFilterFactory"/>
 			</analyzer>
 		</fieldType>
 
-		<fieldType class="org.apache.solr.schema.BinaryField" name="BinaryField"/>
-		<fieldType class="com.datastax.bdp.search.solr.core.types.TupleField" name="TupleField"/>
-		<fieldType class="org.apache.solr.schema.TrieIntField" name="TrieIntField"/>
+		<fieldType name="BinaryField" class="org.apache.solr.schema.BinaryField"/>
+		<fieldType name="TupleField" class="com.datastax.bdp.search.solr.core.types.TupleField"/>
+		<fieldType name="TrieIntField" class="org.apache.solr.schema.TrieIntField"/>
 
 	</types>
 
 	<fields>
 
-		<field indexed="true" multiValued="false" name="title" stored="true" type="TextField"/>
-		<field indexed="true" multiValued="false" name="year" stored="true" type="TrieIntField"/>
-		<field indexed="true" multiValued="true" name="directed_by" stored="true" type="TextField"/>
-		<field indexed="true" multiValued="true" name="genres" stored="true" type="TextField"/>
+		<field name="title" indexed="true" multiValued="false" stored="true" type="TextField"/>
+		<field name="year" indexed="true" multiValued="false" stored="true" type="TrieIntField"/>
+		<field name="directed_by" indexed="true" multiValued="true" stored="true" type="TextField"/>
+		<field name="genres" indexed="true" multiValued="true" stored="true" type="TextField"/>
 
-		<field indexed="true" multiValued="true" name="cast" stored="true" type="TupleField"/>
-		<field indexed="true" multiValued="false" name="cast.first_name" stored="true" type="TextField"/>
-		<field indexed="true" multiValued="false" name="cast.last_name" stored="true" type="TextField"/>
+		<field name="cast" indexed="true" multiValued="true" stored="true" type="TupleField"/>
+		<field name="cast.first_name" indexed="false" multiValued="false" stored="true" type="StringField"/>
+		<field name="cast.last_name" indexed="false" multiValued="false" stored="true" type="StringField"/>
+		<field name="cast_full_name" indexed="true" multiValued="true" stored="false" type="TextField"/>
 
-		<field indexed="false" multiValued="false" name="source_bytes" stored="false" type="BinaryField"/>
+		<!-- Do not index the source bytes. -->
+		<field name="source_bytes" indexed="false" multiValued="false" stored="false" type="BinaryField"/>
 
 	</fields>
+
+	<!-- Copy the first_name and last_name fields into the full_name field for indexing. -->
+	<copyField source="cast.first_name" dest="cast_full_name" />
+	<copyField source="cast.last_name" dest="cast_full_name" />
 
 	<uniqueKey>(title,year)</uniqueKey>
 
