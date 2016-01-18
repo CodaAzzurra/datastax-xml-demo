@@ -60,6 +60,16 @@ public class MovieWebService
 	}
 
 	@GET
+	@Path("/search/director/{director}")
+	@Produces(MediaType.APPLICATION_JSON)
+	public Response searchByDirector(@PathParam("director") String director)
+	{
+		logger.info(String.format("/search/director/%s", director));
+		List<Movie> movies = dao.searchByDirector(director);
+		return Response.status(201).entity(movies).build();
+	}
+
+	@GET
 	@Path("/search/genre/{genre}")
 	@Produces(MediaType.APPLICATION_JSON)
 	public Response searchByGenre(@PathParam("genre") String genre)
@@ -70,12 +80,12 @@ public class MovieWebService
 	}
 
 	@GET
-	@Path("/search/director/{director}")
+	@Path("/search/director/{actor}")
 	@Produces(MediaType.APPLICATION_JSON)
-	public Response searchByDirector(@PathParam("director") String director)
+	public Response searchByActor(@PathParam("actor") String actor)
 	{
-		logger.info(String.format("/search/director/%s", director));
-		List<Movie> movies = dao.searchByDirector(director);
+		logger.info(String.format("/search/actor/%s", actor));
+		List<Movie> movies = dao.searchByActor(actor);
 		return Response.status(201).entity(movies).build();
 	}
 }

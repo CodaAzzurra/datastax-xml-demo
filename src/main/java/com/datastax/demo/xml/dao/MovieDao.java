@@ -144,6 +144,26 @@ public class MovieDao
 		return movies;
 	}
 
+	public List<Movie> searchByDirector(String director)
+	{
+		String solrQuery = String.format("directed_by:%s", director);
+
+		BoundStatement bound = searchMoviePrep.bind()
+				.setString(0, solrQuery);
+		ResultSet resultSet = session.execute(bound);
+
+		List<Movie> movies = new ArrayList<>();
+		List<Row> rows = resultSet.all();
+
+		for (Row row : rows)
+		{
+			Movie movie = rowToMovie(row);
+			movies.add(movie);
+		}
+
+		return movies;
+	}
+
 	public List<Movie> searchByGenre(String genre)
 	{
 		String solrQuery = String.format("genres:%s", genre);
@@ -164,9 +184,9 @@ public class MovieDao
 		return movies;
 	}
 
-	public List<Movie> searchByDirector(String director)
+	public List<Movie> searchByActor(String actor)
 	{
-		String solrQuery = String.format("directed_by:%s", director);
+		String solrQuery = String.format("actor:%s", actor);
 
 		BoundStatement bound = searchMoviePrep.bind()
 				.setString(0, solrQuery);
