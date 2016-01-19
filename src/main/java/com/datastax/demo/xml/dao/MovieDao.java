@@ -107,94 +107,57 @@ public class MovieDao
 	public List<Movie> searchByTitle(String title)
 	{
 		String solrQuery = String.format("title:%s", title);
-
 		BoundStatement bound = searchMoviePrep.bind()
 				.setString(0, solrQuery);
 		ResultSet resultSet = session.execute(bound);
-
-		List<Movie> movies = new ArrayList<>();
 		List<Row> rows = resultSet.all();
-
-		for (Row row : rows)
-		{
-			Movie movie = rowToMovie(row);
-			movies.add(movie);
-		}
-
-		return movies;
+		return rowsToMovie(rows);
 	}
 
 	public List<Movie> searchByYear(int year)
 	{
 		String solrQuery = String.format("year:%d", year);
-
 		BoundStatement bound = searchMoviePrep.bind()
 				.setString(0, solrQuery);
 		ResultSet resultSet = session.execute(bound);
-
-		List<Movie> movies = new ArrayList<>();
 		List<Row> rows = resultSet.all();
-
-		for (Row row : rows)
-		{
-			Movie movie = rowToMovie(row);
-			movies.add(movie);
-		}
-
-		return movies;
+		return rowsToMovie(rows);
 	}
 
 	public List<Movie> searchByDirector(String director)
 	{
 		String solrQuery = String.format("directed_by:%s", director);
-
 		BoundStatement bound = searchMoviePrep.bind()
 				.setString(0, solrQuery);
 		ResultSet resultSet = session.execute(bound);
-
-		List<Movie> movies = new ArrayList<>();
 		List<Row> rows = resultSet.all();
-
-		for (Row row : rows)
-		{
-			Movie movie = rowToMovie(row);
-			movies.add(movie);
-		}
-
-		return movies;
+		return rowsToMovie(rows);
 	}
 
 	public List<Movie> searchByGenre(String genre)
 	{
 		String solrQuery = String.format("genres:%s", genre);
-
 		BoundStatement bound = searchMoviePrep.bind()
 				.setString(0, solrQuery);
 		ResultSet resultSet = session.execute(bound);
-
-		List<Movie> movies = new ArrayList<>();
 		List<Row> rows = resultSet.all();
-
-		for (Row row : rows)
-		{
-			Movie movie = rowToMovie(row);
-			movies.add(movie);
-		}
-
-		return movies;
+		return rowsToMovie(rows);
 	}
 
 	public List<Movie> searchByActor(String actor)
 	{
 		String solrQuery = String.format("({!tuple}cast.first_name:%s OR {!tuple}cast.last_name:%s)", actor, actor);
 		logger.debug(String.format("Searching by actor with solr_query: %s", solrQuery));
-
 		BoundStatement bound = searchMoviePrep.bind()
 				.setString(0, solrQuery);
 		ResultSet resultSet = session.execute(bound);
-
-		List<Movie> movies = new ArrayList<>();
 		List<Row> rows = resultSet.all();
+		return rowsToMovie(rows);
+	}
+
+	private List<Movie> rowsToMovie(List<Row> rows)
+	{
+		List<Movie> movies = new ArrayList<>();
 
 		for (Row row : rows)
 		{
