@@ -1,6 +1,10 @@
 # DataStax XML Demo
 
-This application demonstrates how to store searchable XML documents in DataStax Enterprise.
+**This application demonstrates how to store searchable XML documents in DataStax Enterprise.**
+
+Disclaimer: this is merely an educational demonstration. It is not intended for production. For brevity and clarity I have made no attempt at security; I have not defended against bad inputs; I have not profiled and optimized. In other words, please see the [LICENSE][license] and use at your own risk.
+
+On the other hand, I hope this will show one way to store, index, and search XML documents in DataStax Enterprise. Please write me with your thoughts and questions.
 
 ## Configure the Cluster
 
@@ -95,4 +99,9 @@ To **search by actor**, use the following REST command:
 	Example:
 	http://localhost:8080/datastax-xml-demo/rest/search/actor/Eastwood
 
+## Technical Notes
+
+Coming soon...
+
+[license]: LICENSE "License"
 [niagara]: http://research.cs.wisc.edu/niagara/data.html "Niagara XML movie data"
