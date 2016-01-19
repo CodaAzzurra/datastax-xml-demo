@@ -88,11 +88,11 @@ To **search by genre**, use the following REST command:
 	http://localhost:8080/datastax-xml-demo/rest/search/genre/drama
   
   
-Coming soon:
 To **search by actor**, use the following REST command:
 
 	http://localhost:8080/datastax-xml-demo/rest/search/actor/{actor}
 	
 	Example:
 	http://localhost:8080/datastax-xml-demo/rest/search/actor/Eastwood
+
 [niagara]: http://research.cs.wisc.edu/niagara/data.html "Niagara XML movie data"

@@ -48,7 +48,6 @@ public class XmlMovieFileParser
 
 	public Movie parseMovieFile(File movieFile) throws ParserConfigurationException, IOException, SAXException
 	{
-		logger.debug(String.format("Reading movie file: %s", movieFile));
 		byte[] sourceBytes = FileUtils.readFileToByteArray(movieFile);
 		Movie movie;
 

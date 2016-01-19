@@ -3,7 +3,7 @@
 
 	<types>
 
-		<fieldType name="StringField" class="solr.StrField"/>
+		<!--<fieldType name="StrField" class="org.apache.solr.schema.StrField"/>-->
 
 		<fieldType name="TextField" class="org.apache.solr.schema.TextField">
 			<analyzer>
@@ -26,9 +26,9 @@
 		<field name="genres" indexed="true" multiValued="true" stored="true" type="TextField"/>
 
 		<field name="cast" indexed="true" multiValued="true" stored="true" type="TupleField"/>
-		<field name="cast.first_name" indexed="false" multiValued="false" stored="true" type="StringField"/>
-		<field name="cast.last_name" indexed="false" multiValued="false" stored="true" type="StringField"/>
-		<field name="cast_full_name" indexed="true" multiValued="true" stored="false" type="TextField"/>
+		<field name="cast.first_name" indexed="true" multiValued="false" stored="true" type="TextField"/>
+		<field name="cast.last_name" indexed="true" multiValued="false" stored="true" type="TextField"/>
+		<!--<field name="cast_full_name" indexed="true" multiValued="true" stored="false" type="TextField"/>-->
 
 		<!-- Do not index the source bytes. -->
 		<field name="source_bytes" indexed="false" multiValued="false" stored="false" type="BinaryField"/>
@@ -36,8 +36,8 @@
 	</fields>
 
 	<!-- Copy the first_name and last_name fields into the full_name field for indexing. -->
-	<copyField source="cast.first_name" dest="cast_full_name" />
-	<copyField source="cast.last_name" dest="cast_full_name" />
+	<!--<copyField source="cast.first_name" dest="cast_full_name" />-->
+	<!--<copyField source="cast.last_name" dest="cast_full_name" />-->
 
 	<uniqueKey>(title,year)</uniqueKey>
 

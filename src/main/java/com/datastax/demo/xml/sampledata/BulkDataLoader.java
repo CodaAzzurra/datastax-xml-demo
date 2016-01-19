@@ -48,7 +48,7 @@ public class BulkDataLoader
 
 						if (movie != null)
 						{
-							logger.debug(String.format("Inserting movie: %s", movie));
+							logger.debug(String.format("Inserting Movie: %s", movie));
 							dao.insertMovieAsync(movie);
 						}
 					}
