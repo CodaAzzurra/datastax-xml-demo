@@ -4,13 +4,15 @@
 
 Disclaimer: this is merely an educational demonstration. It is not intended for production. For brevity and clarity I have made no attempt at security; I have not defended against bad inputs; I have not profiled and optimized. In other words, please see the [LICENSE][license] and use at your own risk.
 
-On the other hand, I hope this will show one way to store, index, and search XML documents in DataStax Enterprise. Please write me with your thoughts and questions.
+On the other hand, I hope this will show one way to store, index, and search XML documents in DataStax Enterprise. Check out the [Technical Notes][wiki-technical] wiki page for a discussion on the design and implementation choices. Please write me with your thoughts and questions.
 
 ## Configure the Cluster
 
+Please see the [Prepare the Cluster][wiki-preparecluster] wiki for information on setting up a DataStax Enterprise cluster. Note that I developed and tested this project against [DataStax Enterprise 4.8.4][dse484], though it will likely run well on other versions.
+
 #### Contact Points
 
-To specify contact points use the `contactPoints` command line parameter. The value may contact multiple IPs in the format `IP,IP,IP`, without spaces. `-DcontactPoints=192.168.25.100,192.168.25.101`.
+To specify contact points, use the `contactPoints` command line parameter. The value may contact multiple IPs in the format `IP,IP,IP`, without spaces. For example: `-DcontactPoints=192.168.25.100,192.168.25.101`.
 
 #### Schema
 
@@ -99,9 +101,8 @@ To **search by actor**, use the following REST command:
 	Example:
 	http://localhost:8080/datastax-xml-demo/rest/search/actor/Eastwood
 
-## Technical Notes
-
-Coming soon...
-
+[dse484]: http://docs.datastax.com/en/datastax_enterprise/4.8/datastax_enterprise/RNdse.html?scroll=relnotes48__484 "DataStax Enterprise 4.8.4"
 [license]: LICENSE "License"
 [niagara]: http://research.cs.wisc.edu/niagara/data.html "Niagara XML movie data"
+[wiki-preparecluster]: https://github.com/DC4DS/datastax-xml-demo/wiki/Prepare-the-Cluster "Prepare the Cluster"
+[wiki-technical]: https://github.com/DC4DS/datastax-xml-demo/wiki/Technical-Notes "Technical Notes"
