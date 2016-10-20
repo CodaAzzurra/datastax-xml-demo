@@ -21,7 +21,7 @@
 	<fields>
 
 		<field name="title" indexed="true" multiValued="false" stored="true" type="StrField"/>
-		<field name="title_tokens" indexed="true" multiValued="false" stored="true" type="TextField"/>
+		<field name="title_tokens" indexed="true" multiValued="false" stored="false" type="TextField"/>
 		<field name="year" indexed="true" multiValued="false" stored="true" type="TrieIntField"/>
 		<field name="directed_by" indexed="true" multiValued="true" stored="true" type="TextField"/>
 		<field name="genres" indexed="true" multiValued="true" stored="true" type="TextField"/>
