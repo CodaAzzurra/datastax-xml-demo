@@ -29,8 +29,8 @@
 		<field name="genres" indexed="true" multiValued="true" stored="true" type="TextField"/>
 
 		<field name="cast" indexed="true" multiValued="true" stored="true" type="TupleField"/>
-		<field name="cast.first_name" indexed="true" multiValued="false" stored="true" type="TextField"/>
-		<field name="cast.last_name" indexed="true" multiValued="false" stored="true" type="TextField"/>
+		<field name="cast.first_name" indexed="true" multiValued="false" stored="false" type="TextField"/>
+		<field name="cast.last_name" indexed="true" multiValued="false" stored="false" type="TextField"/>
 		<field name="cast_full_name" indexed="true" multiValued="true" stored="true" type="TextField"/>
 
 		<!-- Do not index the source bytes. -->
