@@ -26,9 +26,9 @@ To remove the schema, run:
 
 #### Solr Core
 
-To create the solr core, run:
+To create the Solr core, run:
 
-	dsetool create_core datastax_xml_demo.movies reindex=true coreOptions=solr/rt.yaml schema=solr/movies_schema.xml solrconfig=solr/movies_solrconfig.xml
+	dsetool create_core datastax_xml_demo.movies schema=solr/movies_schema.xml solrconfig=solr/movies_solrconfig.xml
 
 ## Populate Sample Data
 
