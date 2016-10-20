@@ -106,7 +106,7 @@ public class MovieDao
 
 	public List<Movie> searchByTitle(String title)
 	{
-		String solrQuery = String.format("title:%s", title);
+		String solrQuery = String.format("title_tokens:%s", title);
 		BoundStatement bound = searchMoviePrep.bind()
 				.setString(0, solrQuery);
 		ResultSet resultSet = session.execute(bound);
