@@ -20,8 +20,10 @@
 
 	<fields>
 
+		<!-- Store the title, but do not store the tokenized title to avoid duplication. -->
 		<field name="title" indexed="true" multiValued="false" stored="true" type="StrField"/>
 		<field name="title_tokens" indexed="true" multiValued="false" stored="false" type="TextField"/>
+
 		<field name="year" indexed="true" multiValued="false" stored="true" type="TrieIntField"/>
 		<field name="directed_by" indexed="true" multiValued="true" stored="true" type="TextField"/>
 		<field name="genres" indexed="true" multiValued="true" stored="true" type="TextField"/>
@@ -29,18 +31,19 @@
 		<field name="cast" indexed="true" multiValued="true" stored="true" type="TupleField"/>
 		<field name="cast.first_name" indexed="true" multiValued="false" stored="true" type="TextField"/>
 		<field name="cast.last_name" indexed="true" multiValued="false" stored="true" type="TextField"/>
-		<!--<field name="cast_full_name" indexed="true" multiValued="true" stored="false" type="TextField"/>-->
+		<field name="cast_full_name" indexed="true" multiValued="true" stored="true" type="TextField"/>
 
 		<!-- Do not index the source bytes. -->
 		<field name="source_bytes" indexed="false" multiValued="false" stored="false" type="BinaryField"/>
 
 	</fields>
 
+	<!-- Copy the title for tokenization. Tokenized fields cannot be part of the uniqueKey. -->
 	<copyField source="title" dest="title_tokens" />
 
 	<!-- Copy the first_name and last_name fields into the full_name field for indexing. -->
-	<!--<copyField source="cast.first_name" dest="cast_full_name" />-->
-	<!--<copyField source="cast.last_name" dest="cast_full_name" />-->
+	<copyField source="cast.first_name" dest="cast_full_name" />
+	<copyField source="cast.last_name" dest="cast_full_name" />
 
 	<uniqueKey>(title,year)</uniqueKey>
 
